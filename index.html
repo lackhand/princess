@@ -5,7 +5,7 @@ section: ""
 ---
 <h1><a href=".">{{ page.title }}</a></h1>
 
-{% assign sorted = site.pages | where: 'section' | sort: 'section' %}
+{% assign sorted = site.pages | where_exp: 'item', 'item.section' | sort: 'section' %}
 
 <div class="toc"><ul>
 	{% for page2 in sorted %}
