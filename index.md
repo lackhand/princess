@@ -12,12 +12,12 @@ section: ""
 	{% for page2 in sorted %}
 
 	{% assign hLevel = page2.section | split: "." | size | minus: 1 | at_least: 1 %}
-	{% assign hs = ""}
+	{% assign hs = "*"}
 	{% for i in (2..hLevel) %}
-		{% assign hs = hs | append: "  " %}
+		{% capture hs %}  {{hs}}{% endcapture %}
 	{% endfor %}
 
-	{{hs}}* {{page2.title}}](#{{ page2.url | slugify}})
+	{{hs}} [{{page2.title}}](#{{ page2.url | slugify}})
 	{% endfor %}
 </details>
 
@@ -25,12 +25,12 @@ section: ""
 {% if page2.url != page.url %}
 
 {% assign hLevel = page2.section | split: "." | size | minus: 1 | at_least: 1 %}
-{% assign hs = ""}
+{% assign hs = "#"}
 {% for i in (1..hLevel) %}
-	{% assign hs = hs | append: "#" %}
+	{% capture hs %}#{{hs}}{% endcapture %}
 {% endfor %}
 
-{{hs}}# {{page2.title}} {#{{ page2.url | slugify }}}
+{{hs}} {{page2.title}} {#{{ page2.url | slugify }}}
 
 {{page2.content}}
 
