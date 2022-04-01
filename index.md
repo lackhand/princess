@@ -15,7 +15,7 @@ section: ""
 	{%- for i in (2..hLevel) -%}
 		{% capture hs %}  {{hs}}{% endcapture %}
 	{%- endfor -%}
-	{%- capture hs %}{{ hs }}* [{{ page2.title }}](#{{ page2.url | slugify}}){% endcapture -%}
+	{%- capture hs -%}{{ hs }}* [{{ page2.title }}](#{{ page2.url | slugify}}){%- endcapture -%}
 	{{ hs | markdownify | liquify}}
 	{%- endfor -%}
 </details>
@@ -40,7 +40,7 @@ section: ""
 	<summary>Raw documents & debug</summary>
 
 	{%- for page2 in sorted -%}
-	{%- capture hs %}* [{{page2.section}}: {{page2.title}}]({{ page2.url | absolute_url }}){% endcapture -%}
+	{%- capture hs -%}* [{{page2.section}}: {{page2.title}}]({{ page2.url | absolute_url }}){%- endcapture -%}
 	{{ hs | markdownify | liquify }}
 	{%- endfor -%}
 
