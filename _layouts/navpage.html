@@ -3,7 +3,7 @@ layout: default
 ---
 <details><summary>Other Pages in {{ site.pages }}</summary>
 <div class="TOC">
-	{% assign sorted = site.pages | where: 'section' | sort: 'section' %}
+	{% assign sorted = site.pages | where_exp: 'item', 'item.section' | sort: 'section' %}
 
 	<ul>
 		{% for page2 in sorted %}
