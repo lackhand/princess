@@ -9,10 +9,14 @@ layout: default
 		{% assign section = page.section | default: 'pagenonesuch' %}
 		<ul>
 			{% for page2 in sorted %}
-				{% assign isCurrentPage = ( section == page2.section ) %}
+				{% if section == page2.section %}
+					{% capture currentPageStyle %}style="font-weight: bold;"{% endcapture %}
+				{% else %}
+					{% capture currentPageStyle %}{% endcapture %}
+				{% endif %}
 				<li><a href="{{ page2.url | absolute_url }}"
 						title="{{ page2.section }}: {{ page2.title }}"
-						{% if isCurrentPage %} style="font-weight: bold;" {% endif %} >
+						{{currentPageStyle}} >
 					{{ page2.section }} : {{ page2.title }}
 				</a></li>
 			{% endfor %}
