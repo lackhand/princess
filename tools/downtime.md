@@ -37,8 +37,11 @@ Princesses make things happen in the world through Projects.
 Usually, each princess gets 2 downtime actions to spend on her projects.
 A princess can take an additional action by spending 2 favor, or add 1d to an action by spending 1 favor.
 
-Work : The princess spends time on a project. The number of ticks is determined by an effect roll.
+Work
+: The princess spends time on a project. The number of ticks is determined by an effect roll.
 {:.dtable}
+
+
 
 This could be some public agenda, a personal project, etc! For instance:
 

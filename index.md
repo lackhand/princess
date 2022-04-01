@@ -6,7 +6,7 @@ section: ""
 # {{ page.title }} {#root}
 {% assign sorted = site.pages | where_exp: 'item', 'item.section' | sort: 'section' %}
 
-<details>
+<details open>
 	<summary>Table of contents</summary>
 
 	{% for page2 in sorted %}
