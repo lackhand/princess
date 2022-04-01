@@ -21,9 +21,7 @@ Something where one brave word breaks the night and, in the name of the moon, tr
 <details>
   <summary>Design Goals!</summary>
 
-(apologies in advance: the technology with which I've created this page handles nested html/markdown poorly,
-and this section wasn't important enough for me to repair it)
-
+{%- capture md -%}
 ## Design Goals
 
 Or: why should you play this game instead of some other game.
@@ -43,6 +41,9 @@ But here are some things that this game tries to do which you might enjoy:
   Short core rules. No spreadsheets. Few traps (sorry).
   Characters should come alive through play.
   Use your words.
+{%- endcapture -%}
+
+{{ md | markdownify | liquify}}
 
 </details>
 

@@ -8,7 +8,8 @@ section: ""
 
 <details open>
 	<summary>Table of contents</summary>
-{%- capture toc -%}
+
+{% capture toc -%}
 	{%- for page2 in sorted -%}
 	{%- assign hLevel = page2.section | split: "." | size | minus: 1 | at_least: 1 -%}
 	{%- assign hs = "" -%}
@@ -16,7 +17,7 @@ section: ""
 		{%- capture hs %}  {{hs}}{% endcapture -%}
 	{%- endfor -%}
 {{ hs }}* [{{ page2.title }}](#{{ page2.url | slugify}})
-	{%- endfor -%}
+{% endfor -%}
 {%- endcapture -%}
 
 {{ toc | markdownify | liquify}}
@@ -25,7 +26,6 @@ section: ""
 
 {%- for page2 in sorted -%}
 {%- if page2.url != page.url -%}
-
 {%- assign hLevel = page2.section | split: "." | size | minus: 1 | at_least: 1 -%}
 {%- assign hs = "" -%}
 {%- for i in (2..hLevel) -%}
@@ -42,10 +42,12 @@ section: ""
 <details>
 	<summary>Raw documents & debug</summary>
 
-{%- capture toc -%}
+{% capture toc -%}
 	{%- for page2 in sorted -%}
 * [{{page2.section}}: {{page2.title}}]({{ page2.url | absolute_url }})
-	{%- endfor -%}
+{% endfor -%}
 {%- endcapture -%}
+
 {{ toc | markdownify | liquify }}
+
 </details>
