@@ -36,7 +36,10 @@ section: ""
 				title="{{page2.section}}: {{page2.title}}">{{ page2.title }}</a>
 			</h{{hLevel}}>
 			<div>
-			{{ page2.content | markdownify }}
+			{% comment %}
+			Apparently |markdownify is some weird double-visit thing if it runs here.
+			{% endcomment %}
+			{{ page2.content }}
 			</div>
 		</div>
 	{% endif %}
