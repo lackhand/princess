@@ -18,7 +18,8 @@ Something and where violence resolves things cleanly, and where dreams can real.
 
 Something where one brave word breaks the night and, in the name of the moon, triumphs over evil.
 
-<details><summary>Design Goals!</summary>
+<details>
+  <summary>Design Goals!</summary>
 
 (apologies in advance: the technology with which I've created this page handles nested html/markdown poorly,
 and this section wasn't important enough for me to repair it)
