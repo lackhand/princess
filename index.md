@@ -9,16 +9,15 @@ section: ""
 <details open>
 	<summary>Table of contents</summary>
 
-	{% for page2 in sorted %}
-
-	{% assign hLevel = page2.section | split: "." | size | minus: 1 | at_least: 1 %}
-	{% assign hs = "" %}
-	{% for i in (2..hLevel) %}
+	{%- for page2 in sorted -%}
+	{%- assign hLevel = page2.section | split: "." | size | minus: 1 | at_least: 1 -%}
+	{%- assign hs = "" -%}
+	{%- for i in (2..hLevel) -%}
 		{% capture hs %}  {{hs}}{% endcapture %}
-	{% endfor %}
+	{%- endfor -%}
 {{ hs }}* [{{ page2.title }}](#{{ page2.url | slugify}})
 
-	{% endfor %}
+	{%- endfor -%}
 </details>
 
 {% for page2 in sorted %}
@@ -40,8 +39,9 @@ section: ""
 <details>
 	<summary>Raw documents & debug</summary>
 
-	{% for page2 in sorted %}
-	* [{{page2.section}}: {{page2.title}}]({{ page2.url | absolute_url }})
-	{% endfor %}
+	{%- for page2 in sorted -%}
+* [{{page2.section}}: {{page2.title}}]({{ page2.url | absolute_url }})
+
+	{%- endfor -%}
 
 </details>
