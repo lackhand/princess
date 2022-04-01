@@ -6,6 +6,12 @@ section: ""
 # {{ page.title }} {#root}
 {% assign sorted = site.pages | where_exp: 'item', 'item.section' | sort: 'section' %}
 
+{%- comment -%}
+Think VERY hard before editing this file.
+The whitespace below, particularly around list elements, is INCREDIBLY significant.
+(this is flagged with the missing `{ % -` sequence on the `endfor`).
+ditto the two level print-then-execute, to ensure each line of <li> is captured in the same <ul>.
+{%- endcomment -%}
 <details open>
 	<summary>Table of contents</summary>
 
