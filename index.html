@@ -1,0 +1,58 @@
+---
+layout: default
+title: "Princess The RPG"
+section: ""
+---
+<h1><a href=".">{{ page.title }}</a></h1>
+
+{% assign sorted = site.pages | where: 'section' | sort: 'section' %}
+
+<div class="toc"><ul>
+	{% for page2 in sorted %}
+	{% if page2.url != page.url %}
+		<li>
+			<a href="#{{ page2.section }}"
+				title="{{page2.section}}: {{page2.title}}">{{ page2.section }}: {{ page2.title }}</a>
+		</li>
+	{% endif %}
+	{% endfor %}
+</ul></div>
+
+<div class="body">
+	{% for page2 in sorted %}
+	{% if page2.url != page.url %}
+	{% assign hLevel = page2.section | split: "." | size | minus: 1 | at_least: 1 %}
+	{% comment %}
+		A "section" like 2 or 0.1 should be an h1; anything else should be h2 (0.1.1, etc).
+		This isn't perfect since they'll still get their own divs etc, so the nesting is detectable in the output.
+		That's still pretty ok IMO.
+
+		The |markdownify below is necessary because otherwise we're at the mercy of generator/render order.
+	{% endcomment %}
+		<div>
+			<h{{hLevel}}>
+			<a id="{{ page2.section }}"
+				href="#{{ page2.section }}"
+				title="{{page2.section}}: {{page2.title}}">{{ page2.title }}</a>
+			</h{{hLevel}}>
+			<div>
+			{{ page2.content | markdownify }}
+			</div>
+		</div>
+	{% endif %}
+	{% endfor %}</ul>
+</div>
+
+<details><summary>Per-section links</summary>
+	<ul>
+		<li><a href="." title="Here: {{page.title}}">Here: {{page.title}}</a>
+	{% for page2 in sorted %}
+	{% if page2.url != page.url %}
+		<li>
+			<a href="{{ page2.url }}"
+				title="{{page2.section}}: {{page2.title}}">{{page2.section}}: {{ page2.title }}</a>
+		</li>
+	{% endif %}
+	{% endfor %}
+	</ul>
+</details>

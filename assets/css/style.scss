@@ -1,0 +1,148 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+@mixin floatBefore {
+  &:before {
+    position: relative;
+    float: left;
+    margin: 0px 10px 10px -5px;
+
+    // Remove font weights
+    font-style: normal;
+    font-weight: normal;
+
+    @content
+  }
+}
+
+@mixin callout($icon) {
+  @extend table, td;
+  p {
+    margin: 0px;
+  }
+  @include floatBefore {
+    font-size: 250%;
+    content: "#{$icon}";
+  }
+}
+
+// These are all free-text quoted sections.
+.aside {   @include callout("✍"); }
+.note {    @include callout("💡"); }  // Hmmm...
+.tip {     @include callout("💡"); }
+.warning { @include callout("⚠️"); }
+.example { @include callout("📜"); }
+
+
+// A table with a first header column
+.tablecol {
+  td:first-of-type {
+    @extend th;
+  }
+}
+
+// A definition-list table (terms descend vertically).
+.dtable {
+  @extend table;
+  display: grid;
+  grid-template-columns: 12em auto;
+  gap: 2px;  // this is table.border-spacing, but we have to explicitly copy it over.
+  > dt {
+    @extend th;
+    text-align: right;
+    grid-column: 1;
+    // padding: 10px;
+  }
+  > dd {
+    @extend td;
+    text-align: left;
+    grid-column: 2;
+    dt {
+      font-weight: normal;
+      font-style: italic;
+    }
+    dd {
+     font-style: normal;
+    }
+  }
+}
+
+.key {
+  @extend .dtable;
+  > dt {
+    @include floatBefore {
+      float: left;
+      font-size: 150%;
+      content: "🗝️";
+    }
+  }
+  > dd {
+    font-style: italic;
+    dd {
+      font-style: normal;
+      &:before { content: "? "; }
+      &:first-of-type:before { content: "🎯 "; }
+      &:last-of-type:before { content: "💔 "; }
+    }
+  }
+}
+
+.secret {
+  @extend .dtable;
+
+  > dt {
+    @include floatBefore {
+      font-size: 150%;
+      content: "🤫";
+    }
+  }
+  > dt.magic {
+    &:before {
+      content: "✨";
+    }  
+  }
+  > dd {
+    font-style: italic;
+    dd {
+      font-style: normal;
+      &:before { content: "🔧 "; }
+    }
+    dd.prereq {
+      &:before { content: "🥇 "; }
+    }
+  }
+}
+
+.foe {
+  @extend .dtable;
+
+  > dt {
+    @include floatBefore {
+      font-size: 150%;
+      content: "👹";
+    }
+  }
+  > dd {
+    font-style: italic;
+    // The definition-list for the stats
+    dl {
+      @extend .dtable;
+      font-style: normal;
+      > dt {
+        @include floatBefore { content: "▶"; }
+
+        &:nth-of-type(1) { @include floatBefore { content: "💪"; } }
+        &:nth-of-type(2) { @include floatBefore { content: "🔎"; } }
+      }
+    }
+  }
+}
+
+// It's just *so ugly* to include the ul margin when they nest.
+ul * {
+  margin: 0px;
+}
+
+

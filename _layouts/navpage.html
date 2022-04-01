@@ -1,0 +1,24 @@
+---
+layout: default
+---
+<details><summary>Other Pages in {{ page.collection }}</summary>
+<div class="TOC">
+	{% assign sorted = site[page.collection] | sort: 'section' %}
+
+	<ul>
+		{% for page2 in sorted %}
+			{% assign isCurrentPage = page.section and page2.section and page2.section == page.section %}
+			<li>
+				{% if isCurrentPage %} <em> {% endif %}
+				<a href="{{ page2.url }}"
+					title="{{ page2.section }}: {{ page2.title }}"
+					>{{ page2.section }} : {{ page2.title }}</a>
+				{% if isCurrentPage %} </em> {% endif %}
+			</li>
+		{% endfor %}
+	</ul>
+</div>
+</details>
+
+<h1>{{ page.title }}</h1>
+{{ content }}

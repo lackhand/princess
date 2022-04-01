@@ -1,0 +1,21 @@
+---
+layout: default
+---
+{% capture category_name %}{{ page.category | first }}{% endcapture %}
+{% capture category_slug %}{{ category_name | slugize }}{% endcapture %}
+
+<div>
+<h1><a
+  id="#{{ category_slug }}"
+  href="#{{ category_slug }}">{{ page.title | default: page.category }}</a
+  ></h1>
+  {% for post in site.categories[category_name] %}
+  {% capture post_slug %}{{category_slug}}--{{ post.title | slugize }}{% endcapture %}
+    <article>
+      <h2><a
+        id="{{ post_slug }}"
+        href="#{{ post_slug }}">{{post.title}}</a></h2>
+      <div>{{ post.content | markdownify }}</div>
+    </article>
+  {% endfor %}
+</div>

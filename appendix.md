@@ -1,0 +1,86 @@
+---
+layout: navpage
+title: Princess the RPG > Boneyard
+section: "3.1"
+---
+
+Bits of stray thought, names, plots, etc.
+
+
+> The Burn (VII) is a disembodied evil force that wants to spread itself, inflaming destructive passion in place of every other thought.
+> It's unconscious now, after gorging on Alembic for a thousand thousand years.
+> Queen Theophrasta (V) was its high priestess and is reborn from Hannah Coen; she seeks: 1. to awaken the Burn to consciousness in the modern day, 2. to call and bind the spirits of citizens of Alembic for wisdom and gloating, and 3. to avert the Golden Wish by breaking the knights.
+> She has already burned the hearts of a coven of warlocks and replaced them with astrals, called the Serene Five.
+> Three of them (Tier III: Confesiran, Saleduc and Tramercan) are the mummified warlocks of the Scarlet Circle who resurrected Theophrasta.
+> One of them (Sulefilm) was a Scarlet Circle member. He was lost during the summoning when his mansion burned down.
+> They're now charged with raising, modifying, and empowering the Burned and expanding The Burn, barely able to leave the Dream themselves.
+> (IV) Leogox was Theophrasta's lover Errol Bayes, now a shapeshifting manticora.
+> His conversion to a Serene was incomplete, and his heart beats elsewhere.
+> He operates Theophrasta's mortal pawns to find Burned candidates, trade ash, amass reagents and other resources, etc.
+> He's impatient, ashamed of his condition, and domineering.
+> (III) Cordy (nee Arthama Pritti) was an alchemic knight who called herself the Moon Maiden in 1985 until her defeat.
+> Leogox seduced her and Theophrasta bound her to Cordyceptyrant, a fungal jinn (she lives lest she reincarnate free).
+> She's searching for Parcel (and other returning knights) using witchtaster serpents and her cordyceptyrus curse to create willing "pod people" who burst into mutations after a limited lifespan.
+> She's unrealistic, vindictive, and romantic. She still pines for Leogox, who thinks she's pathetic.
+
+
+
+Monster manual?
+> Celestial: A magical being, magically subtle in form or posessing a construct (elemental: afrit, glamourous: jinn, ritual: marit)
+> Terrestrial: A mundane, earthly being. A human, animal, vegetable, or mineral. Sometimes: a shade or ghost.
+> Warlock, witch, ghoul, etc: A (mostly) human magician and consort/offspring/agent/host to spirits.
+> Vampire, werewolf, mummy, etc: A powerful, dead warlock's body host to a foreign spirit.
+> Chimera: A great mutation of terrestrials with celestial powers (also: basilisk, sphinx, manticore, true dragon, godzilla, king kong, etc).
+> Satyr: A broadly humaniform chimera (also: centaur, harpy, dryad, goblin, etc).
+> Cockatrice: A minor or pathetic chimera (also: talking cat, kettle dragon, platypus, witchtaster serpent, etc).
+> The Burn (VII): A powerful but slumbering Titan associated with passion, fire, hate, and ash.
+> Theophrasta (V): The witchqueen who shattered Alembic, reincarnated in the modern day.
+> The Zodiacal Light (-): A coven which hoped to call and bind the Dawn Empress, but failed and the survivors became the Serene.
+> The Serene(III): Three Burned modern warlocks confined to the Dream, where they raise Burned armies and serve Theophrasta.
+> General Leogox (IV): A shapeshifting manticore or powerful magnate. Confident, analytical, and prone to fits of rage or self-hatred.
+> Cordy(ceptyrant) (III): An Alchemical Knight (the Moon Maiden) unwittingly infected with a fungal jinn. Possessive of Leogox, unsure of his feelings. Erratic, romantic, cowardly.
+> Witchtaster Serpent (0): A cockatrice with the body of a snake, the head of a hare, the eyes of a goat. It has excellent senses for latent or traces of magic.
+
+
+Unused genre/skill breakdown?
+
+A princess with a high tier in a genre is more well-equipped and savvy than one who isn't.
+How does this affect her?
+
+* Stunts. How is she at athletics, derring-do, and weaponry? ("action" renamed because of heavy overloading)
+* Thrills. How is she at espionage, crime, investigation, and intrigue? ("thriller" or "mystery")
+* Nature. How is she with animals, survival, hunting, and self-reliance? ("western", but it isn't only!)
+* Science. How is she with near-real or sci-fi technology, engineering, computers, and crafting?
+* Romance. How is she at loving & living with friends, family, and foes?
+* Weird. How much does she know about magic & monsters fantastic & horrific?
+* Culture. How is she at history & art, at interacting with high society and meeting expectations? ("musical", historical, comedy of manners)
+
+A special note on non-genres:
+* Drama. Drama is built into the dice engine (only rolling when there are stakes, setting specific tensions).
+* Historical. That's just some other genre in fancy dress.
+* Animation. That's considered a genre? Come on now.
+* Comedy. It's assumed to flow from the players.
+  It could be a genre -- skill at dealing with the ridiculous or outrageous; everyone knows when someone's mugging.
+  But: no. It might work, I'm not brave enough to try.
+
+
+* Action (War/military; spy/espionage; martial arts, western shoot 'em up)
+  * hybrids: buddycop, +comedy, crime, drama, horror, thriller, scifi, superhero, swashbuckler, disaster 
+* Thriller (conspiracy; crime; legal; spy; supernatural; disaster, psychological, techno)
+* Western (classic, revisionist/anti, contemporary/neo-, fantasy/space, modern)
+* Sci Fi (Space travel, time travel, cerebral science, robot & monster films, disaster & alien invasion)
+* Horror (zombie, folk, body, found-footage)
+* Romance (historical, romdram, romcom, chickflick, praanormal,)
+* Fantasy
+* Drama 
+* Mystery
+* Comedy (slapstick, screwball, parody, black)
+
+
+* Moon. Thief. Crime.
+* Mercury. Scientist. Technology.
+* Venus. Courtier. Romance & performance.
+* Sun. Artist. Expression & the self.
+* Mars. Soldier. Action.
+* Jupiter. Priest. Manners & civility.
+* Saturn. Laborer. Nature, practicality.
