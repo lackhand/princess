@@ -122,14 +122,18 @@ This is when the world reacts to everything the princesses have done, as events 
 Every agenda that could have its clock modified by the adventure gets (or loses) a tick; the narrator should describe what that means or what happens.
 Then she chooses or rolls doom, to bring these influences home to the princesses:
 
----
-1-3 : A friend betrays the princesses or is hurt (by enemy action?).
-4-5 : Someone picks a fight with the princesses or their friend (why?).
-6   : A nasty rumor starts about the princesses or their friend (who started it? is it true?).
-6,6 : Someone unexpected asks the princesses for an inconvenient favor (what will change?).
----
-{:.dtable}
+1-3
+: A friend betrays the princesses or is hurt (by enemy action?).
 
+4-5
+: Someone picks a fight with the princesses or their friend (why?).
+
+6
+: A nasty rumor starts about the princesses or their friend (who started it? is it true?).
+
+6,6
+: Someone unexpected asks the princesses for an inconvenient favor (what will change?).
+{:.dtable}
 
 
 
@@ -148,9 +152,17 @@ That's fine too; that's when the monster of the week pops up, and the princesses
 
 You might consider the trouble when describing this hook (and throughout the adventure):
 
-0-1 : The threat is remote and abstract; the villains are siphoning energy through a day spa.
-2-3 : The threat is remote or abstract; the villains are friends with a new student at school.
-4-6 : The threat is developing; the villains are unwittingly in a position of power over the princesses.
-7-9 : The threat is direct. A monster is rampaging through downtown.
+0
+: The threat is remote and abstract; the villains are siphoning energy through a day spa.
+
+1-2
+: The threat is remote or abstract; the villains are friends with a new student at school.
+
+3-5
+: The threat is developing; the villains are unwittingly in a position of power over the princesses.
+
+6-9
+: The threat is direct. A monster is rampaging through downtown.
 {:.dtable}
+
 

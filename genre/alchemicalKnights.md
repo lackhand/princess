@@ -173,12 +173,12 @@ Awakened of Alembic
   : +1d when you dissent a supernatural consequence.
   : +1d when you gather information about a relic of Alembic.
 
-Magical Transformation{:.magic}
+{:.magic} Magical Transformation
 : With a glass surface and your reflection, you can channel that past life into the present,
   physically transforming yourself and your appearance until the next time that you sleep.
   : While you're transformed, gain potency in combat vs the supernatural. How? What does that look like?
 
-Alchemical Science Mastery{:.magic}
+{:.magic} Alchemical Science Mastery
 : You have a grounding in one of the alchemical sciences, which you can use to understand and undertake magical projects.
   : When you learn this secret, pick one science to master:
     Alchemy : Alchemical potions, bombs, poisons, and metallurgy (one use, toxic)

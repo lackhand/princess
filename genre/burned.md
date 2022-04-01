@@ -8,9 +8,15 @@ section: "2.1.1"
 
 Ifrit
 : Djinn who serve the burned.
-  Rank{:.rank} : 3
-  Traits{:.traits} : Spiritual, fiery, sly, miraculous
+
+  {:.rank} Rank
+  : 3
+
+  {:.traits} Traits
+  : Spiritual, fiery, sly, miraculous
 {:.foe}
+
+
 
 ### Secrets of the Burned
 
