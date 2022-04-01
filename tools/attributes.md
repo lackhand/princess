@@ -19,6 +19,8 @@ Charm
   Avoids & recovers from consequences from destiny, society and emotion.
 {:.dtable}
 
+
+
 You can decide to give a non-princess attributes if it makes more sense than just its tier.
 Usually it isn't worth it though.
 
@@ -31,6 +33,8 @@ Rank
 : How powerful, competent, supplied and lucky is she?
   Deals with downtime questions like healing, research, purchasing, etc.
 {:.dtable}
+
+
 
 > These numbers don't change through play, though between sessions it's reasonable to move a point between them.
 > All of the princesses might get another point to spend between chapters, to reflect their growth.

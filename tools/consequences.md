@@ -39,6 +39,8 @@ Harm
 : The princess is changed in some way from which she will need to recover.
 {:.dtable}
 
+
+
 ### Dissent
 
 A princess can always dissent each consequence separately.
@@ -94,6 +96,8 @@ Study or Preparation
 Meditation
 : Social, emotional, or magical
 {:.dtable}
+
+
 
 Once she's addressed a harm in the fiction, she can roll cost with an attribute appropriate to the harm and pay that amount in favor (similar to dissent, but this can never incur trauma).
 * If nobody helps, -1d

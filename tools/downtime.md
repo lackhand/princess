@@ -53,12 +53,14 @@ Befriend
 {:.dtable}
 
 
+
 Alternatively, the action might look more like:
 
 Acquire
 : The princess introduces a tool she can construct, a friend she can call in a favor from, etc.
   The tier of the introduced thing is determined by a tier roll (and if not high enough, perhaps it can't be borrowed).
 {:.dtable}
+
 
 
 This could take multiple forms:
@@ -72,6 +74,9 @@ Study & Train
 Recover
 : The princess recovers 1 additional tier of harm during recovery.
 {:.dtable}
+
+
+
 
 ### Recovery
 
@@ -119,6 +124,9 @@ Then she chooses or rolls doom, to bring these influences home to the princesses
 6   : A nasty rumor starts about the princesses or their friend (who started it? is it true?).
 6,6 : Someone unexpected asks the princesses for an inconvenient favor (what will change?).
 {:.dtable}
+
+
+
 
 Whatever the result, if it's not interesting to pursue, the princesses can increase the trouble by the doom + 1 to handle it offscreen.
 
