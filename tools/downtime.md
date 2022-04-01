@@ -122,10 +122,12 @@ This is when the world reacts to everything the princesses have done, as events 
 Every agenda that could have its clock modified by the adventure gets (or loses) a tick; the narrator should describe what that means or what happens.
 Then she chooses or rolls doom, to bring these influences home to the princesses:
 
+---
 1-3 : A friend betrays the princesses or is hurt (by enemy action?).
 4-5 : Someone picks a fight with the princesses or their friend (why?).
 6   : A nasty rumor starts about the princesses or their friend (who started it? is it true?).
 6,6 : Someone unexpected asks the princesses for an inconvenient favor (what will change?).
+---
 {:.dtable}
 
 
