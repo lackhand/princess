@@ -9,39 +9,39 @@ section: ""
 <details open>
 	<summary>Table of contents</summary>
 
-	{% for page2 in sorted %}
+	{%- for page2 in sorted -%}
 	{%- assign hLevel = page2.section | split: "." | size | minus: 1 | at_least: 1 -%}
 	{%- assign hs = "" -%}
 	{%- for i in (2..hLevel) -%}
 		{% capture hs %}  {{hs}}{% endcapture %}
 	{%- endfor -%}
-	{% capture hs %}{{ hs }}* [{{ page2.title }}](#{{ page2.url | slugify}})
-{% endcapture %}{{ hs | markdownify | liquify}}
-	{% endfor %}
+	{%- capture hs %}{{ hs }}* [{{ page2.title }}](#{{ page2.url | slugify}}){% endcapture -%}
+	{{ hs | markdownify | liquify}}
+	{%- endfor -%}
 </details>
 
-{% for page2 in sorted %}
-{% if page2.url != page.url %}
+{%- for page2 in sorted -%}
+{%- if page2.url != page.url -%}
 
-{% assign hLevel = page2.section | split: "." | size | minus: 1 | at_least: 1 %}
-{% assign hs = "" %}
-{% for i in (2..hLevel) %}
-	{% capture hs %}#{{hs}}{% endcapture %}	
-{% endfor %}
+{%- assign hLevel = page2.section | split: "." | size | minus: 1 | at_least: 1 -%}
+{%- assign hs = "" -%}
+{%- for i in (2..hLevel) -%}
+	{%- capture hs %}#{{hs}}{% endcapture -%}
+{%- endfor -%}
 
 {{ hs }}# {{ page2.title }} {#{{ page2.url | slugify }}}
 
 {{ page2.content }}
 
-{% endif %}
-{% endfor %}
+{%- endif -%}
+{%- endfor -%}
 
 <details>
 	<summary>Raw documents & debug</summary>
 
-	{% for page2 in sorted %}
-	{% capture hs %}* [{{page2.section}}: {{page2.title}}]({{ page2.url | absolute_url }})
-{% endcapture %}{{ hs | markdownify | liquify }}
-	{% endfor %}
+	{%- for page2 in sorted -%}
+	{%- capture hs %}* [{{page2.section}}: {{page2.title}}]({{ page2.url | absolute_url }}){% endcapture -%}
+	{{ hs | markdownify | liquify }}
+	{%- endfor -%}
 
 </details>
