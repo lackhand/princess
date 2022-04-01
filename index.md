@@ -41,7 +41,7 @@ section: ""
 	<summary>Raw documents & debug</summary>
 
 	{% for page2 in sorted %}
-	* [{{page2.section}}: {{page2.title}}]({{ page2.url }})
+	* [{{page2.section}}: {{page2.title}}]({{ page2.url | absolute_url }})
 	{% endfor %}
 
 </details>
