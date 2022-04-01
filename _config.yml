@@ -1,5 +1,6 @@
 name: Princess the RPG
 title: Princess the RPG
+description: A forged in the dark-style RPG about princesses.
 markdown: kramdown
 kramdown:
   parse_block_html: true
