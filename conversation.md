@@ -32,8 +32,10 @@ One of you plays the narrator and the others of you play princesses. You'll work
 
 At the beginning of the session, the narrator establishes the scene:
 > There's a new spa in town, and you feel a dark energy emanating from it...
+
 It's good practice to make that hook juicy and personal:
 > ... because of the creepy grin Auntie Mo gave you when she showed you all the flyer...
+
 And of course it's always good practice for the narrator ask questions!
 > ... so, what do you do to investigate it?
 
