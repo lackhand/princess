@@ -4,7 +4,7 @@ layout: default
 <details><summary>Other Pages in {{ site.pages }}</summary>
 <div class="TOC">
 	{% assign sorted = site.pages | where_exp: 'item', 'item.section' | sort: 'section' %}
-	{% assign section = page.section | default: 'pagenonesuch' }
+	{% assign section = page.section | default: 'pagenonesuch' %}
 	<ul>
 		{% for page2 in sorted %}
 			{% assign isCurrentPage = section == page2.section %}
