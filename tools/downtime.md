@@ -52,12 +52,14 @@ Befriend
 : The princess uses a social setting to gather information or contact a friend
 {:.dtable}
 
+
 Alternatively, the action might look more like:
 
 Acquire
 : The princess introduces a tool she can construct, a friend she can call in a favor from, etc.
   The tier of the introduced thing is determined by a tier roll (and if not high enough, perhaps it can't be borrowed).
 {:.dtable}
+
 
 This could take multiple forms:
 bringing someone on a date, crafting a new tool, borrowing a motorbike, or calling in a favor.
