@@ -1,6 +1,6 @@
 ---
 layout: navpage
-title: Princess the RPG > Thanks & Attributions
+title: Thanks & Attributions
 section: "3.1"
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: navpage
-title: Princess the RPG > Tools > Downtime
+title: Downtime
 section: "1.1.7"
 ---
 

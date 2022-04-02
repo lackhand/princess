@@ -1,6 +1,6 @@
 ---
 layout: navpage
-title: Princess the RPG > Conversation
+title: Conversation
 section: "0.2"
 ---
 This game is played by a group of people holding a conversation.

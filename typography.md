@@ -1,6 +1,6 @@
 ---
 layout: navpage
-title: Princess the RPG > Typography
+title: Typography
 section: "3.0"
 ---
 
@@ -50,14 +50,21 @@ Another secret
 
 The technology I'm using has trouble with markdown inside details; this _should_ work, but mightn't.
 
+{%- comment -%}
+There's a version with capture groups & explicitly markdownifying it that works but is awful.
+{%- endcomment -%}
+
 | A table heading | A second table heading |
 |---|---|
 | Some table data | Some more table data |
 
 Sometimes, definitions will be presented low protocol:
 
-A term : Its definition or description
+A term
+: Its definition or description
 {:}
+
+
 
 But at other times, you'll encounter them looking more like a table:
 

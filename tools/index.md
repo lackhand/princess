@@ -1,6 +1,6 @@
 ---
 layout: navpage
-title: Princess the RPG > Tools
+title: Tools
 section: "1.1"
 ---
 

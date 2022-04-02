@@ -1,6 +1,6 @@
 ---
 layout: navpage
-title: Princess the RPG > Tools > Dice
+title: Dice
 section: "1.1.3"
 ---
 

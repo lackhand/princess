@@ -1,6 +1,6 @@
 ---
 layout: navpage
-title: Princess the RPG > The Burned
+title: The Burned
 section: "2.1.1"
 ---
 

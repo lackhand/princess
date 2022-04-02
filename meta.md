@@ -1,6 +1,6 @@
 ---
 layout: navpage
-title: Princess the RPG > About
+title: About
 section: "0.1"
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: navpage
-title: Princess the RPG > Tools > Tier
+title: Tier
 section: "1.1.0"
 ---
 

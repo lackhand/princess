@@ -1,6 +1,6 @@
 ---
 layout: navpage
-title: Princess the RPG > Boneyard
+title: Boneyard
 section: "3.1"
 ---
 

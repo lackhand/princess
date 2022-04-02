@@ -1,6 +1,6 @@
 ---
 layout: navpage
-title: Princess the RPG > Genre
+title: Genre
 section: "2.0"
 ---
 

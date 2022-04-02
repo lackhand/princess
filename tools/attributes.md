@@ -1,6 +1,6 @@
 ---
 layout: navpage
-title: Princess the RPG > Tools > Attributes
+title: Attributes
 section: "1.1.1"
 ---
 

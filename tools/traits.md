@@ -1,6 +1,6 @@
 ---
 layout: navpage
-title: Princess the RPG > Tools > Traits
+title: Traits
 section: "1.1.2"
 ---
 

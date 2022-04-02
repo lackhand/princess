@@ -1,6 +1,6 @@
 ---
 layout: navpage
-title: Princess the RPG > Tools > Counters & Clocks
+title: Counters & Clocks
 section: "1.1.1"
 ---
 

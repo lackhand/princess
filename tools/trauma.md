@@ -1,6 +1,6 @@
 ---
 layout: navpage
-title: Princess the RPG > Tools > Trauma
+title: Trauma
 section: "1.1.6"
 ---
 

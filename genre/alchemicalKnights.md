@@ -1,6 +1,6 @@
 ---
 layout: navpage
-title: Princess the RPG > Alchemical Knights
+title: Alchemical Knights
 section: "2.1"
 ---
 

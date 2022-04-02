@@ -1,6 +1,6 @@
 ---
 layout: navpage
-title: Princess the RPG > Tools > Consequences
+title: Consequences
 section: "1.1.4"
 ---
 
