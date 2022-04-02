@@ -11,6 +11,7 @@
     // Remove font weights
     font-style: normal;
     font-weight: normal;
+    @content;
   }  
 }
 
@@ -18,7 +19,7 @@
   @include floatBullet {
     font-size: 250%;
     margin: -20px 0px 0px -27.5px;
-    @content
+    @content;
   }
 }
 
