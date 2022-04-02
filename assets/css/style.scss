@@ -3,27 +3,32 @@
 
 @import "{{ site.theme }}";
 
-@mixin floatBefore {
+
+@mixin floatBullet {
   &:before {
     position: relative;
     float: left;
-    margin: 0px 10px 10px -5px;
-
     // Remove font weights
     font-style: normal;
     font-weight: normal;
+  }  
+}
 
+@mixin floatIcon {
+  @include bullet {
+    font-size: 250%;
+    margin: -20px 0px 0px -27.5px;
     @content
   }
 }
+
 
 @mixin callout($icon) {
   @extend table, td;
   p {
     margin: 0px;
   }
-  @include floatBefore {
-    font-size: 250%;
+  @include floatIcon {
     content: "#{$icon}";
   }
 }
@@ -72,8 +77,7 @@
 .key {
   @extend .dtable;
   > dt {
-    @include floatBefore {
-      float: left;
+    @include floatBullet {
       font-size: 150%;
       content: "🗝️";
     }
@@ -93,7 +97,7 @@
   @extend .dtable;
 
   > dt {
-    @include floatBefore {
+    @include floatBullet {
       font-size: 150%;
       content: "🤫";
     }
@@ -119,7 +123,7 @@
   @extend .dtable;
 
   > dt {
-    @include floatBefore {
+    @include floatBullet {
       font-size: 150%;
       content: "👹";
     }
@@ -131,10 +135,10 @@
       @extend .dtable;
       font-style: normal;
       > dt {
-        @include floatBefore { content: "▶"; }
+        @include floatBullet { content: "▶"; }
 
-        &:nth-of-type(1) { @include floatBefore { content: "💪"; } }
-        &:nth-of-type(2) { @include floatBefore { content: "🔎"; } }
+        &:nth-of-type(1) { @include floatBullet { content: "💪"; } }
+        &:nth-of-type(2) { @include floatBullet { content: "🔎"; } }
       }
     }
   }
