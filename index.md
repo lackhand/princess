@@ -27,7 +27,7 @@ ditto the two level print-then-execute, to ensure each line of <li> is captured 
 {% endfor -%}
 {%- endcapture -%}
 
-{{ toc | markdownify | liquify}}
+{{ toc | liquify | markdownify }}
 
 </details>
 
@@ -55,6 +55,6 @@ ditto the two level print-then-execute, to ensure each line of <li> is captured 
 {% endfor -%}
 {%- endcapture -%}
 
-{{ toc | markdownify | liquify }}
+{{ toc | liquify | markdownify }}
 
 </details>
