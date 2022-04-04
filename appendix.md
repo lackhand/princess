@@ -84,3 +84,24 @@ A special note on non-genres:
 * Mars. Soldier. Action.
 * Jupiter. Priest. Manners & civility.
 * Saturn. Laborer. Nature, practicality.
+
+
+## Design Goals
+
+Or: why should you play this game instead of some other game.
+
+Of course you should play other games! Especially the ones which inspired this one! And others!
+But here are some things that this game tries to do which you might enjoy:
+* It tells a story first.
+  Because the core mechanic is a conversation about a shared fictional world, this is often called fiction-first gaming.
+* It gives you tools to tell your story.
+  Magic and rules light games are hard to combine, because none of us have intuitions about it.
+  Genre expectations might be fuzzy, because "action" and "emotional vulnerability" could go to dark places.
+  Heck, passionate characters can have a difficult time meshing at the table.
+  This game tries to fix those problems.
+* It exhibits modern RPG sensibilities (or at least, my RPG sensibilities).
+  The rules should support the theme.
+  Dice aren't that interesting, and should keep things moving.
+  Short core rules. No spreadsheets. Few traps (sorry).
+  Characters should come alive through play.
+  Use your words.
