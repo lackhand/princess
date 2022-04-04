@@ -149,13 +149,21 @@ ul * {
   margin: 0px;
 }
 
-h1,h2,h3,h4,h5,h6 {
-  %original {
-    @extend &;
-  }
-
-  a {
-    @extend %original;
-    // But keep the :hover underline
-  }
+h1 a {
+  @extend h1;
+}
+h2 a {
+  @extend h2;
+}
+h3 a {
+  @extend h3;
+}
+h4 a {
+  @extend h4;
+}
+h5 a {
+  @extend h5;
+}
+h6 a {
+  @extend h6;
 }
