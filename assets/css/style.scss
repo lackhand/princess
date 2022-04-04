@@ -151,11 +151,11 @@ ul * {
 
 h1,h2,h3,h4,h5,h6 {
   %original {
-    extend &;
+    @extend &;
   }
 
   a {
-    extend %original;
+    @extend %original;
     // But keep the :hover underline
   }
 }
