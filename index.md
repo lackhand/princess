@@ -39,7 +39,7 @@ ditto the two level print-then-execute, to ensure each line of <li> is captured 
 	{%- capture hs %}#{{hs}}{% endcapture -%}
 {%- endfor -%}
 
-{{ hs }}# {{ page2.title }} {#{{ page2.url | slugify }}}
+{{ hs }}# [{{ page2.title }}](#{{ page2.url | slugify }}) {#{{ page2.url | slugify }}}
 
 {{ page2.content }}
 
