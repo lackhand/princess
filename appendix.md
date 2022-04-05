@@ -85,6 +85,33 @@ A special note on non-genres:
 * Jupiter. Priest. Manners & civility.
 * Saturn. Laborer. Nature, practicality.
 
+## D&D 5e Equivalents
+
+A lot of gamers think in D&D, so here are some ways to translate.
+
+Anything that's undead can be brought over straight. Undead are gonna undead.
+Anything incorporeal, fey, more humane fiends and celestials can be spirits.
+Anything that's an monstrosity, dragons, that kind of thing is a chimera; it might politely be referred to as a satyr.
+Outsiders like true aberrations, celestials, fiends -- those can all be celestials.
+
+5e proposes tiers of play which don't perfectly align with ours, but can be made to fit.
+This system is imperfect.
+It doesn't work very well for fey, which tend to be tricky-but-not-fearsome, and so have low (5e) challenge ratings despite their intended magical nature.
+It's also not ideal for low level "normal" animals, which suffer by comparison to magical beasts.
+
+| 5e title | Princess tier | 5e levels (spells) | 5e CRs | Example |
+|----------|---------------|-----------|--------|---------|
+| n/a      | -1            | n/a      | 0, 1/8 | Normal animals, giant rats, kobolds |
+| Local Heroes | 0         | 1-2 (1st)  | 1/4, 1/2, 1 | Giant or wild beasts & swarms, zombies, cockatrice, gnoll, gray ooze, satyr, shadow, dryad, ghoul |
+| Local Heroes | I         | 3-4 (2nd)  | 2 | Ogre, ankheg, ettercap, gargoyle, ghast, gibbering mouther, griffon, polar bear |
+| Heroes of the Realm | II | 5-6 (3rd)  | 3-4 | Basilisk, giant scorpion, hell hound, manticore, mummy, nightmare, owlbear, phase spider, werewolf, black pudding, couatl, ettin, ghost, lamia, succubus |
+| Heroes of the Realm | III | 7-8 (4th) | 5-6 | Elementals, bulette, flesh golem, giant crocodile, gorgon, hill giant, salamander, shambling mound, troll, unicorn, wraith, xorn, chimera, mammoth, medusa, wyvern |
+| Heroes of the Realm | IV | 9-10 (5th) | 7-9 | giant ape, oni, stone/frost/fire/cloud giant, cloaker, chain devil, hydra, trex, clay golem, treant |
+| Masters of the Realm | V | 11-12 (6th) | 10-11 | aboleth, deva, stone golem, naga, behir, djinni, efreeti, gynosphinx, horned devil, roc |
+| Masters of the Realm | VI | 13-14 (7th) | 12-15 | erinyes, rakshasa, storm giant, vampire, mummy lord, purple worm |
+| Masters of the Realm | VII | 15-16 (8th) | 16-17 | iron golem, marilith, planetar, androsphinx, dragon turtle |
+| Masters of the World | VIII+ | 18+ (9th+) | 18+ | balor, pit fiend, lich, solar, kraken, empyrean |
+
 
 ## Design Goals
 
