@@ -70,11 +70,6 @@ Or, even better:
 
 And then the narrator moves the story from there, and things repeat!
 
-Princesses are special, since they're the center of the story.
-To help her along, each princess has a supply of favor (a metagame resource and combination of luck, strength, grace, patience, and willpower).
-There might be other resources (individual or shared) like time or money or trouble.
-The narrator (who doesn't need to keep track of her own resources) can ask a princess to spend favor when she's 
-
 ### Actions
 
 It's best when the narrator is curious, prompting and asking questions of the princesses.
@@ -87,6 +82,17 @@ _Breaking down crying_ is an action! _Hoping_ might be an action, in the right c
 
 If everyone agrees about what happens next, then that's great, play can continue (perhaps with the narrator asking a question).
 If there's a disagreement, well, that's why that section is there.
+
+### Favor & other resources
+
+Princesses are special, since they're the center of the story.
+To help her along, each princess has a supply of favor (a metagame resource and combination of luck, strength, grace, patience, and willpower).
+There might be other resources (individual or shared) reflecting something true in the fiction, like time or money or trouble or even experience.
+
+Spending those resources is one way for a princess to smooth over disagreement.
+Some resources might not make sense as a way to resolve a disagreement.
+Favor is pretty universal, though:
+if a princess spends favor, she's signaling that something is important to her, and everyone should recognize that!
 
 ### Decrees & Memories
 
@@ -116,6 +122,7 @@ When there's any question of (or disagreement about) what happens next, start wi
 (narrator, remember to mediate and ask questions!).
 The princess should clarify her approach and goals, while the narrator should clarify the costs, consequences, risks, and expected effects.
 Disagreement is really resolved by the whole table, so a good narrator could ask a question to see if anyone has good ideas for what should happen next.
+The princess might spend a resource (often favor), or turn to the dice to find out what happens next.
 
 There are no specific rules for how to resolve disagreement between princesses.
 Resolve those as players before turning to mechanics!
@@ -125,7 +132,7 @@ Resolve those as players before turning to mechanics!
 > It's good form for her to find the right number of risk rolls with interesting stakes and to use the resulting consequences for dramatic stakes.
 {: .tip}
 
-> These mechanics are not a replacement for using safety tools,
+> These "mechanics" are not a replacement for using safety tools,
 > content warnings, personal boundaries, and otherwise sticking to your genre.
 > Enforcing your boundaries isn't up for disagreement, and must be resolved as players and friends.
 > Use your words and then update the genre with your new understanding of each other.
