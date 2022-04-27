@@ -6,8 +6,7 @@ section: "1.1.2"
 
 Traits are salient facts about something in the game.
 They're the rules text attached to the object, and as we learn about something, it crystallizes into traits which we can use at the table to give it persistence and weight.
-They suggest how a thing is better (or worse) than its magnitude might suggest, its psychology, its specialness.
-
+They suggest how a thing is better (or worse) than its tier might suggest; they encode its psychology, its specialness.
 
 Fictional Traits
 : The most common trait. Useful for princesses and other characters, and as a reminder when figuring out effect or risk.
