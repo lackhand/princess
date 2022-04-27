@@ -4,10 +4,12 @@ title: Counters & Clocks
 section: "1.1.1"
 ---
 
-More flexible than magnitude, a counter is a shared and permanent running measure of something.
-They're used for pacing and continuity: everyone can see the counters accruing or whatever.
-Different physical counters will feel different: poker chips or tally marks, counting up versus counting down, filling a circle or emptying it.
-They're unified in that the fiction comes first; counters are just gauges that help the players measure progress.
+More flexible than a tier, a counter is a publicly visible gauge of something in the fiction.
+
+They're used for pacing and continuity: everyone can see the counters accruing or time slipping away or whatever.
+Different physical counters will feel differently at the table: poker chips or tally marks, counting up versus counting down, filling a circle or emptying it.
+But they all work the same way; see what works for you and your table.
+Fiction comes first! This is just a way to quantize incremental progress.
 
 It's common to call counters that foreshadow an effect when they fill a "clock", and to maintain it in public with a label to remind us what it portends (the obstacle or change, not the method!).
 They should trigger (full, empty, or both) when the fiction reaches a critical point and changes, which might overcome an obstacle, change it, introduce a new one, or so forth.
