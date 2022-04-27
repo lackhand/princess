@@ -23,8 +23,8 @@ XP
 : Princesses acquire this resource by acting in accordance with their keys.
 
 Advance
-: A princess acquires an advance by spending 5 XP, or breaking a key for 2 advances.
-  She can spend them to improve her attributes or to gain a trait.
+: A princess acquires an advance by spending 5 XP (at any time), or breaking a key for 2 advances.
+  She can spend 1 advance to add 1 trait in a way that makes sense to the table.
 
 Trouble
 : There's just one Trouble counter, and every time it would hit 10, it wraps around and increases the Doom instead.
