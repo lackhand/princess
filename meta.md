@@ -14,7 +14,7 @@ Something about love and loss and heroism and change and growth and destiny.
 
 Something that hasn't been cynicism- & irony-poisoned yet.
 
-Something and where violence resolves things cleanly, and where dreams can real.
+Something where violence resolves things cleanly, and where dreams can real.
 
 Something where one brave word breaks the night and, in the name of the moon, triumphs over evil.
 
