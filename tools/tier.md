@@ -79,3 +79,5 @@ Doom
 Harm
 : Each harm imposes different debility based on its magnitude.
 {:.dtable}
+
+
