@@ -4,9 +4,10 @@ title: About
 section: "0.1"
 ---
 
-Princess is a rules-moderate roleplaying game based off of Lady Blackbird
-(, The Shadow of Yesterday, Blades in the Dark, Lasers & Feelings, Fate Accelerated, Dungeons & Dragons, ...),
-intended for playing games of magical-girl melodrama.
+Princess is a roleplaying game of magical-girl melodrama.
+
+I consider it rules-moderate, in the same vein as Lady Blackbird
+(, The Shadow of Yesterday, Blades in the Dark, Lasers & Feelings, Fate Accelerated, Dungeons & Dragons, ...).
 
 You know what this is: Something that would play on the CW or Crunchyroll or in an opera-house or at your dining table.
 
