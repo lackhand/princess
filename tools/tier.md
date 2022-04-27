@@ -4,16 +4,25 @@ title: Tier
 section: "1.1.0"
 ---
 
-Can a normal person knock down a wall with spaghetti? What if the wall were made of soft cheese? Hard cheese? Boiled spaghetti?
-Tier lets us capture our expectations around this and other important questions by assigning each side a magnitude and comparing them against a consistent scale.
+Can a normal person knock down a wall by using dry spaghetti?
+
+What if the wall were made of soft cheese? Hard cheese? They're using boiled spaghetti?
+Tier lets us capture our expectations around this and other important questions by estimating scale.
+Numbers are useful: you can compare them, or pick up that many dice.
+The other tools will use tiers in lots of ways.
+
 For instance, we might say a stone wall was Hardness IV, and the spaghetti Hardness -2.
-That's a difference of 6! Very difficult to overcome!
-But perhaps soft cheese is merely Hardness -1. That's a difference of 1 level. Still difficult, but probably doable.
+That's a difference of 6! A big number! Very difficult to overcome!
+
+But perhaps soft cheese is merely Hardness -1.
+That's a difference of 1 level, a small number, it's plausible but difficult.
+Still difficult, but probably doable.
+
 We can use this same procedure to answer harder questions too:
-can a cat sneak past a security system?
-Can our heroes find a cure before the poison sets in?
-Can the explosives destroy the locked door?
-Can love conquer fear?
+* Can a cat sneak past a security system?
+* Can our heroes find a cure before the poison sets in?
+* Can the explosives destroy the locked door?
+* Can love conquer fear?
 
 Tier is contextual ("size" and "education" and "flammability" could all be measured for the same person, but would usually be different from each other).
 By comparing the various tiers involved in a disagreement, we can agree on an effect, risk, and pool, and then let the dice take it from there.
@@ -48,8 +57,9 @@ But tier is exponential, and can also be used to measure objective quantities li
 | VII+ | 250+ | A month+ | A district+ | destruction |
 {:.tablecol}
 
-> Bigger numbers aren't necessarily better; think about what you're comparing
-> ("faster" versus "longer-lasting", for instance)!
+> Bigger numbers aren't necessarily better; think about why you're comparing things and exactly what you're trying to measure.
+> For instance, smaller might be sneakier, while larger is heavier or tougher.
+> But it might not be!
 {:.note}
 
 ### Tier
@@ -77,7 +87,7 @@ Doom
 : The waxing strength of the enemy. A guide for the tier of trouble the princesses can expect.
 
 Harm
-: Each harm imposes different debility based on its magnitude.
+: Each harm imposes different debility based on its tier.
 {:.dtable}
 
 
