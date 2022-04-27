@@ -190,7 +190,10 @@ Awakened of Alembic
 {:.secret}
 
 > Alchemical science mastery makes you more reliable in downtime projects involving your science.
-> It's really alchemical engineering, and it's broader than 
+> It's really alchemical engineering.
+> You can do the science without the mastery, but it might be riskier, you won't have any starting formulae, and you'll make slower progress.
+> 
+> You don't necessarily have to transform to do alchemy: it's not about your personal magic, it's magical chemistry.
 {:.aside}
 
 
