@@ -26,6 +26,7 @@ Princesses are the main characters, so instead of having just one personal **tie
 
 
 > Between sessions it's reasonable to move a point between a princess' personal _attributes_ as our understanding of the character changes.
+> More rarely, as the genre of the story changes, they might get an additional point of _attribute_ or **rank**.
 {:.aside}
 
 You can decide to give a non-princess _attributes_ if it feels right, but usually adding _traits_ is better.
