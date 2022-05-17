@@ -136,7 +136,7 @@ The princess might spend a resource (often **favor**), or turn to the dice to fi
 There are no specific rules for how to resolve disagreement between princesses, or how to keep the story coherent with the genre.
 Resolve those questions as players before turning to these mechanics!
 
-> If the narrator moves too quickly (& forgets to foreshadow a threat), it will probably provoke disagreement.
+> If the narrator moves too quickly (& forgets to foreshadow a threat), princesses might feel antagonized or betrayed.
 > If they move too slowly or are stingy with resolution, princesses might feel impatient or cheated.
-> It's good form for her to find the right number of risk rolls with interesting stakes and to use the resulting consequences for dramatic stakes.
+> Keep things moving, exciting, challenging, and in-genre!
 {: .tip}
