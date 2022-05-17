@@ -116,9 +116,11 @@ When a princess declares something in the fiction that isn't her own action in t
 It's sort of acting like the narrator.
 It's still a part of the conversation.
 It can still prompt disagreements, which can be particularly difficult to resolve!
-A special kind of **decree** is a **memory**, which combines an action (or whole scene!) that the princess could have taken previously in the fiction.
-**Memories** are a little easier than other **decrees** to handle, since the only new wrinkle compared to a usual action is whether the princess would have taken the actions.
+
+**Memories** are a special kind of **decree**, which describe actions (or scenes!) that the princess could have taken in the fiction in a previous scene.
 You can just pause the current scene while you figure out what really happened during the **memory**, and then resume the current scene with your new shared understanding.
+The out-of-order play does raise questions over whether the princess would really have known then what she knows now.
+One easy solution is to impose a **cost** in **favor**!
 
 > **Decrees** can make the world feel less real, so definitely let the _genre_ be your guide to using them!
 {: .warning}
