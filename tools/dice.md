@@ -8,9 +8,11 @@ Dice are a great way to settle a disagreement about what happens next ("dramatic
 
 For all of these types of rolls, this game uses pools of various numbers of d6s (notated as `1d` per die, their total number called the pool's "size"), of which the highest resulting face value(s) are read BitD-style:
 
+
 Die Roll & Name
 : Meaning
-  > If you would roll 0d, roll 2d and discard the highest (you can't crit) {:.warning} 
+  > If you would roll 0d, roll 2d and discard the highest (you can't crit)
+  {:.warning} 
 
 1-3 Failure
 : The worst you'd feared!
