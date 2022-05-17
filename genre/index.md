@@ -61,12 +61,11 @@ What have we decided to exclude (keep this updated!)?
 
 How are we going to tune our game rules?
 > The Burn is seductive and anyone could be its agent, so things should feel dark and dangerous.  
-> However, we're avoiding anything graphic and we're tough, so dissent should eliminate consequences.  
+> However, we're avoiding anything graphic and we're tough, so defiance should completely eliminate consequences.  
 > We want to avoid gore, so we'll use general harm categories "beaten", "burned", "empty", "lost", "sick", "wrong", (maybe some others).
 > Memory scenes should *only* be to our past lives in Alembic (otherwise we'd weaken the past life thing).  
 > It's ok to "memory" in a single line of dialogue or action though ("yeah I brought a screwdriver").  
 > Decrees are fine only in places touched by the Dream, where coincidence acts up.
-> Secret identities are important, so we'll have two parallel Doom tiers, Burned Doom and Dorm Doom; whenever Trouble overflows, whichever identity triggered it gets the doom.
 
 {:.aside}
 > So the above definitely creates a lot of hooks to hang a character off of: there's drama, people, enemies, and lots and lots of nouns.

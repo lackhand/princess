@@ -170,7 +170,7 @@ Sleeper of Alembic
 Awakened of Alembic
 : You're someone who originally perished in the fall of Alembic, but were magically reincarnated by the Burned as an animal or toy.
   What's your form? How did you escape? What did you learn?
-  : +1d when you dissent a supernatural consequence.
+  : +1d when you defy a supernatural consequence.
   : +1d when you gather information about a relic of Alembic.
 
 {:.magic} Magical Transformation

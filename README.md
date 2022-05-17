@@ -25,10 +25,4 @@ Please have fun!
 </details>
 
 # TODO
-- Trouble and Doom could use some (a lot of) clarification. This is where they get introduced and trouble is half explained and half obvious and half not. And that makes 3 halves which is confusing.
-  - Doom is referenced repeatedly but never explained.
-- The Dice section... Feels off and I am trying to figure out why/how so as not to give useless feedback
-  Maybe the second table needs to go after the second text block (might read better on not a cell phone). And that would make it make more sense.
-  Or maybe it is just overexplained for what I need (but I am sure others would need the extra explanation)
-  - The actual rules are easy to miss, and probably need more presentation to make the kinds of rolls much clearer.
 - Character advancement & currency feel unclear (blink & you'll miss it)

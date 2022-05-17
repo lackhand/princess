@@ -4,7 +4,8 @@ title: Typography
 section: "3.0"
 ---
 
-There are a few special typographical conventions I've tried to use throughout:
+There are a few special typographical conventions I've tried to use throughout.
+You shouldn't need this section; it's mostly included in case you get confused, and so I have a place to test that my markup works the way I hoped it would.
 
 ## Author notes
 
@@ -49,6 +50,7 @@ Another secret
 <details><summary>Unnecessarily detailed or technical content (click the affordance!)</summary>
 
 The technology I'm using has trouble with markdown inside details; this _should_ work, but mightn't.
+(update: indeed it does not).
 
 {%- comment -%}
 There's a version with capture groups & explicitly markdownifying it that works but is awful.

@@ -18,27 +18,48 @@ Together, the table progresses through the Trouble, Projects, Recovery, Twist, a
 > How's it going?
 > Does anything need adjustment?
 > Have the princesses grown, and it's time to reflect that in their rank?
->
-> This is also the only way to adjust the doom:
-> to have made some permanent change to the relationship between the princesses and their source of trouble.
-> Between adventures, if the doom is distracted, misled, or diminished, it might be reduced.
-> This requires cleverness, sacrifice, and drama!
 {:.note}
 
 ### Trouble
 
-Adjust the trouble after the adventure by its level of noise and chaos, picking up 1d per factor and making an effect roll.
+In addition to any trouble the princesses gained on-screen, every adventure has fallout.
+The narrator should judge how destructive, chaotic, or personally damaging this adventure was to the princesses, giving them points of trouble as appropriate:
 
-If this increases the trouble to or past 10, it wraps around to 0 and the doom increases.
+| None | Low | Standard | High | Extreme |
+|------|-----|----------|------|---------|
+| 0    | 1   | 2        | 3    | 5       |
+
+If this increases the trouble to or past 10, it wraps around to 0 and the princess' rank decreases by 1.
+What goes wrong? Who's hunting them now? How does someone close to them suffer?
+
+> Princesses can reduce trouble using downtime actions, but they can't make it run backwards;
+> once it spills over, the reduction in rank is permanent!
+{:.note}
 
 ### Projects
 
 Princesses make things happen in the world through Projects.
-Usually, each princess gets 2 downtime actions to spend on her projects.
-A princess can take an additional action by spending 2 favor, or add 1d to an action by spending 1 favor.
+
+Usually, each princess gets 2 downtime actions to spend on her projects:
+* If the princesses' rank is I or less, she gets 1 downtime action.
+* If the princess' rank is III or more, she gets 3 downtime actions.
+* Each princess can take 1 additional action by spending 2 favor
+  * or add 1d to an action by spending 1 favor.
 
 Work
-: The princess spends time on a project. The number of ticks is determined by an effect roll.
+: The princess spends time on a project. The number of ticks is determined by an effect roll using an appropriate approach:
+
+1-3 Failure
+: 1 tick
+
+4-5 Mixed
+: 2 ticks
+
+6 Success
+: 3 ticks
+
+6,6 Crit
+: 5 ticks
 {:.dtable}
 
 
@@ -49,35 +70,34 @@ Duty
 : The princess volunteers, patrols, or does repairs to lower the trouble clock.
 
 Research
-: The princess uses a laboratory or library to work at invention or analysis
+: The princess uses a laboratory, library, or her contacts to gather information, do analysis, or invent something
 
-Befriend
-: The princess uses a social setting to gather information or contact a friend
+Prepare & Train
+: The princess works on herself, marking a number of ticks of XP towards a specific advance
 {:.dtable}
 
 
 
-Alternatively, the action might look more like:
+Alternatively, she can introduce a new fictional element:
 
 Acquire
 : The princess introduces a tool she can construct, a friend she can call in a favor from, etc.
-  The tier of the introduced thing is determined by a tier roll (and if not high enough, perhaps it can't be borrowed).
+  The tier of the introduced thing is an effect roll of the princess' rank (too low a tier perhaps unavailable?)
+  This could take multiple forms:
+  bringing someone on a date, crafting a new tool, borrowing a motorbike, or calling in a favor.
+
+1-3 Failure
+: Rank -1
+
+4-5 Mixed
+: Rank
+
+6 Success
+: Rank +1
+
+6,6 Crit
+: Rank +2
 {:.dtable}
-
-
-
-This could take multiple forms:
-bringing someone on a date, crafting a new tool, borrowing a motorbike, or calling in a favor.
-
-Finally, princesses might spend some time on herself:
-
-Study & Train
-: The princess marks an effect roll of XP
-
-Recover
-: The princess recovers 1 additional tier of harm during recovery.
-{:.dtable}
-
 
 
 
@@ -87,31 +107,17 @@ Chronic harms require time and effort to overcome.
 
 Once each downtime, each princess can make a recovery roll:
 * 0d if she cannot spend time recovering or...
-* Her rank if she spends some time receiving treatment for any harm and...
+* Her rank if she spends at least one downtime action receiving treatment for any harm and...
 * +1d for favorable healing factors (medicines, expert skill, etc)
 * +1 effect for each action spent on recovery
 
 The resulting effect roll is the number of chronic harms whose tiers she can reduce by 1 (disappearing at 0).
 She can't pick any harm which has a higher tier harm remaining.
 
-> Artemis bravely steps up to the fire breathing chimera unafraid, and faces the consequences.
-> Everyone agrees that this is a Harm IV "Burned to a crisp", but Artemis' player dissents:
-> even without cover, she's a lithe cookie and would dodge the worst of the heat.
-> That still seems really bad, but it's lowered to an acute Harm III "Badly Burned" and she needs to spend a Danger roll of favor (she ends up spending 2 favor).
-> Once Rei chases off the dragon, Ami checks in on Artemis who'd been hanging back.
-> Artemis wants to attempt recovery, so she rolls her Danger again (since she's recovering from a physical injury).
-> This time, she gets to add +1d for Ami's first aid kit, and +1d for Ami's secret medical training quality.
-> It's reduced to Harm II "Bandaged burns"; it also becomes chronic and costs Artemis another 1 favor based on her roll.
-> Even if Ami hadn't given her first aid, it still would have become chronic.
-> Finally, the princesses take some well deserved R&R.
-> Artemis rolls her recovery roll, and gets an unfortunate 1. She can reduce her Harm II to a Harm I "healing scald", but can't go any further.
-> If she'd gotten a 2, she could have removed the Harm II entirely; if she'd had other injuries, she could split the levels of result between them.
-{:.example}
-
 After recovering harms, each princess also recovers back to 9 favor (less any favor spent during this downtime).
 
 > This healing is rather rapid.
-> If you want to have a long-term injury, consider a key or a trauma to reflect that.
+> If you want to have a long-term injury, consider taking a key or a trauma to reflect that.
 {:.note}
 
 ### Twist
@@ -120,7 +126,7 @@ After recovery but before the next adventure is the Twist.
 This is when the world reacts to everything the princesses have done, as events happen in the background and the enemy maneuvers.
 
 Every agenda that could have its clock modified by the adventure gets (or loses) a tick; the narrator should describe what that means or what happens.
-Then she chooses or rolls doom, to bring these influences home to the princesses:
+Then she rolls the princess' rank, to bring these influences home to the princesses:
 
 1-3
 : A friend betrays the princesses or is hurt (by enemy action?).
@@ -137,7 +143,7 @@ Then she chooses or rolls doom, to bring these influences home to the princesses
 
 
 
-Whatever the result, if it's not interesting to pursue, the princesses can increase the trouble by the doom + 1 to handle it offscreen.
+Whatever the result, if it's not interesting to pursue, the princesses can increase the trouble by the 2 to handle it offscreen.
 
 ### Hook
 

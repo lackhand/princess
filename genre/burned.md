@@ -22,8 +22,8 @@ Ifrit
 
 Sooner or later, things will get edgy.
 Someone will seize Burned technology,
-or be rescued from the Burned _after_ the last second but want her story to continue, 
-or the princesses need to lower the Doom.
+or be rescued from the Burned _after_ the last second but want her story to continue,
+or want to play on the edge.
 
 These represent specific fates to which princesses or other characters could be driven by the Burned.
 
@@ -62,6 +62,6 @@ Singed
 : You've turned back from a dark path before it is too late for yourself.
   Your soul remains stained with what you've seen.
   : {:.prereq} Any other burned secret.
-  : When you dissent a consequence from the Burned, take +1d.
+  : When you defy a consequence from the Burned, take +1d.
   : When you investigate the Burned, take +1d.
 {:.secret}
