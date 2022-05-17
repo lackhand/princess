@@ -11,12 +11,16 @@ For all of these types of rolls, this game uses pools of various numbers of d6s 
 Die Roll & Name
 : Meaning
   > If you would roll 0d, roll 2d and discard the highest (you can't crit) {:.warning} 
+
 1-3 Failure
 : The worst you'd feared!
+
 4-5 Mixed
 : Some good, some bad
+
 6 Success
 : All good (no bad!)
+
 6,6 Crit
 : Even better than you'd hoped!
 {:.dtable}
