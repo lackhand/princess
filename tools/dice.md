@@ -4,26 +4,23 @@ title: Dice
 section: "1.1.3"
 ---
 
-Dice are a great way to settle a disagreement about what happens next ("dramatic rolls"), to determine the magnitude of an outcome ("effect-" or "cost-rolls"), or as an oracle to keep the game fresh ("fortune rolls").
+Dice are a great way to settle a disagreement about what happens next (_dramatic rolls_), to determine the magnitude of an outcome (_effect-_ or _cost-rolls_), or as an oracle to keep the game fresh (_fortune rolls_).
 
 For all of these types of rolls, this game uses pools of various numbers of d6s (notated as `1d` per die, their total number called the pool's "size"), of which the highest resulting face value(s) are read BitD-style:
 
+> If you would roll 0d, roll 2d and discard the highest (you can't _crit_)
+{:.warning} 
 
-Die Roll & Name
-: Meaning
-  > If you would roll 0d, roll 2d and discard the highest (you can't crit)
-  {:.warning} 
-
-1-3 Failure
+1-3 _Failure_
 : The worst you'd feared!
 
-4-5 Mixed
+4-5 _Mixed_
 : Some good, some bad
 
-6 Success
+6 _Success_
 : All good (no bad!)
 
-6,6 Crit
+6,6 _Crit_
 : Even better than you'd hoped!
 {:.dtable}
 
@@ -35,16 +32,16 @@ Before she actually rolls, everyone should understand what a success or failure 
 
 Sometimes you just want to know how something offscreen turns out.
 
-A fortune roll is perfect for settling questions like "is the weather nice today" or "how is mom's mood" or "which horse wins the race" or "did he make it home safely?" or "does the bridge hold?" or similar: the outcome is interesting but not dramatic and there's no princess' action driving the outcome.
+A _fortune roll_ is perfect for settling questions like "is the weather nice today" or "how is mom's mood" or "which horse wins the race" or "did he make it home safely?" or "does the bridge hold?" or similar: the outcome is interesting but not dramatic and there's no princess' action driving the outcome.
 
-The narrator sets the size of the pool by feeling, and interprets the results afterwards the same way.
+The narrator sets the size of the pool by her feeling, and interprets the results afterwards the same way.
 If it's a competition between two parties, make a fortune roll for each of them and then interpret the results.
 
-+1d
-: Per point of tier
+0d
+: Baseline. Note that rolling 2d total gives good even odds: 25% chance of failure, 33% chance of success or better.
 
 +1d
-: Per major advantage
+: Per major advantage, or per point of **tier**
 
 -1d
 : Per major disadvantage
@@ -52,7 +49,6 @@ If it's a competition between two parties, make a fortune roll for each of them 
 
 
 
-> A pool of 2d is a good random oracle, with reasonably even odds: a 25% chance of failure, a 44% chance of a mixed result, and a 31% chance of a success-or-better.
 > The narrator might roll these herself to keep things fresh, or even ask a princess to roll the dice pool for her to build tension.
 >
 > See what works for you!
@@ -62,16 +58,17 @@ If it's a competition between two parties, make a fortune roll for each of them 
 
 Settle questions like "how much" when a princess is involved.
 
-They're perfect for deciding on amount of effect or amount of cost (thus the name), when the other quantity is fixed and not in doubt.
-That's pretty common: it happens during downtime projects, during resistance rolls, during obstacles in an adventure which logically need to be overcome but which aren't actually very interesting ("locked doors").
+They're perfect for deciding on amount of **effect** or amount of **cost** (thus the name), when the other quantity is not in doubt.
+That's pretty common: it happens during **downtime projects**, during **defiance**, opposing obstacles in an adventure which logically need to be overcome but which aren't actually very interesting ("locked doors" or "scaling cliffs").
 
-For an effect roll, the narrator sets the cost (example: "you spend one downtime action"), and the princess rolls to find out the level of effect (", but how much do you accomplish?").
-For a cost roll, the narrator sets the effect ("you climb the cliff"), and the princess rolls to find out the level of cost (", but how long does it take you?").
+For an _effect roll_, the narrator sets the **cost** (example: "you spend one downtime action"), and the princess rolls to find out the level of **effect** (", but how much do you accomplish?").
+For a _cost roll_, the narrator sets the **effect** ("you climb the cliff"), and the princess rolls to find out the level of **cost** (", but how long does it take you?").
 
-This is similar to a fortune roll, but more formalized:
+This is similar to a _fortune roll_, but more formalized:
 
-* The pool size is the relevant princess' attribute (the narrator is the final judge)
+* The pool size is the relevant princess' _attribute_ (the narrator is the final judge)
 * +1d/-1d for each factor:
+
   Potency
   : particularly strong approach (perhaps from preparation?) (or -1d if particularly weak).
 
@@ -80,25 +77,25 @@ This is similar to a fortune roll, but more formalized:
 
   Quantity
   : (or number, scale, or similar) A fight is easier with allies (or -1d if the princesses are fighting a mob).
-    But on the other hand, it's easier for three princesses to slip away into a crowd; this could go either way!
+    But on the other hand, it's easier for three princesses to slip away into a crowd!
   {:.dtable}
 
 
 
 |              | 1-3  | 4-5      | 6    | 6, 6    |
 |--------------|------|----------|------|---------|
-| Effect Level | Low  | Standard | High | Extreme |
-| Cost Level   | High | Standard | Low  | None    |
+| _Effect Level_ | Low  | Standard | High | Extreme |
+| _Cost Level_   | High | Standard | Low  | None    |
 
-See "consequences" for advice on how to interpret the levels of effect or cost.
+See **consequences** for advice on how to interpret the levels of **effect** or **cost**.
 
 ### Dramatic Rolls
 
-During an adventure, many (even most?) rolls are dramatic rolls, because they settle disagreements like "what do I lose" and "what do I gain" during the same die roll.
+During an adventure, many (even most?) rolls are _dramatic rolls_, because they settle disagreements like "what do I lose" and "what do I gain" using a single die roll.
 
 They're good for chaotic or violent events like combat or for rapidly evolving situations like young love.
-They're characterized by having a known effect and risk, and the roll determining how much of each actually happens.
-The narrator states the level of effect and risk (using risk factors to adjust them).
+They're characterized by having a known **effect** and **risk**, and the roll determining how much of each actually happens.
+The narrator states the level of **effect** and **risk** before the roll, using the princess' approach and goals.
 
 This is similar to a fortune roll, but even more formalized:
 * The princess picks up 0d, then adds one more for each link between her approach (or goal) and her player agenda:
@@ -106,10 +103,10 @@ This is similar to a fortune roll, but even more formalized:
   * Is this bold (unexpected or awesome)? +1d
   * Is this curious (what could we learn, what exploration does it reward)? +1d
   * Is this true (to herself & the circumstances)? +1d
-* The narrator uses the approach, factors like potency, quality, & quantity, and their judgment to declare the effect and risk
+* The narrator uses the approach, factors like _potency_, _quality_, & _quantity_, and their judgment to declare the **effect** and **risk**
 * The princess rolls
 
-See "consequences" for advice on how to read the results.
+See **consequences** for advice on how to read the results.
 
 > Answer the agenda questions out loud!
 > It's genre appropriate to externalize your emotions in this way, and it tells us your princess' truth.
@@ -124,16 +121,18 @@ See "consequences" for advice on how to read the results.
 
 Princesses have a few optional rules they can use when rolling dice (if the fiction permits).
 These don't make much sense during fortune rolls, but make lots of sense during effect rolls, cost rolls, and dramatic rolls.
-* Teamwork. Everyone tries to do the same thing and picks one leader.
+* _Teamwork_. Everyone tries to do the same thing and picks one leader.
   She explains how she leads.
   Everybody makes the same roll (as they normally would).
   The leader picks one result that applies to everyone.
   The leader pays 1 favor for each failure this erases.
-* Push yourself. During any roll, a princess may pay 2 favor, try very hard, and get +1d.
-* Help a friend. During any friend's roll, a princess may pay 1 favor, say how they help, and give her +1d.
+* _Push yourself_. During any roll, a princess may pay 2 favor, try very hard, and get +1d.
+* _Help_ a friend. During any friend's roll, a princess may pay 1 favor, say how they help, and give her +1d.
   If there are any consequences, she suffers them, too.  
   Non-princesses can help too in the fiction, which adjusts position and effect.
-* Instigate. Whenever anyone rolls, suggest an unexpected way in which things get more interesting.
+* _Instigate_ (out of character). Whenever anyone rolls, suggest an unexpected way in which things get more interesting.
   If everyone agrees, she gets +1d, but the fictional wrinkle comes true.
-* swap +1d/effect. Bonus dice from special approaches still count against a princess' 6d limit, but she can choose to set 1 aside unrolled for +effect.
-* swap effect/risk. If there is a risk, you might agree to exchange risk for effect 1:1 before the roll by being especially aggressive or cautious.
+* _Swap_ +1d/effect. Bonus dice from special approaches still count against a princess' 6d limit, but she can choose to set 1 aside unrolled for +effect.
+* _Swap_ effect/risk. If there is a risk, you might agree to exchange risk for effect 1:1 before the roll by being especially aggressive or cautious.
+
+All of these require the whole table to agree that they make sense.
