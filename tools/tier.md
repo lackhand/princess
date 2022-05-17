@@ -15,8 +15,7 @@ For instance, we might say a stone wall was Hardness IV, and the spaghetti Hardn
 That's a difference of 6! A big number! Very difficult to overcome!
 
 But perhaps soft cheese is merely Hardness -1.
-That's a difference of 1 level, a small number, it's plausible but difficult.
-Still difficult, but probably doable.
+That's a difference of 1 level, a small number, it's... plausible but difficult.
 
 We can use this same procedure to answer harder questions too:
 * Can a cat sneak past a security system?
