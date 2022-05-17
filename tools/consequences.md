@@ -4,129 +4,113 @@ title: Consequences
 section: "1.1.4"
 ---
 
-After a roll, whatever happens (good and bad) are its consequences.
+After a roll, whatever happens (good and bad) are its **consequences**.
 
-Good consequences are called the effect, and mechanically are ticks on a clock towards some positive change in the fiction.
-Bad consequences were foreshadowed by the risk, and are often just called "consequences"; see below for the forms they can take.
+Good **consequences** are called the **effect**, and mechanically are ticks on a clock towards some positive change in the fiction.
+Bad **consequences** were foreshadowed by the **risk**, and are often just called "**consequences**"; see below for the forms they can take.
 
-|         | None | Low  | Standard | High | Extreme | Explanation |
-|---------|------|------|----------|------|---------|-------------|
-| Effect  | -    | +1   | +2       | +3   | +5      | How many clock ticks of progress are accomplished towards a goal? |
-| Cost    | +1   | -1   | -2       | -3   | -5      | How many clock ticks are lost (or ticked on a bad clock)? |
-| Risk    | -    | I    | II       | III  | IV      | What is the max tier of consequences of failure? |
+|         | None | Low | Standard | High | Extreme | Explanation |
+|---------|------|-----|----------|------|---------|-------------|
+| **Effect** | - | +1 | +2      | +3   | +5    | How many clock ticks of progress are accomplished towards a goal? |
+| **Cost** | +1  | -1 | -2      | -3   | -5    | How many clock ticks are lost (or ticked on a bad clock)? |
+| **Risk** | -   | I  | II      | III  | IV    | What is the max tier of consequences of failure? |
 
 The narrator uses the fiction as a base from which to interpret the dice result, then she attaches mechanics.
 
 ### Narrating an effect- or cost-roll
 
-For an effect or cost roll, she merely reads off the number of ticks of effect (or of cost).
-For instance, an effect roll that ends up as a mixed result sets the result as standard; a standard effect is worth 2 ticks. Done.
+For an effect- or cost-roll, she merely reads off the number of ticks of **effect** (or of **cost**).
+For instance, an effect roll that ends up as a _mixed result_ sets the result as _standard_; a _standard effect_ is worth 2 ticks. Done.
+
+Cost can result in a refund, or in positive ticks to some other clock!
+For instance, a princess that rolls a _crit_ on **defiance** gets 1 **favor** back instead of losing any!
 
 ### Narrating a dramatic roll
 
-The narrator had already set the level of effect and of risk before the roll.
+The narrator had already set the _level_ of **effect** and of **risk** before the roll.
 After the roll, she's determining exactly how much of each happens.
 
-Mixed or worse
-: Pick as many of the examples of negative consequences below as make sense with the fiction.
-  After learning the consequences, the princess can defy each individual consequence she wishes.
+_Mixed_ or worse
+: Pick as many of the examples of negative **consequences** below as make sense with the fiction.
+  After learning the **consequences**, the princess can **defy** each individual **consequence** she wishes.
 
-Mixed or better
-: Tick a clock for the level of effect (on a crit, perhaps +1 additional tick?)
+_Mixed_ or better
+: Tick a _clock_ for the level of **effect** (on a _crit_, perhaps +1 additional tick?)
 {:.dtable}
 
 
 
 #### The princess & Low Risk rolls
 
-When a risk is low risk, the princess has an extra option to avoid worsening the situation in addition to normal defiance.
+When a **risk** is _low_, the princess has an extra option to avoid worsening the situation in addition to **defiance**.
 
-Before learning the consequences but after learning the result of a low risk roll, the princess can choose to withdraw or to press on.
-If she withdraws, nothing happens (even if the result was mixed or even a success!); the princess can try a different approach, or else this approach becomes riskier.
+Before learning the **consequences** but after learning the result of a _low risk_ roll, the princess can choose to _withdraw_ or to _press on_.
+If she decides to _withdraw_, nothing happens (even if the result was _mixed_ or even a _success_!); the princess can try a different approach, or else this approach becomes riskier.
 
 ### Negative Consequences
 
 Some examples:
 
 Complication
-: Introduce a clock as a threat, or make tier ticks on one. Remember to honor mixed results!
-  * Remember, time and trouble clocks are often a good default!
-  * Never directly target favor as a complication; this would make defiance very weird!
+: Introduce a _clock_ as a threat, or make _risk level_ ticks on one. Remember to honor mixed results!
+  * Never directly target **favor** as a **complication**; this would make **defiance** very weird!
+  * Examples: "patrol arrives", "intruder alert", "room catches fire", "out of ammunition", etc
 
 Reduced Effect
 : (mixed only) Reduce the effect by up to the risk tier (not to 0, though!).
 
 Lost opportunity
 : Things change so that your previous approach won't work in the new situation.
+  * Examples: Car chase moves to boats; deception is revealed; monster evolves new immunity; lose sight of quarry.
 
 Riskier
 : Things change so that your previous approach (and those like it) have a higher risk level in the future.
+  * Examples: Brawler grabs weapon; monster evolves new attack; suspicions mount; dangling from rooftop.
 
 Harm
-: The princess is changed in some way from which she will need to recover.
+: The princess is changed in some way from which she will need to recover. See below!
 {:.dtable}
 
 
-### Protection
-
-A princess can face the consequences for another, if she explains how she substitutes herself.
-She can still use defiance!
 
 ### Defiance
 
-A princess uses defiance to defy each consequence separately, reducing or eliminating it.
+A princess uses **defiance** to **defy** each **consequence** separately, reducing or eliminating it.
 
-This allows the narrator to threaten heavy consequences, knowing that if they are too heavy, the princess will be still be able to edit them into palatability.
-The narrator decides whether and by how much the consequence is reduced (following the genre conventions).
-The narrator decides which attribute the princess should use to make a random cost roll (based on the fiction & the nature of the consequences).
-The princess expends the resulting favor (or on a crit, gains that much favor).
-Should this remove the princess' last point of favor, see Trauma.
+This allows the narrator to threaten heavy **consequences**, knowing that if they are too heavy, the princess will be still be able to edit them into palatability.
+The narrator decides whether and by how much the **consequence** is reduced (following the _genre_ conventions).
+The narrator decides which **attribute** the princess should use to make a random _cost roll_ (based on the fiction & the nature of the **consequences**).
+The princess expends the resulting **favor** (or on a _crit_, gains that much **favor**).
+Should this remove the princess' last point of **favor**, see **Trauma**.
 
-This is just a cost roll, and like any cost roll is adjusted +1d/-1d by the factors of potency, quality, and quantity.
+This is just a _cost roll_, and like any _cost roll_ is adjusted +1d/-1d by the factors of _potency_, _quality_, and _quantity_.
 
+### Protection
+
+A princess can take the **consequences** for another, if she explains how she substitutes herself.
+She can still use **defiance**!
 
 ### Harm
 
-Each harm is a trait describing how a princess has been affected by her adventures.
-Harm is almost always a consequence (and so a princess can defy it).
-It has a tier (no higher than the tier of the consequence that caused it).
+Each _harm_ is a _trait_ describing how a princess has been affected by her adventures.
+_Harm_ is almost always a **consequence** (and so a princess can **defy** it).
+It has a _level_ (no higher than the _level_ of the **consequence** that caused it).
 
-When any of her harms is relevant to a princess, she suffers it & all lower tiers' penalties:
+When any of her _harms_ is relevant to a princess, she suffers it & all lower _levels_' penalties:
 
-| Tier | Limit | Name | Effect | Example |
+| Level | Limit | Name | Effect | Example |
 |------|-------|------|--------|---------|
 | 0    | -     | None | -      | -       |
-| I    | 3x    | Minor | Considered for effect | Battered Arm, Drained, Distracted, Scared, Confused, Nauseated |
+| I    | 3x    | Minor | Considered for _effect level_ | Battered Arm, Drained, Distracted, Scared, Confused, Nauseated |
 | II   | 2x    | Moderate | Take -1d when it applies | Exhausted, Deep Cut to Arm, Concussed, Panicked, Seduced, Sick |
-| III  | 1x    | Severe | Incapacitated: Actions have no effect level (can get help and push). | Impaled, Broken Leg, Badly Burned, Terrified, Infirm |
-| IV+  | 1x    | Critical | Broken: You're taken out until you recover. How are you changed? | Electrocuted, Drowned, Stabbed in the Heart, Dead |
+| III  | 1x    | Severe | _Incapacitated_: Everything has _effect level none_ (can get _help_ and _push_). | Impaled, Broken Leg, Badly Burned, Terrified, Infirm |
+| IV+  | 1x    | Critical | _Broken_: You're taken out until you recover. How are you changed? | Electrocuted, Drowned, Stabbed in the Heart, Dead |
 {:.tablecol}
 
-The limits are suggestions at or after which the princess should be facing higher risk than the fiction would otherwise suggest due to her accumulated harm. They're not strict limits, of which there are technically none.
+The limits are suggestions at or after which the princess should be facing higher **risk** than the fiction would otherwise suggest due to her accumulated _harm_. They're not strict; go with what makes sense!
 
-In the scene during which a harm is first inflicted, it's "acute".
-After some time passes or the fiction changes, the harm becomes "chronic" (or in the process of recovery).
+Non-princesses can suffer _harm_ by just treating them as _traits_.
 
-Non-princesses can suffer harm by just treating them as traits.
-
-#### Acute Recovery
-
-Different harms require different interventions in the fiction:
-
-First aid or indulgence
-: Physical strain or injury
-
-Ritual or preparation
-: Deception or understanding
-
-Reminiscing or discussion
-: Social, emotional, or magical
-{:.dtable}
-
-
-
-Once she's addressed a harm in the fiction (or after the opportunity has passed), she can choose to make a cost roll with the appropriate attribute and pay that amount in favor (similar to defiance) to reduce the harm by one tier.
-Either way, the harm then becomes chronic; see Downtime to further resolve.
 
 ### Consequences in other contexts
 

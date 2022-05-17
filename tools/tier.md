@@ -7,7 +7,7 @@ section: "1.1.0"
 Can a normal person knock down a wall by using dry spaghetti?
 
 What if the wall were made of soft cheese? Hard cheese? They're using boiled spaghetti?
-Tier lets us capture our expectations around this and other important questions by estimating scale.
+**Tier** lets us capture our expectations around this and other important questions by estimating scale.
 Numbers are useful: you can compare them, or pick up that many dice.
 Lots of other tools will use tier in specific ways, but for now let's just talk about how to estimate a tier at all.
 
@@ -24,10 +24,10 @@ We can use this same procedure to answer harder questions too:
 * Can the explosives destroy the locked door?
 * Can love conquer fear?
 
-Tier is contextual ("size" and "education" and "flammability" could all be measured for the same person, but would usually be different from each other).
-By comparing the various tiers involved in a disagreement, we can agree on an effect, risk, and pool, and then let the dice take it from there.
+**Tier** is contextual ("size" and "education" and "flammability" could all be measured for the same person, but would usually be different from each other).
+By comparing the various **tiers** involved in a disagreement, we can agree on an **effect**, **risk**, and pool of dice, and then let the dice take it from there.
 
-It can always be used to measure things subjectively, for instance:
+It can be used to measure things subjectively, for instance:
 
 | Tier | Quality    | Rarity  | Examples    |
 |------|------------|---------|-------------|
@@ -42,7 +42,7 @@ It can always be used to measure things subjectively, for instance:
 | VII+ | Peerless | Unprecedented | A demigod |
 {:.tablecol}
 
-But tier is exponential, and can also be used to measure objective quantities like size or count:
+But **tier** can also be used to measure objective quantities like size or count (exponentially):
 
 | Tier | Count | Time       | Size      | Force   |
 |------|-------|------------|-----------|---------|
@@ -64,16 +64,16 @@ But tier is exponential, and can also be used to measure objective quantities li
 
 ### Tier as a single number
 
-As an abstraction, it's ok to talk about an object's overall "tier", its default magnitude in the absence of better information about it.
-For non-princess characters and tools and obstacles, define their tier and any traits, and then never look back!
+As an abstraction, it's ok to talk about an object's overall "**tier**", its default magnitude in the absence of better information about it.
+For non-princess characters and tools and obstacles, define their **tier** and any traits, and then never look back!
 
-For instance, a normal bathroom door might be tier 0 ("weak"):
+For instance, a normal bathroom door might be **tier** 0 ("weak"):
 not much of a barrier, poor quality, not very flame resistant, lighter weight, etc.
-A house in a peaceful village might boast a tier I ("moderate") front door,
-while an apartment in the bad part of town a tier II ("strong") front door
-or even a tier III ("serious") front door if it had four deadbolts and a reinforced peephole.
-The important thing there is that we're not describing any specific aspect of the door; we're just describing the door's overall tier in a single number, and trusting the fiction to fill in any missing details.
+A house in a peaceful village might boast a **tier** I ("moderate") front door,
+while an apartment in the bad part of town a **tier** II ("strong") front door
+or even a **tier** III ("serious") front door if it had four deadbolts and a reinforced peephole.
+The important thing there is that we're not describing any specific aspect of the door; we're just describing the door's overall **tier** in a single number, and trusting the fiction to fill in any missing details.
 You can use the same technique with anything in the game: an obstacle, a tool, a spell, an antagonist, a friend.
 
-Remember, tier describes an object but doesn't dictate it.
-If a more specific magnitude makes more sense in the fiction than something's tier, go with that!
+Remember, **tier** describes an object but doesn't dictate it.
+If a more specific magnitude makes more sense in the fiction than something's **tier**, go with that!

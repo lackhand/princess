@@ -6,48 +6,48 @@ section: "1.1.7"
 
 Between adventures a princess needs her rest, so that she can rise to face to the next adventure.
 
-Together, the table progresses through the Trouble, Projects, Recovery, Twist, and Hook phases.
+Together, the table progresses through the _Trouble_, _Projects_, _Recovery_, _Twist_, and _Hook_ phases.
 
-> Downtime occurs between sessions.
+> Downtime occurs at the edges of the sessions of your game.
 >
 > Despite how the inspirational media usually begins with slice-of-life and then transitions into superheroics,
 > it's easier at the table to begin with heroics, and to end with slice-of-life.
 > Since it's cyclical, this isn't really a problem.
 >
-> Between sessions is also a great time to take a breather and reassess things like the genre.
+> Between sessions is also a great time to take a breather and reassess things like the _genre_.
 > How's it going?
 > Does anything need adjustment?
-> Have the princesses grown, and it's time to reflect that in their rank?
+> Have the princesses grown? Does this need adjustment to their **rank**?
 {:.note}
 
 ### Trouble
 
-In addition to any trouble the princesses gained on-screen, every adventure has fallout.
-The narrator should judge how destructive, chaotic, or personally damaging this adventure was to the princesses, giving them points of trouble as appropriate:
+In addition to any **trouble** the princesses gained on-screen, every adventure has fallout.
+The narrator should judge how destructive, chaotic, or personally damaging this adventure was to the princesses, giving them points of **trouble** as appropriate:
 
 | None | Low | Standard | High | Extreme |
 |------|-----|----------|------|---------|
 | 0    | 1   | 2        | 3    | 5       |
 
-If this increases the trouble to or past 10, it wraps around to 0 and the princess' rank decreases by 1.
+If this increases the **trouble** to or past 10, it wraps around to 0 and the princess' **rank** decreases by 1.
 What goes wrong? Who's hunting them now? How does someone close to them suffer?
 
-> Princesses can reduce trouble using downtime actions, but they can't make it run backwards;
-> once it spills over, the reduction in rank is permanent!
+> Princesses can reduce **trouble** using _downtime actions_, but they can't make it run backwards;
+> once it spills over, the reduction in **rank** is permanent!
 {:.note}
 
 ### Projects
 
-Princesses make things happen in the world through Projects.
+Princesses use _projects_ to accomplish non-adventurous things.
 
-Usually, each princess gets 2 downtime actions to spend on her projects:
-* If the princesses' rank is I or less, she gets 1 downtime action.
-* If the princess' rank is III or more, she gets 3 downtime actions.
-* Each princess can take 1 additional action by spending 2 favor
-  * or add 1d to an action by spending 1 favor.
+Usually, each princess gets 2 _downtime actions_ to spend on her _projects_:
+* If the princesses' rank is I or less, she gets 1 _downtime action_.
+* If the princess' rank is III or more, she gets 3 _downtime actions_.
+* Each princess can take 1 additional _downtime action_ by spending 2 **favor**
+  * or add 1d to a _downtime action_ by spending 1 **favor**.
 
 Work
-: The princess spends time on a project. The number of ticks is determined by an effect roll using an appropriate approach:
+: The princess spends time on a _project_. The number of ticks is determined by an _effect roll_ of an appropriate _approach_:
 
 1-3 Failure
 : 1 tick
@@ -64,16 +64,17 @@ Work
 
 
 
-This could be some public agenda, a personal project, etc! For instance:
+This could be some public agenda, a personal project, or anything else! For instance:
 
 Duty
-: The princess volunteers, patrols, or does repairs to lower the trouble clock.
+: The princess volunteers, patrols, or does repairs to lower the **trouble** clock.
+  Note: This can't lower it below 0!
 
 Research
-: The princess uses a laboratory, library, or her contacts to gather information, do analysis, or invent something
+: The princess uses a laboratory, library, or her contacts to gather information, do analysis, or _invent_ something
 
 Prepare & Train
-: The princess works on herself, marking a number of ticks of XP towards a specific advance
+: The princess works on herself, marking a number of ticks of _XP_ towards a specific _advance_
 {:.dtable}
 
 
@@ -82,7 +83,7 @@ Alternatively, she can introduce a new fictional element:
 
 Acquire
 : The princess introduces a tool she can construct, a friend she can call in a favor from, etc.
-  The tier of the introduced thing is an effect roll of the princess' rank (too low a tier perhaps unavailable?)
+  The **tier** of the introduced thing is an effect roll of the princess' **rank** (too low a tier perhaps unavailable?)
   This could take multiple forms:
   bringing someone on a date, crafting a new tool, borrowing a motorbike, or calling in a favor.
 
@@ -103,18 +104,19 @@ Acquire
 
 ### Recovery
 
-Chronic harms require time and effort to overcome.
+_Harms_ are gradually removed between adventures, as they're addressed in the fiction.
 
-Once each downtime, each princess can make a recovery roll:
+Once each **downtime**, each princess can make a _recovery_ roll:
 * 0d if she cannot spend time recovering or...
-* Her rank if she spends at least one downtime action receiving treatment for any harm and...
-* +1d for favorable healing factors (medicines, expert skill, etc)
+* Her **rank** if she spends at least one downtime action receiving treatment for any harm and...
+* +1d for favorable healing factors (access to medicines, expert skill, etc)
 * +1 effect for each action spent on recovery
 
-The resulting effect roll is the number of chronic harms whose tiers she can reduce by 1 (disappearing at 0).
-She can't pick any harm which has a higher tier harm remaining.
+The resulting _effect roll_ is the number of treated _harms_ whose tiers she can reduce by 1 (disappearing at 0).
 
-After recovering harms, each princess also recovers back to 9 favor (less any favor spent during this downtime).
+She can't pick any harm which she hasn't addressed.
+
+After recovering harms, each princess also recovers back to 9 **favor** (less any **favor** spent during this **downtime**).
 
 > This healing is rather rapid.
 > If you want to have a long-term injury, consider taking a key or a trauma to reflect that.
@@ -122,11 +124,11 @@ After recovering harms, each princess also recovers back to 9 favor (less any fa
 
 ### Twist
 
-After recovery but before the next adventure is the Twist.
+After recovery but before the next adventure is the _Twist_.
 This is when the world reacts to everything the princesses have done, as events happen in the background and the enemy maneuvers.
 
-Every agenda that could have its clock modified by the adventure gets (or loses) a tick; the narrator should describe what that means or what happens.
-Then she rolls the princess' rank, to bring these influences home to the princesses:
+Every agenda that could have its clock modified by the adventure gets (or loses) a tick; the narrator should describe what that means or what changes in the world.
+Then she rolls the princess' **rank**, to bring these influences home to the princesses:
 
 1-3
 : A friend betrays the princesses or is hurt (by enemy action?).
@@ -143,20 +145,20 @@ Then she rolls the princess' rank, to bring these influences home to the princes
 
 
 
-Whatever the result, if it's not interesting to pursue, the princesses can increase the trouble by the 2 to handle it offscreen.
+Whatever the result, if it's not interesting to pursue, the princesses can increase the **trouble** by 2 to simply handle it offscreen.
 
 ### Hook
 
-After determining the Twist, it's time for the next adventure.
+After determining the _Twist_, it's time for the next adventure, with the _Hook_.
 
-Maybe the princesses have a plan they want to pursue.
-Maybe the twist implies an adventure to save someone, the enemies plans are clear and the next step is to block them, or pursuit of a project requires a field trip.
-That's a great hook, and the princesses can go do it!
+Maybe the princesses have a plan they already wanted to pursue.
+Maybe the _twist_ implies an adventure to save someone, the enemies plans are clear and the next step is to block them, or pursuit of a project requires a field trip.
+That's a great _hook_, and the princesses can go do it!
 
-Otherwise, they might turn to the narrator and ask for a hook from her.
+Otherwise, they might turn to the narrator and ask for a _hook_ from her.
 That's fine too; that's when the monster of the week pops up, and the princesses need to decide how to deal with it.
 
-You might consider the trouble when describing this hook (and throughout the adventure):
+You might consider the _trouble_ when describing this _hook_ (and throughout the adventure):
 
 0
 : The threat is remote and abstract; the villains are siphoning energy through a day spa.

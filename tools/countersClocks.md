@@ -11,30 +11,30 @@ Different physical counters will feel differently at the table: poker chips or t
 But they all work the same way; see what works for you and your table and your circumstance.
 Fiction comes first! This is just a way to quantize incremental progress.
 
-It's common to call counters that foreshadow an effect when they fill a "clock", and to maintain it in public with a label to remind us what it portends (the obstacle or change, not the method!).
+It's common to call counters that foreshadow an effect when they fill a _clock_, and to maintain it in public with a label to remind us what it portends (the obstacle or change, not the method!).
 They should trigger (full, empty, or both; whatever makes sense) when the fiction reaches a critical point and changes, which might overcome an obstacle, change it, introduce a new one, or so forth.
-The narrator is in charge of creating new clocks and describing their size or complexity.
+The narrator is in charge of creating new _clocks_ and describing their size or complexity.
 A simple progression might use a 1-clock, a complex one a 4-clock, a more complicated one a 6-clock, or a daunting one an 8+-clock.
 
 Favor
-: Princesses spend this counter as a resource to decree, defy, push, help, and more.
-  When it runs out, she acquires Trauma.
+: Princesses spend this counter as a resource to **decree**, **defy**, _push_, _help_, and more.
+  When it runs out, she acquires **Trauma**.
 
 XP
-: Princesses acquire this resource by acting in accordance with their keys.
+: Princesses acquire this resource by acting in accordance with their _keys_.
 
 Advance
-: A princess acquires an advance by spending 5 XP (at any time), or breaking a key for 2 advances.
-  She can spend 1 advance to add 1 trait in a way that makes sense to the table.
+: A princess acquires an advance by spending 5 **XP** (at any time), or _breaking_ a _key_ for 2 **advances**.
+  She can spend 1 **advance** to add 1 _trait_ in a way that makes sense to the table.
 
 Trouble
-: There's just one Trouble counter, and every time it would hit 10, it wraps around and decreases the princess' Rank (which makes lots of things harder for them!).
+: There's just one **Trouble** counter, and every time it would hit 10, it wraps around and decreases the princess' **Rank** (which makes lots of things harder for them!).
   
 Time (var)
-: During an adventure, time is always ticking until the patrol comes back, the sun comes up, the window of opportunity closes.
+: During an adventure, time is always ticking: until the patrol comes back, the sun comes up, the window of opportunity closes.
 
 Project
-: During downtime, princesses & others pursue their works.
+: During **downtime**, princesses & others pursue long term goals.
 {:.dtable}
 
 
@@ -50,9 +50,9 @@ or longer-term session clocks ("stars align", "enemy finds next victim", "new to
 
 ### Costs
 
-Counters & clocks make a great cost to make a princess' action more palatable.
+Counters & clocks make a great way to increase the palatibility of a princess' actions.
 
-For instance, if the genre allows decrees, imposing a cost in favor (or trouble) can make a memory or decree more plausible.
-If an action should have a cost in time or trouble, it could be threatened as a risk outcome from a roll, but sometimes it makes more sense to impose it as a fixed 1-tick cost (such as during downtime).
+For instance, imposing a **cost** in **favor** balances out a somewhat implausible **memory**; this can also work with other **decrees** (or other resources, like **trouble**!).
+If an action should have a cost in time or **trouble**, it could be threatened as a **risk** outcome from a roll, but sometimes it makes more sense to impose it as a fixed 1-tick cost (such as during **downtime**).
 
 After each session, villainous schemes might develop by one tick.

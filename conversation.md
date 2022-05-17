@@ -5,30 +5,37 @@ section: "0.2"
 ---
 This game is played by a group of people holding a conversation.
 
+> What is a tabletop RPG?
+> If this is your first exposure, you could try [this page](https://wiki.roll20.net/Introduction_To_Tabletop_RPGs).
+> Welcome!
+{:.aside}
+
 ## Play Agenda
 
-One of you plays the narrator and the others of you play princesses. You'll work together to have a fun adventure.
-* You'll all do this sitting down at a table (or whatever, you do you), rolling dice, and having a conversation or telling a story together:
+One of you plays the narrator and the others of you play princesses.
+You'll work together to have a fun adventure.
+* You'll all do this sitting down at a table (or whatever, you do you), rolling dice, and having a conversation to tell a story together:
   * If something bothers you, say it! If someone's bothered, help resolve it!
   * If something delights you, say it! If someone's delighted, keep it going!
-  * Everyone's here to have a good time. Be bold! Be curious! Be true! Above all: be kind!
-  * Before play starts in earnest, you'll all write down the genre together to set some expectations.
+  * Everyone's here to have a good time. Be _bold_! Be _curious_! Be _true_! Above all: be _kind_!
+  * Before play starts in earnest, you'll all write down the _genre_ together to set some expectations.
 * Each princess' player (also called a princess) is an actor, writer, and fan club for her character (and the others!). Not a passive viewer.
-  * Be kind: Share the spotlight! Yes-and! Share things! Pick up the slack!
-  * Be bold: Act! Verb! Get into trouble! Fail! Change the world!
-  * Be curious: Take an interest! Investigate! Try out your character's feelings! Play to find out!
-  * Be true: Make your princess compelling. Make her passionate! Vulnerable! Strange! Real! Afraid! Admirable!
+  * Be _kind_: Share the spotlight! Yes-and! Share things! Pick up the slack!
+  * Be _bold_: Act! Verb! Get into trouble! Fail! Change the world!
+  * Be _curious_: Take an interest! Investigate! Try out your character's feelings! Play to find out!
+  * Be _true_: Make your princess compelling. Make her passionate! Vulnerable! Strange! Real! Afraid! Admirable!
 * The narrator is an umpire, stage crew, janitor, and emcee. Not a writer.
-  * Be kind: Be fair! Be a fan of everyone! Foreshadow threats! Celebrate successes! Leave hooks everywhere!
-  * Be bold: Cut to the action! Find the challenges! Find interesting obstacles! Keep the pressure on!
-  * Be curious: Don't plan. Ask a lot of questions! Difficult ones! Pointed ones! Play to find out!
-  * Be true: Make the world compelling! Play to the genre! React! Callback to what we learn!
+  * Be _kind_: Be fair! Be a fan of everyone! Foreshadow threats! Celebrate successes! Leave hooks everywhere!
+  * Be _bold_: Cut to the action! Find the challenges! Find interesting obstacles! Keep the pressure on!
+  * Be _curious_: Don't plan. Ask a lot of questions! Difficult ones! Pointed ones! Play to find out!
+  * Be _true_: Make the world compelling! Play to the genre! React! Callback to what we learn!
 
+> Every player except for the narrator is a princess in this game, though you can call it whatever you'd like;
+> you're all here to have fun and to tell an exciting story.
+> The player agenda (and other rules) are guidelines to help that happen, but are no substitute for talking things out as players and as friends.
+> For example, your table could use [safety tools](https://slyflourish.com/safety_tools.html).
 {:.aside}
-> Every player but the narrator is a princess in this game, though you can call it whatever you'd like.
-> The important thing is that you follow your player agenda!
 
----
 ## Conversation
 
 At the beginning of the session, the narrator establishes the scene:
@@ -72,9 +79,9 @@ And then the narrator moves the story from there, and things repeat!
 
 ### Actions
 
-It's best when the narrator is curious, prompting and asking questions of the princesses.
+It's best when the narrator is _curious_, prompting and asking questions of the princesses.
 
-It's best when the princesses are bold, doing and saying and feeling things which cause changes in the world.
+It's best when the princesses are _bold_, doing and saying and feeling things which cause changes in the world.
 
 It's everyone's job to help the princesses to turn the clarification question _is it locked?_ into the investigative action _I try the handle_.
 
@@ -86,19 +93,18 @@ If there's a disagreement, well, that's why that section is there.
 ### Favor & other resources
 
 Princesses are special, since they're the center of the story.
-To help her along, each princess has a supply of favor (a metagame resource and combination of luck, strength, grace, patience, and willpower).
-There might be other resources (individual or shared) reflecting something true in the fiction, like time or money or trouble or even experience.
+To help her along, each princess has a supply of **favor** (a metagame resource and combination of luck, strength, grace, patience, and willpower).
+There might be other resources (individual or shared) reflecting something true in the fiction, like time or money or **trouble** or even **experience**.
 
-Spending those resources is one way for a princess to smooth over disagreement.
-Some resources might not make sense as a way to resolve a disagreement.
-Favor is pretty universal, though:
-if a princess spends favor, she's signaling that something is important to her, and everyone should recognize that!
+Spending an appropriate resource is one way for a princess to smooth over disagreement: it might be too convenient for Ami to pick the lock for free, but what if it took her a clock-tick of time?
+**Favor** is pretty universal, though:
+if a princess offers **favor**, she's signaling that something is important to her, and everyone should recognize that!
 
 ### Decrees & Memories
 
 Authorship is hard.
 
-Some genres prefer that the narrator alone determine if someone is actually the long-lost lover of a princess.
+Some genres prefer that the narrator determines if someone is actually the long-lost lover of a princess.
 
 Some genres prefer that the mechanics of finding a secret passage determine the presence of a secret passage.
 
@@ -106,34 +112,29 @@ Some genres prefer that a 3/4" socketwrench be declared "packed" before beginnin
 
 Others... don't!
 
-When a princess declares a something in the fiction that isn't her own action in the current scene, it's called a decree.
+When a princess declares something in the fiction that isn't her own action in the current scene, it's called a **decree**.
 It's sort of acting like the narrator.
 It's still a part of the conversation.
 It can still prompt disagreements, which can be particularly difficult to resolve!
-A special kind of decree is a memory, which combines an action (or whole scene that) the princess could have taken with the change that she's not taking it now, but in the past.
-Memories are a little easier than other decrees to handle, since the only new wrinkle compared to a usual action is whether the princess would have taken the actions.
+A special kind of **decree** is a **memory**, which combines an action (or whole scene!) that the princess could have taken previously in the fiction.
+**Memories** are a little easier than other **decrees** to handle, since the only new wrinkle compared to a usual action is whether the princess would have taken the actions.
+You can just pause the current scene while you figure out what really happened during the **memory**, and then resume the current scene with your new shared understanding.
 
-> Decrees can make the world feel less real, so definitely let the genre be your guide to using decrees!
+> **Decrees** can make the world feel less real, so definitely let the _genre_ be your guide to using them!
 {: .warning}
 
 ### Disagreement
 
-When there's any question of (or disagreement about) what happens next, start with discussion and resolve it as a table
+When there's any question of (or disagreement about) what happens next in the fiction, start with discussion and resolve it as a table
 (narrator, remember to mediate and ask questions!).
-The princess should clarify her approach and goals, while the narrator should clarify the costs, consequences, risks, and expected effects.
+The princess should clarify her _approach_ and _goal_, while the narrator should clarify the **costs**, **risks** or **consequences**, and expected **effects**.
 Disagreement is really resolved by the whole table, so a good narrator could ask a question to see if anyone has good ideas for what should happen next.
-The princess might spend a resource (often favor), or turn to the dice to find out what happens next.
+The princess might spend a resource (often **favor**), or turn to the dice to find out what happens next.
 
-There are no specific rules for how to resolve disagreement between princesses.
-Resolve those as players before turning to mechanics!
+There are no specific rules for how to resolve disagreement between princesses, or how to keep the story coherent with the genre.
+Resolve those questions as players before turning to these mechanics!
 
 > If the narrator moves too quickly (& forgets to foreshadow a threat), it will probably provoke disagreement.
 > If they move too slowly or are stingy with resolution, princesses might feel impatient or cheated.
 > It's good form for her to find the right number of risk rolls with interesting stakes and to use the resulting consequences for dramatic stakes.
 {: .tip}
-
-> These "mechanics" are not a replacement for using safety tools,
-> content warnings, personal boundaries, and otherwise sticking to your genre.
-> Enforcing your boundaries isn't up for disagreement, and must be resolved as players and friends.
-> Use your words and then update the genre with your new understanding of each other.
-{: .warning}
