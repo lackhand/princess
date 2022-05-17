@@ -66,12 +66,12 @@ But **tier** can also be used to measure objective quantities like size or count
 As an abstraction, it's ok to talk about an object's overall "**tier**", its default magnitude in the absence of better information about it.
 For non-princess characters and tools and obstacles, define their **tier** and any traits, and then never look back!
 
-For instance, a normal bathroom door might be **tier** 0 ("weak"):
+For instance, a normal bathroom door might be tier 0 ("weak"):
 not much of a barrier, poor quality, not very flame resistant, lighter weight, etc.
-A house in a peaceful village might boast a **tier** I ("moderate") front door,
-while an apartment in the bad part of town a **tier** II ("strong") front door
-or even a **tier** III ("serious") front door if it had four deadbolts and a reinforced peephole.
-The important thing there is that we're not describing any specific aspect of the door; we're just describing the door's overall **tier** in a single number, and trusting the fiction to fill in any missing details.
+A house in a peaceful village might boast a tier I ("moderate") front door,
+while an apartment in the bad part of town a tier II ("strong") front door
+or even a tier III ("serious") front door if it had four deadbolts and a reinforced peephole.
+The important thing there is that we're not describing any specific aspect of the door; we're just describing the door's overall tier in a single number, and trusting the fiction to fill in any missing details.
 You can use the same technique with anything in the game: an obstacle, a tool, a spell, an antagonist, a friend.
 
 Remember, **tier** describes an object but doesn't dictate it.
