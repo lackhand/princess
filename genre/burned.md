@@ -1,7 +1,7 @@
 ---
 layout: navpage
 title: The Burned
-section: "2.1.1"
+section: "2.3"
 ---
 
 ### Creatures

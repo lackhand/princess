@@ -1,7 +1,7 @@
 ---
 layout: navpage
 title: Consequences
-section: "1.1.4"
+section: "1.1.5"
 ---
 
 After a roll, whatever happens (good and bad) are its **consequences**.

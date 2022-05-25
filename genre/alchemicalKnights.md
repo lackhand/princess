@@ -4,12 +4,12 @@ title: Alchemical Knights
 section: "2.1"
 ---
 
-If you're all "students" and "reincarnated heroes" or "giant robot pilots" or "witches", figure out what that looks like and give it to each of the princesses that to start from.
+If you're all "students" and "reincarnated heroes" or "giant robot pilots" or "witches", figure out what that looks like and give it to each of the princesses that panoply to start from.
 
 ## Relationship Keys
 
 If you want to tell a story about characters who are interrelated, it's a good idea to take traits that emphasize the relationships.
-It's hard to share the spotlight if everyone's connected through a single princess (though a non-princess character can work).
+It's hard to share the spotlight if everyone's connected through a single princess (though a non-princess character can work out).
 It's also a cop-out to say that "we're all a big friend group" or something (even if it's true).  
 It's boring, and unwieldy at the table.  
 Add texture and variety and history instead:
@@ -21,8 +21,8 @@ How do you feel about your friends in the same group (officers and rank-and-file
 These form critical keys that link the princesses. Note that these are true but not necessarily reciprocal:
 you can appreciate and process your childhood friendship differently than they do.
 
-Childhood
-: You have a tight bond from your childhood with another character.
+Devotion
+: You have a tight bond and history with another character. Childhood friends, lovers, or partners!
   : Be influenced by them, or demonstrate your bond.
   : Sever the relationship.
 
@@ -42,7 +42,7 @@ Rival
   : Admit defeat gracefully and give up.
 
 Longing
-: You have an embarrassingly intense crush on another.
+: You have an embarrassingly intense crush on another, and you can't bring yourself to make it known.
   : Make a decision based on, or otherwise indicate, your crush.
   : Reveal or foreswear your love.
 
@@ -56,6 +56,26 @@ Woobie
   : Beg for (& receive) help while you have no relevant attributes (or protection).
   : Vow you'll pull your own weight, and do so.
 {:.key}
+
+
+
+### (Optional) Randomizing Relationships
+
+Give yourself a relationship with the player to your... (roll 2d for each row, skipping yourself):
+
+|   | 1-3 | 4-5 | 6 | 6,6 |
+|---|-----|-----|---|-----|
+| With... | 1 seat right | 2 seats right | 3 seats right | 1 seat right, and roll again from their chair |
+| They're... | Reversed  | Same result | Roll new result | None; somehow, they have no relationship with you at all |
+
+To determine the nature of your relationship, roll 1d (the "Reversed" line is for their relationship with you, if any).
+
+|   | 1 | 2 | 3 | 4 | 5 | 6 |
+|---|---|---|---|---|---|---|
+| Result | Friendmom | Devotion | Longing | Rival | Roommate | Woobie |
+| Reversed | Woobie | Longing | Rival | Roommate | Devotion | Friendmom |
+
+If someone gets a relationship with you, you have the "they're" relationship with them (or whatever you want instead).
 
 ## Genre behavior keys
 
@@ -102,6 +122,8 @@ Key Kills Monsters
   : Acquire a trauma in battle with a monster.
 {:.key}
 
+
+
 > A word on using the shared expectation from the genre.
 > It's a great idea to tie into your shared expectations mechanically,
 > but it's important that you never use the break condition to reward breaking that trust!
@@ -138,63 +160,189 @@ Found Identity
   : Declare that who you are becoming is more important than who you were.
 {:.key}
 
-## Student Traits
 
-A `TortA student` is a perfectly fine attribute.
-But since everyone will have it, it's definitely worth recording in which ways your specific princess differs or excels:
 
-> Track and field, Technologist, Teacher's Pet, Shop Class, Chess Club, Art Kid, Foreign Exchange, Premed, Jock, Nerd, Geology, Esoterica, Model UN
+## (Optional) Randomizing Genre Behavior & Identity Keys
 
-You might already have some of these (perhaps from your relationships). That's fine.
+These drives are best when they're highly varied and can create conflict.
+
+So: Write them on slips of paper and pass them out randomly to each princess!
+It should work fine to put them all into one big bucket and give one each, or you could ensure each princess gets one each of genre and identity.
+
+## Student & other background Traits
+
+A `Hartshorn student` is a perfectly fine trait, but we assume all of the princesses are; you only need a trait if you _aren't_ one. Similarly, `Human` `female` `age 18` and so on is assumed.
+
+These _traits_ determine the ways in which your princess differs from the others.
+Your _traits_ are also how you tell us about your princess' background, interests, skills and knacks.
+You should pick these yourself, but if you need some inspiration, you could roll to see what that sparks:
+
+|       | **1**   | **2**   | **3**   | **4**   | **5**   | **6**   |
+|-------|---------|---------|---------|---------|---------|---------|
+| **1** | Careful | Townie | Metalshop | Feral | Corporate | Flaky |
+| **2** | Clever | Big City | Techie | Academied | Shrine | Nervous |
+| **3** | Flashy | West Coast | Vet  | Big Family | Spa  | Vain |
+| **4** | Forceful | Rural  | Jock  | Tough love | Store | Greedy |
+| **5** | Quick  | Overseas | Poet | Stable home | Library | Gullible |
+| **6** | Sneaky | Foreign | Model UN | Spoiled | Hospital | Blunt |
+|-------|---------|---------|---------|---------|---------|---------|
+|       | Quality | Origin  | "Major" | Family  | Job     | "Flaws" |
+
+You could choose or roll for some facet of your princess' past life (roll 1d for each column, or choose).
+You were of course a princess; you also had reached a specific point in your duties as an alchemical knight!
+You have a magical possession when you transform (give it a title!) which is tied to a power.
+
+|       | Rank   | Role      | Posession |
+|-------|--------|-----------|-----------|
+| **1** | Pawn   | Laborer   | Cloak     |
+| **2** | Page   | Ranger    | Helm      |
+| **3** | Squire | Cavalry   | Shield    |
+| **4** | Rook   | Scholar   | Wand      |
+| **5** | Bishop | Spy       | Device    |
+| **6** | Knight | Merchant  | Weapon    |
 
 ## Alchemical Knight Secrets
 
-An Alchemical Knight of Alembic touches on magic, so it would benefit from some secrets:
+All alchemical knights need a secret or two to explain their relationship to magic.
 
 Memories of Alembic
 : You are a reincarnated soul of Alembic.
   Who were they? How were you alike? How do you differ? Which memories do you dream?
-  : Even though you're a human, you qualify for magical traits (including secrets).
-    You can take them later in play if you later in play remember having had them.
-  : It's plausible to have memory scenes as your alter ego
-    (for instance, to establish knowledge or relationships with other relics of Alembic).
-  : Spend 2 favor to roll 4d on a risk roll (regardless of actual answers).
+  : Spend 2 favor to roll 4d on a risk roll (regardless of actual approach).
 
 Sleeper of Alembic
-: You're a nymph who survived from the fall of Alembic to the modern day by
-  a sleeping curse, petrification, time travel, etc.
+: You're a magical being who survived from the fall of Alembic to the modern day through a sleeping curse, petrification, time travel, etc.
   You've only recently become awoken. How? By whom?
-  : Humans assume you are human (without specific examination).
   : +1 favor.
 
-Awakened of Alembic
+Incarnate of Alembic
 : You're someone who originally perished in the fall of Alembic, but were magically reincarnated by the Burned as an animal or toy.
   What's your form? How did you escape? What did you learn?
   : +1d when you defy a supernatural consequence.
   : +1d when you gather information about a relic of Alembic.
 
 {:.magic} Magical Transformation
-: With a glass surface and your reflection, you can channel that past life into the present,
-  physically transforming yourself and your appearance until the next time that you sleep.
-  : While you're transformed, gain potency in combat vs the supernatural. How? What does that look like?
+: With a glass surface and your reflection, you can channel your past life into the present, physically transforming yourself and your appearance until the next time that you sleep.
+  : While you're transformed, gain +1 quantity and +1 quality in combat vs the supernatural. How? What does that look like?
 
-{:.magic} Alchemical Science Mastery
-: You have a grounding in one of the alchemical sciences, which you can use to understand and undertake magical projects.
-  : When you learn this secret, pick one science to master:
-    Alchemy : Alchemical potions, bombs, poisons, and metallurgy (one use, toxic)
-    Thaumaturgy : Arcane devices, circuits, and crystals (expensive, slow)
-    Chimerism : Chimerical plants, hybrids, and byproducts (one use, uncontrolled)
-    Theonomy : Celestial summoning and ritual (one use, expensive, uncontrolled)
+Alchemical Affinity
+: You have a knack for one of the alchemical sciences, which you can use to understand and undertake magical projects.
+  : When you learn this secret, pick one science to master.
   : When you research, invent, or craft a creation using your science, treat your results as one result higher (failure->mixed, etc).
-  : Gain one formula using your science now.
+  : Gain one science formula now.
+  : > You can research and craft formulae without affinity, but it's a longer and more expensive road.
+    {:.aside}
 {:.secret}
 
-> Alchemical science mastery makes you more reliable in downtime projects involving your science.
-> It's really alchemical engineering.
-> You can do the science without the mastery, but it might be riskier, you won't have any starting formulae, and you'll make slower progress.
-> 
-> You don't necessarily have to transform to do alchemy: it's not about your personal magic, it's magical chemistry.
-{:.aside}
+
+
+## Other Secrets
+
+{:.magic} Battleborn
+: Once when you transform, reduce _harm_ from an attack in combat or to _push_ yourself during a fight.
+
+Troubled Past
+: You're a scrapper, extremely familiar with violence.
+  : Take +1d to **defy** while you are _protecting_ another
+  : Take +1d to _gather information_ to anticipate threats
+
+Leader
+: Your words dispel make your companions `fearless` and `inspired`.
+
+Superhuman Strength
+: You can push yourself to (beyond) human limits. When you push yourself for a physical or violent feat, get +quality or +quantity.
+
+Savage
+: Using violence and fear is always _true_ and _curious_ to you (getting you at least +2d; how does everyone react?)
+
+Vigorous
+: You heal faster. Whenever you recover, recover one more injury. Take +1d whenever you recover.
+
+Sharpshooter
+: You shoot better. When you push yourself with a ranged weapon, increase the range or lay suppressive fire.
+
+{:.magic} Focused
+: Once when you _transform_, reduce a **consequence** of surprise or mental harm (fear, confusion, losing track of someone) or _push_ yourself for ranged combat or tracking.
+
+Scout
+: When you _gather information_ to discover the location of a target, you get +1 **effect**. When you hide in a prepared position or use camouflage you get +1d to rolls to avoid detection.
+
+Tough as nails
+: Penalties from harm are one level less severe (though level 4 harm is still fatal).
+
+Analyst
+: During downtime, you get two ticks to distribute among any long term project clocks that involve investigation or learning a new formula or design plan.
+
+{:.magic} Fortitude
+: Once when you _transform_, reduce a **consequence** of fatigue, weakness, or chemical effects, or _push_ yourself when working with technical skill or handling alchemicals.
+
+{:.magic} Supernatural Ward
+: When you wreck an area with arcane substances, ruining it for any other use, it becomes anathema or enticing to the supernatural (your choice).
+
+Saboteur
+: When you wreck, your work is much quieter than it should be and the damage is very well-hidden from casual inspection.
+
+Infiltrator
+: You are not affected by quality or Tier when you bypass security measures.
+
+Ambush
+: When you attack from hiding or spring a trap, you get +1d to your roll.
+
+Daredevil
+: When you roll a desperate action, you get +1d to your roll if you also take -1d to any **defiance** rolls against **consequences** from your action.
+
+The Devil’s Footsteps
+: You can push yourself to do one of the following: 
+  * perform a feat of athletics that verges on the superhuman
+  * maneuver to confuse your enemies so they mistakenly attack each other
+
+Expertise
+: Choose an attribute. When you lead a group action using that action:
+  : you can suffer only 1 stress at most, regardless of the number of failed rolls
+
+Reflexes
+: When there’s a question about who acts first, the answer is you.
+
+{:.magic} Shadow
+: Once when you _transform_, reduce a **consequence** from detection or security measures, or _push_ yourself for a feat of athletics or stealth.
+
+Like looking into a mirror
+: You can always tell when someone is lying to you.
+
+Mesmerism
+: When you sway someone, you may cause them to forget that it’s happened until they next interact with you.
+
+{:.magic} Subterfuge
+: Once when you _transform_, reduce a **consequence** from suspicion or persuasion, or to _push_ yourself for subterfuge.
+
+Trust in me
+: You get +1d vs. a target with whom you have an intimate relationship.
+
+Foresight
+: Two times per score you can _help_ a teammate without paying stress. Describe how you prepared for this.
+
+Calculating
+: Due to your careful planning, during **downtime**, you may give yourself or another +1 downtime activity.
+
+Connected
+: During downtime, you get +1 result level when you acquire an asset or reduce heat.
+
+{:.magic} Mastermind
+: Once when you _transform_, reduce a teammate's **consequence**, or _push_ yourself when you gather information, or "work on a long-term project" during the transformation.
+
+Arcane mind
+: You’re always aware of supernatural entities in your presence.
+  : Take +1d whenever you gather information about the supernatural by any means.
+
+Iron Will
+: You are immune to the terror that some supernatural entities inflict on sight.
+  : When you make a **defiance** roll with Romance, take +1d.
+
+{:.magic} Warded
+: Once when you _transform_, reduce a supernatural **consequence**, or to _push_ yourself when you contend with or employ arcane forces.
+
+{:.secret}
+
 
 
 ## Backfilling & new secrets
@@ -206,6 +354,7 @@ In general, special abilities should come in a few forms:
   We don't have special armor (or any armor).
   Perhaps we should (tied into transformation?)?
   This is really just ~2 extra favor, a consequence-or-push.
+  * Decided: this is just "once when you transform", explicitly goofy around *when* when you transform (it's nice if it's immediate, but it needn't be).
 * When you X, +1d (& skip one of the agenda questions)
 * When you push yourself, +specific effects (you still get the normal benefits of pushing yourself)
 * You can spend favor for an ability
@@ -214,22 +363,3 @@ In general, special abilities should come in a few forms:
 * +potency (similar to +effect really)
 
 
-### Inventing Formulae
-Formulae can be invented as a long term project with a decent magical laboratory, tutor, and/or grounding.
-Most new formulas or designs will require an 8-segment progress clock to invent and learn.
-
-Creation Questions
-Narrator asks: “What type of creation is it and what does it do?” Princess answers. A creation might be mundane, alchemical, arcane, or ritual.
-If the princess has an appropriate secret, she get bonuses when inventing and crafting certain creation types.
-Princess asks: “What’s the minimum quality level of this item?” Narrator answers, with the magnitude of the effects the item produces as a guideline.
-Narrator asks: “What rare, strange, or adverse aspect of this formula or design has kept it in obscurity, out of common usage?” Princess answers.
-Princess asks: “What drawbacks does this item have, if any?” Narrator answers by choosing one or more from the drawbacks list, or by saying there are none.
-
-| Drawbacks | Description |
-|-----------|-------------|
-| Complex   | You’ll have to create it in multiple stages; the narrator will tell you how many. One downtime activity and crafting roll is needed per stage. |
-| Conspicuous | This creation doesn’t go unnoticed. Take +1 trouble if it’s used any number of times on an operation. |
-| Consumable | This creation has a limited number of uses (all alchemicals and rituals must have this drawback, usually one use). |
-| Rare | This creation requires a rare item or material when it is crafted. |
-| Unreliable | When you use the item, make a fortune roll (using its quality) to see how well it performs. |
-| Volatile | The item produces a dangerous or troublesome side-effect as a consequence for the user (not target), specified by the narrator. |

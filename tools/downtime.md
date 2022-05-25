@@ -23,7 +23,8 @@ Together, the table progresses through the _Trouble_, _Projects_, _Recovery_, _T
 ### Trouble
 
 In addition to any **trouble** the princesses gained on-screen, every adventure has fallout.
-The narrator should judge how destructive, chaotic, or personally damaging this adventure was to the princesses, giving them points of **trouble** as appropriate:
+
+The narrator should judge how destructive, chaotic, or personally damaging this adventure was to the princesses, giving them points of **trouble** as appropriate.
 
 | None | Low | Standard | High | Extreme |
 |------|-----|----------|------|---------|
