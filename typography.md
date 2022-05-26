@@ -47,7 +47,8 @@ Another secret
   : ...
 {:.secret}
 
-<details><summary>Unnecessarily detailed or technical content (click the affordance!)</summary>
+<details markdown="1">
+  <summary>Unnecessarily detailed or technical content (click the affordance!)</summary>
 
 The technology I'm using has trouble with markdown inside details; this _should_ work, but mightn't.
 (update: indeed it does not).
