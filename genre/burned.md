@@ -4,16 +4,102 @@ title: The Burned
 section: "2.3"
 ---
 
-### Creatures
+#### Chimeras
 
-Ifrit
-: Djinn who serve the burned.
+The stereotypical Burned are chimerical (or at the least, satyrical) mockeries of the orders of alembic, the natural world, and so on.
+Most are fairly modern, having been created since Theophrastia's accidental summoning by the zodiacal society, created through dark chirurgical means from modern humans, powerful spirits from the fall of Alembic, and animals.
 
-  {:.rank} Rank
-  : 3
+They're driven by urges; perhaps the obsession that led them to the Burned, or for wealth or power, or for hearts, hopes, or energy for the Burning.
+
+Salamander
+: Molten metal soldiers, factory workers, and laborers combined into one twelve-limbed wyrm
+
+  {:.rank} Tier / Scale
+  : IV / III
 
   {:.traits} Traits
-  : Spiritual, fiery, sly, miraculous
+  : Heavy, molten iron blood, slagskin, stinking
+
+  Flaws (Complexity)
+  : Harden (4 with water etc), Exhaust (12) -> Destroy (12), Escape (6)
+
+Sylph
+: Ghostly etoliated soft men, that (crablike) climb into abandoned things or people and feed on them
+
+  {:.rank} Tier / Scale
+  : II / -1 (or possessed object)
+
+  {:.traits} Traits
+  : Barely there, timid, greedy, lucky!, good advice, deceitful, creeping
+
+  Flaws (Complexity)
+  : Cowed (6), Exorcised <-(6 per how settled)-> Become
+
+Anemoi
+: Two people stitched back to back, surrounded by everlasting storms; volatile and angry
+
+  {:.rank} Tier
+  : III / II
+
+  {:.traits} Traits
+  : Volatile, flying, stormwinds, static touch, horizon-eyed, thunderous roar
+
+  Flaws (Complexity)
+  : Divide with jealousy (6), Disarm (4) -> Disarm (4) -> Disarm (4) -> Disarm (4) -> Defeat (4), Outrun (6) -> Hide or Escape (12)
+
+Selkie
+: A populous satyr made of a once-human with the skin and eyes of a frog for espionage and secrecy.
+
+  {:.rank}
+  : II / 0-III+
+
+  {:.traits} Traits
+  : Big family, mightly leap, low light eyes, horrible croak, long tongue, sticky hands
+
+Dragon
+: A combination of fish (for scale), serpent and cat (for cunning), dinosaur (for flight and might), and the destructive magic and soul of a puissant elemental spirit (or citizen of Alembic).
+
+  {:.rank} Tier/Scale
+  : IV+
+
+  {:.traits} Traits
+  : Breath of death (or burning cloud, poison miasma, lines of lightning, gouts of acid, cones of cold); burning blood, swiftwing, longtooth, sharpclaw, stonescale, malicious, hawk-eyed
+  
+  Flaws (Complexity)
+  : Bribe (4), Approach (6) -> (Eaten <- 8 -> Back)
+
+{:.foe}
+
+
+
+#### Mortal Obstacles
+
+But not everything is a supernatural entity; sometimes, you just have to beat up a bunch of gangsters or dodge a cop or something.
+
+Criminal
+: A punk (0), tough (I), soldier (II), or fixer (III+).
+
+  {:.rank} Tier/Scale
+  : 0-III+
+
+  {:.traits} Traits
+  : Pipe/bat/frying pan/switchblade/chain, streetwise, In it for the money, lowest common denominator
+
+Guard
+: A security guard (-1 - 0), police patrol (0 - I), or detective (II - IV).
+  
+  {:.traits} Traits
+  : Observant, bored/sleepy, not my job, radio for backup, patrol route
+
+Military
+: A SWAT team, armed police, soldier, private guard
+
+  {:.rank} Tier/Scale
+  : III/0 (potent vs hit)
+
+  {:.traits} Traits
+  : Heavily armed, flak jacket, follows orders, radio comms, trained
+
 {:.foe}
 
 

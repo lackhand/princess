@@ -7,7 +7,10 @@ section: "2.2"
 > I'm going to put on a scuba tank so the poison elemental can't get me!  
 > ...again! Seems like we're always fighting these guys!
 
-Anything the princesses purchase as a secret works the way the secrets dictate; this section covers everything else.
+Anything the princesses purchase as a secret works the way the secrets dictate.
+This section covers everything else, particularly when designing new gifts.
+
+See gifts under tools for more advice about how to bring an item into the game.
 
 Any item first needs to be _invented_ (which might take multiple downtime actions), and then either have its recipe _crafted_ or else be _borrowed_ from some source (both of which also consume downtime).
 Sometimes an item is just encountered during an adventure, though -- perhaps it's seized at brought along?
@@ -78,19 +81,11 @@ Items are listed with a quality tier (for purchase or borrow).
 
 ### Mundane items
 
+Crowbars, bicycles, motorbikes, potato canons, cameras, pies, scarves, bookends, paintings: mundane items.
 Anything you could make in shop class or by watching videos online is common.
+Anything else (machines, medicines, etc) might need to be researched or require a more advanced workshop and research first.
 
-Anything else (machines, medicines, etc) might need to be researched or require a more advanced workshop.
-
-Armor is usually noisy and conductive; heavy armor is also distracting.
-Or: stealth gear is fragile.
-Or: scuba gear is fragile and distracting.
-Or: camping gear is synthetic and noisy.
-
-Weapons usually do crushing damage; guns and swords included.
-
-Normal equipment or gear. Crowbars, bicycles, motorbikes, potato canons, cameras, pies, scarves, bookends, paintings.
-If you need guidance, roughly the more detailed something's name is, the higher tier:
+If you need guidance for purchase difficulties, roughly the more detailed something's name is, the higher tier:
 * Single syllable abstract objects -- sword (I), gun (I), car (I), gem (I) -- get you toy versions at best.
   * Of course, you could get an automobile (IV; if "brand new", VI!) or motorbike (III)...
   * Can you get a bike (I) or must you get a bicycle (III)? Bike's probably fine.

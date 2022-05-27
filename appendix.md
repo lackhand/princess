@@ -18,7 +18,7 @@ Bits of stray thought, names, plots, etc.
 > His conversion to a Serene was incomplete, and his heart beats elsewhere.
 > He operates Theophrasta's mortal pawns to find Burned candidates, trade ash, amass reagents and other resources, etc.
 > He's impatient, ashamed of his condition, and domineering.
-> (III) Cordy (nee Arthama Pritti) was an alchemic knight who called herself the Moon Maiden in 1985 until her defeat.
+> (III) Cordy (nee Arthama Pritti) was an alchemic knight who called herself the Moon Maiden in 1985 until her defeat in 2012.
 > Leogox seduced her and Theophrasta bound her to Cordyceptyrant, a fungal jinn (she lives lest she reincarnate free).
 > She's searching for Parcel (and other returning knights) using witchtaster serpents and her cordyceptyrus curse to create willing "pod people" who burst into mutations after a limited lifespan.
 > She's unrealistic, vindictive, and romantic. She still pines for Leogox, who thinks she's pathetic.

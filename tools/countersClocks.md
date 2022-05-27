@@ -19,21 +19,23 @@ A simple progression might use a 1-clock, a complex one a 4-clock, a more compli
 Favor
 : Princesses spend this counter as a resource to **decree**, **defy**, _push_, _help_, and more.
   When it runs out, she acquires **Trauma**.
+  She should start with 9.
 
 XP
-: Princesses acquire this resource by acting in accordance with their _keys_.
+: Princesses acquire this resource by _playing_ to their _keys_.
+  When she acquires 5, she immediately gets an _advance_.
 
 Advance
-: A princess acquires an advance by spending 5 **XP** (at any time), or _breaking_ a _key_ for 2 **advances**.
+: A princess acquires an advance by spending 5 **XP** (at any time), or _breaking_ a _key trait_ for 2 **advances**.
   She can spend 1 **advance** to add 1 _trait_ in a way that makes sense to the table.
 
 Trouble
 : There's just one **Trouble** counter, and every time it would hit 10, it wraps around and decreases the princess' **Rank** (which makes lots of things harder for them!).
   
-Time (var)
+Times (var)
 : During an adventure, time is always ticking: until the patrol comes back, the sun comes up, the window of opportunity closes.
 
-Project
+Projects (var)
 : During **downtime**, princesses & others pursue long term goals.
 {:.dtable}
 
@@ -46,7 +48,12 @@ vs a 4-clock automatically ticked after each action "host assimilated",
 vs an omnipresent 4-clock "the room catches fire"...);
 there might be a couple of adventure-scale clocks
 ("assassin finds us", "guards go to red alert", "ship leaves", "murderer escapes", "rocks fall"),
-or longer-term session clocks ("stars align", "enemy finds next victim", "new tower built", "")
+or longer-term session clocks ("stars align", "enemy finds next victim", "new tower built", "").
+
+Some clocks might tick forward easily (knock down a building or someone dies, and **trouble** will immediately go up) but only tick backwards more rarely (**trouble** can only be erased with **downtime duty**).
+Downtime project clocks can only be ticked with downtime actions (or with the outcome of an adventure).
+Others might swing back and forth equally easily (a tug-of-war) or only logically go in one direction (water filling a deathtrap).
+Have fun with it!
 
 ### Costs
 
@@ -55,4 +62,4 @@ Counters & clocks make a great way to increase the palatibility of a princess' a
 For instance, imposing a **cost** in **favor** balances out a somewhat implausible **memory**; this can also work with other **decrees** (or other resources, like **trouble**!).
 If an action should have a cost in time or **trouble**, it could be threatened as a **risk** outcome from a roll, but sometimes it makes more sense to impose it as a fixed 1-tick cost (such as during **downtime**).
 
-After each session, villainous schemes might develop by one tick.
+After each session, villainous schemes might develop by one tick; that's sort of a cost.

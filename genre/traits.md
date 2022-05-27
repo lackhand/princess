@@ -1,6 +1,6 @@
 ---
 layout: navpage
-title: Alchemical Knights
+title: Traits
 section: "2.1"
 ---
 
@@ -84,7 +84,7 @@ If you want to tell a story about characters that behave in a morally upright fa
 Bold
 : You are bold when caution would serve.
   : Choose action over safety in service of the genre.
-  : Without breaking the genre, be selfish.
+  : Back down from a challenge.
 
 Curious
 : You want the story to continue even when it could resolve too soon.
@@ -221,10 +221,6 @@ Incarnate of Alembic
   : +1d when you defy a supernatural consequence.
   : +1d when you gather information about a relic of Alembic.
 
-{:.magic} Magical Transformation
-: With a glass surface and your reflection, you can channel your past life into the present, physically transforming yourself and your appearance until the next time that you sleep.
-  : While you're transformed, gain +1 quantity and +1 quality in combat vs the supernatural. How? What does that look like?
-
 Alchemical Affinity
 : You have a knack for one of the alchemical sciences, which you can use to understand and undertake magical projects.
   : When you learn this secret, pick one science to master.
@@ -347,19 +343,16 @@ Iron Will
 
 ## Backfilling & new secrets
 
-There's a lot of missing secrets here! For now, consider [stealing from blades in the dark](https://bladesinthedark.com/character-playbook).
+There's still a lot of missing secrets here! For now, consider [stealing from blades in the dark](https://bladesinthedark.com/character-playbook).
 
 In general, special abilities should come in a few forms:
 * Special Armor, X (often: resist specific consequences / push self somehow).
-  We don't have special armor (or any armor).
-  Perhaps we should (tied into transformation?)?
-  This is really just ~2 extra favor, a consequence-or-push.
-  * Decided: this is just "once when you transform", explicitly goofy around *when* when you transform (it's nice if it's immediate, but it needn't be).
-* When you X, +1d (& skip one of the agenda questions)
-* When you push yourself, +specific effects (you still get the normal benefits of pushing yourself)
-* You can spend favor for an ability
-* Limited +1d/+effect  (often +1d)
-* +1 result level to downtime actions (often crafting or other projects)
+  This is really just ~2 extra favor, skip-a-consequence-or-do-a-push, once-per-transformation
+* When you X, +1d (& skip one of the agenda questions?)
+* Limited +1d/+effect  (often +1d to some other action)
 * +potency (similar to +effect really)
+* When you _push_ yourself, +specific effects (you still get the normal benefits of pushing yourself)
+* You can spend **favor** for an explicitly supernatural ability
+* +1 result level to downtime actions (often crafting or other projects)
 
 

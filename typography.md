@@ -51,11 +51,6 @@ Another secret
   <summary>Unnecessarily detailed or technical content (click the affordance!)</summary>
 
 The technology I'm using has trouble with markdown inside details; this _should_ work, but mightn't.
-(update: indeed it does not).
-
-{%- comment -%}
-There's a version with capture groups & explicitly markdownifying it that works but is awful.
-{%- endcomment -%}
 
 | A table heading | A second table heading |
 |---|---|
@@ -65,19 +60,19 @@ Sometimes, definitions will be presented low protocol:
 
 A term
 : Its definition or description
-{:}
 
 
 
 But at other times, you'll encounter them looking more like a table:
 
-Another term : Its definition or description
-A third term : Its definition or description
-A fourth term
-: Its definition or description
+Another term
+: Its definition or description (needs to be on a newline in the .md)
 
-A fifth term
+A third term
 : You get the idea
 {:.dtable}
 
+
+
+If it's not followed by 3+ newlines, expect this to follow the definition of the third term.
 </details>
