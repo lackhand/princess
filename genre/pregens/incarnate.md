@@ -19,13 +19,13 @@ He found Dawn after a few years, and they've been looking for any sign of other 
 
 Traits
 : Lionhearted
-  :
+  : You're braver than your tabbycat size (but not stronger)
 
   Jellicle cat
-  :
+  : You're a magical cat, more intelligent than most people
   
   Minister of Foreign Affairs for the Crystal Palace of Alembic
-  :
+  : You have the soul of an ancient bureaucrat-priest
 
 Secrets
 : Incarnate of Alembic
@@ -51,7 +51,7 @@ Keys
 
   Kills Monsters
   : Bloodthirsty and combative!
-    : Face a monster greater than yourself in battle.
+    : Face a monster greater than yourself in battle. (you can get help!)
     : Acquire a trauma in battle with a monster.
   {:.key}
 
