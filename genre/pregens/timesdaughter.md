@@ -33,7 +33,7 @@ Sleeper of Alembic
 
 Ambush
   : When you attack from hiding or spring a trap, you get +1d to your roll.
-{:.secrets}
+{:.secret}
 
 
 
@@ -52,6 +52,6 @@ Harbinger of Dawn
 : You are on a mission to fulfil the Dawn Empress' final wish: to defeat the Burn for all time.
   : Take action to complete the mission.
   : Abandon or redefine the mission.
-{:.keys}
+{:.key}
 
 

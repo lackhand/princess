@@ -52,6 +52,6 @@ Kind
 : You are kind when the world demands cruelty.
   : Choose mercy over violence in service of the genre.
   : Without breaking the genre, choose vengeance.
-{:.keys}
+{:.key}
 
 

@@ -32,7 +32,7 @@ Memories of Alembic
 
 Analyst
 : During downtime, you get two ticks to distribute among any long term project clocks that involve investigation or learning a new formula or design plan.
-{:.secrets}
+{:.secret}
 
 
 
@@ -52,6 +52,6 @@ Secret Identity
 : Exposing your nature might get back to -- and disappoint -- your parents
   : Lie or mislead someone off of the trail of your identity.
   : Reveal both halves of your identity to your family.
-{:.keys}
+{:.key}
 
 

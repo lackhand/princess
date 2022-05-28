@@ -33,7 +33,7 @@ Memories of Alembic
 
 Warded
 : Once when you _transform_, reduce a supernatural **consequence**, or to _push_ yourself when you contend with or employ arcane forces.
-{:.secrets}
+{:.secret}
 
 
 
@@ -53,6 +53,6 @@ Bold
 : You are bold when caution would serve.
   : Choose action over safety in service of the genre.
   : Back down from a challenge.
-{:.keys}
+{:.key}
 
 

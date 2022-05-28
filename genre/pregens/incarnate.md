@@ -37,7 +37,6 @@ Incarnate of Alembic
 Arcane mind
 : You’re always aware of supernatural entities in your presence.
   : Take +1d whenever you gather information about the supernatural by any means.
-
 {:.secret}
 
 
