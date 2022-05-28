@@ -13,26 +13,19 @@ He found Dawn after a few years, and they've been looking for any sign of other 
 
 ... until now.
 
-Danger
-: 0
+| Danger | Intrigue | Romance | Favor |
+|--------|----------|---------|-------|
+| 0      | II       | I       | ()()() ()()() ()()() |
 
-Intrigue
-: II
+Traits
+: Lionhearted
+  :
 
-Romance
-: I
-
-Favor
-: ()()()()()()()()()
-
-Lionhearted
-:
-
-Jellicle cat
-:
-
-Minister of Foreign Affairs for the Crystal Palace of Alembic
-:
+  Jellicle cat
+  :
+  
+  Minister of Foreign Affairs for the Crystal Palace of Alembic
+  :
 
 Secrets
 :
@@ -44,7 +37,7 @@ Secrets
   Arcane mind
   : You’re always aware of supernatural entities in your presence.
     : Take +1d whenever you gather information about the supernatural by any means.
-  {:.secrets}
+  {:.secret}
 
 Keys
 :
@@ -62,6 +55,6 @@ Keys
   : Bloodthirsty and combative!
     : Face a monster greater than yourself in battle.
     : Acquire a trauma in battle with a monster.
-  {:.keys}
+  {:.key}
 
 {:.dtable}
