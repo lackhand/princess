@@ -13,46 +13,49 @@ He found Dawn after a few years, and they've been looking for any sign of other 
 
 ... until now.
 
+
+#### Attributes
+
 | Danger | Intrigue | Romance | Favor |
 |--------|----------|---------|-------|
 | 0      | II       | I       | ()()() ()()() ()()() |
 
-Traits
-: Lionhearted
-  : You're braver than your tabbycat size (but not stronger)
+#### Traits
 
-  Jellicle cat
-  : You're a magical cat, more intelligent than most people
+* Lionhearted
+* Jellicle cat
+* Minister of Foreign Affairs for the Crystal Palace of Alembic
+
+#### Secrets
+
+Incarnate of Alembic
+: Now you're a cat.
+  : +1d when you defy a supernatural consequence.
+  : +1d when you gather information about a relic of Alembic.
   
-  Minister of Foreign Affairs for the Crystal Palace of Alembic
-  : You have the soul of an ancient bureaucrat-priest
+Arcane mind
+: You’re always aware of supernatural entities in your presence.
+  : Take +1d whenever you gather information about the supernatural by any means.
 
-Secrets
-: Incarnate of Alembic
-  : Now you're a cat.
-    : +1d when you defy a supernatural consequence.
-    : +1d when you gather information about a relic of Alembic.
-  
-  Arcane mind
-  : You’re always aware of supernatural entities in your presence.
-    : Take +1d whenever you gather information about the supernatural by any means.
-  {:.secret}
+{:.secret}
 
-Keys
-: 1 random relationship key
-  : ___
+
+
+#### Keys
+1 random relationship key
+: ___
     : ___
     : ___
 
-  Friendmom to Dawn
-  : You feel intensely responsible for the first Knight you found.
-    : Be influenced by, or protect, them.
-    : Let them sink or swim on their own.
+Friendmom to Dawn
+: You feel intensely responsible for the first Knight you found.
+  : Be influenced by, or protect, them.
+  : Let them sink or swim on their own.
 
-  Kills Monsters
-  : Bloodthirsty and combative!
-    : Face a monster greater than yourself in battle. (you can get help!)
-    : Acquire a trauma in battle with a monster.
-  {:.key}
+Kills Monsters
+: Bloodthirsty and combative!
+  : Face a monster greater than yourself in battle. (you can get help!)
+  : Acquire a trauma in battle with a monster.
+{:.key}
 
-{:.dtable}
+
