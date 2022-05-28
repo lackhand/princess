@@ -28,8 +28,7 @@ Traits
   :
 
 Secrets
-:
-  Incarnate of Alembic
+: Incarnate of Alembic
   : Now you're a cat.
     : +1d when you defy a supernatural consequence.
     : +1d when you gather information about a relic of Alembic.
