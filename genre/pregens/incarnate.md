@@ -39,8 +39,7 @@ Secrets
   {:.secret}
 
 Keys
-:
-  1 random relationship key
+: 1 random relationship key
   : ___
     : ___
     : ___
