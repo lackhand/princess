@@ -13,12 +13,13 @@ He found Dawn after a few years, and they've been looking for any sign of other 
 
 ... until now.
 
-
 #### Attributes
 
 | Danger | Intrigue | Romance | Favor |
 |--------|----------|---------|-------|
 | 0      | II       | I       | ()()() ()()() ()()() |
+|--------|----------|---------|-------|
+| **XP** | ()()()()() | **Advances** |       |
 
 #### Traits
 
@@ -43,9 +44,9 @@ Arcane mind
 
 #### Keys
 1 random relationship key
-: ___
-    : ___
-    : ___
+: ???
+    : ???
+    : ???
 
 Friendmom to Dawn
 : You feel intensely responsible for the first Knight you found.

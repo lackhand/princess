@@ -11,51 +11,47 @@ But: her destiny caught up when one stormy night, a vagrant arrived at their far
 She immediately awoke, remembering a life as the Hedge Knight of the Twisting Woods: a witch.
 Now she has a new, strange family and her old family both.
 
-Danger
-: I
+#### Attributes
 
-Intrigue
-: I
+| Danger | Intrigue | Romance | Favor |
+|--------|----------|---------|-------|
+| I      | I        | I       | ()()() ()()() ()()() |
+|--------|----------|---------|-------|
+| **XP** | ()()()()() | **Advances** |       |
 
-Romance
-: I
+#### Traits
 
-Favor
-: ()()()()()()()()()
+* Practical & hardbitten
+* Shot a bad man when I was ten
+* Witch of the Twisting Woods
 
-Practical & hardbitten
-:
+#### Secrets
 
-Shot a bad man when I was ten
-:
+Memories of Alembic
+: You are a reincarnated soul of Alembic.
+  : Spend 2 favor to roll 4d on a risk roll (regardless of actual approach).
 
-Witch of the Twisting Woods
-:
+Focused
+: Once when you _transform_, reduce a **consequence** of surprise or mental harm (fear, confusion, losing track of someone) or _push_ yourself for ranged combat or tracking.
+{:.secret}
 
-Secrets
-:
-  Memories of Alembic
-  : You are a reincarnated soul of Alembic.
-    : Spend 2 favor to roll 4d on a risk roll (regardless of actual approach).
 
-  Focused
-  : Once when you _transform_, reduce a **consequence** of surprise or mental harm (fear, confusion, losing track of someone) or _push_ yourself for ranged combat or tracking.
 
-Keys
-:
-  1 random relationship key
-  : ___
-    : ___
-    : ___
+#### Keys
+1 random relationship key
+: ???
+  : ???
+  : ???
 
-  Found Identity
-  : You want to know the details of your past life.
-    : Get into trouble to learn more about yourself, the Alchemical Knights, or Alembic
-    : Declare that who you are becoming is more important than who you were.
+Found Identity
+: You want to know the details of your past life.
+  : Get into trouble to learn more about yourself, the Alchemical Knights, or Alembic
+  : Declare that who you are becoming is more important than who you were.
 
-  Kind
-  : You are kind when the world demands cruelty.
-    : Choose mercy over violence in service of the genre.
-    : Without breaking the genre, choose vengeance.
-  {:.keys}
-{:.dtable}
+Kind
+: You are kind when the world demands cruelty.
+  : Choose mercy over violence in service of the genre.
+  : Without breaking the genre, choose vengeance.
+{:.keys}
+
+

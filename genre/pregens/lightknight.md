@@ -11,52 +11,48 @@ Until her destiny called, and a she stabbed a monster from her paintings to deat
 
 In her past life, she was Phlogista, stormcaptain and privateer.
 
-Danger
-: I
+#### Attributes
 
-Intrigue
-: 0
+| Danger | Intrigue | Romance | Favor |
+|--------|----------|---------|-------|
+| I      | 0        | II      | ()()() ()()() ()()() |
+|--------|----------|---------|-------|
+| **XP** | ()()()()() | **Advances** |       |
 
-Romance
-: II
+#### Traits
 
-Favor
-: ()()()()()()()()()
+* Friends everywhere
+* Try anything! Twice!
+* Stormcaptain & privateer
 
-Friends everywhere
-:
+#### Secrets
 
-Try anything! Twice!
-:
+Memories of Alembic
+: You are a reincarnated soul of Alembic.
+  : Spend 2 favor to roll 4d on a risk roll (regardless of actual approach).
 
-Stormcaptain & privateer
-:
+Warded
+: Once when you _transform_, reduce a supernatural **consequence**, or to _push_ yourself when you contend with or employ arcane forces.
+{:.secrets}
 
-Secrets
-:
-  Memories of Alembic
-  : You are a reincarnated soul of Alembic.
-    : Spend 2 favor to roll 4d on a risk roll (regardless of actual approach).
 
-  Warded
-  : Once when you _transform_, reduce a supernatural **consequence**, or to _push_ yourself when you contend with or employ arcane forces.
-  {:.secrets}
 
-Keys
-:
-  1 random relationship key
-  : ___
-    : ___
-    : ___
+#### Keys
 
-  Regina's Rival
-  : You have an intensely competitive relationship with your sister.
-    : When you one up them, or are a poor sport about being one-upped by them.
-    : Admit defeat gracefully and give up.
+1 random relationship key
+: ???
+  : ???
+  : ???
 
-  Bold
-  : You are bold when caution would serve.
-    : Choose action over safety in service of the genre.
-    : Back down from a challenge.
-  {:.keys}
-{:.dtable}
+Regina's Rival
+: You have an intensely competitive relationship with your sister.
+  : When you one up them, or are a poor sport about being one-upped by them.
+  : Admit defeat gracefully and give up.
+
+Bold
+: You are bold when caution would serve.
+  : Choose action over safety in service of the genre.
+  : Back down from a challenge.
+{:.keys}
+
+

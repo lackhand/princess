@@ -11,52 +11,47 @@ She remembers her quarry's lizard-stink, its mobile neck, the horror of its gaze
 
 She doesn't know why or how she woke up outside of Danvers, but has spent the last five years with Melanie and Parcel building a new life on the Abeni Farm, devoted to a single cause: avenging her fallen world.
 
-Danger
-: I
+#### Attributes
 
-Intrigue
-: I
+| Danger | Intrigue | Romance | Favor |
+|--------|----------|---------|-------|
+| I      | I        | I       | ()()() ()()() ()()() |
+|--------|----------|---------|-------|
+| **XP** | ()()()()() | **Advances** |       |
 
-Romance
-: I
+#### Traits
 
-Favor
-: ()()()()()()()()()()
+* Hunter of Ancient Things
+* Knight of the Transit Station
+* Golden savant
 
-Hunter of Ancient Things
-:
+#### Secrets
 
-Knight of the Transit Station
-:
+Sleeper of Alembic
+  : You survived the fall of Alembic by being a statue, and awoke by accident
+    : +1 favor (included)
 
-Golden savant
-:
+Ambush
+  : When you attack from hiding or spring a trap, you get +1d to your roll.
+{:.secrets}
 
-Secrets
-:
-  Sleeper of Alembic
-    : You survived the fall of Alembic by being a statue, and awoke by accident
-      : +1 favor (included)
 
-  Ambush
-    : When you attack from hiding or spring a trap, you get +1d to your roll.
-  {:.secrets}
 
-Keys
-:
-  1 random relationship key
+#### Keys
+1 random relationship key
+: ___
   : ___
-    : ___
-    : ___
+  : ___
 
-  Longing for Melanie
-  : You have an embarrassingly intense crush on your sister, and you can't bring yourself to make it known.
-    : Make a decision based on, or otherwise indicate, your crush.
-    : Reveal or foreswear your love.
+Longing for Melanie
+: You have an embarrassingly intense crush on your sister, and you can't bring yourself to make it known.
+  : Make a decision based on, or otherwise indicate, your crush.
+  : Reveal or foreswear your love.
 
-  Harbinger of Dawn
-  : You are on a mission to fulfil the Dawn Empress' final wish: to defeat the Burn for all time.
-    : Take action to complete the mission.
-    : Abandon or redefine the mission.
-  {:.keys}
-{:.dtable}
+Harbinger of Dawn
+: You are on a mission to fulfil the Dawn Empress' final wish: to defeat the Burn for all time.
+  : Take action to complete the mission.
+  : Abandon or redefine the mission.
+{:.keys}
+
+

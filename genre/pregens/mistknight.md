@@ -10,52 +10,48 @@ But she answered the call of destiny to oppose the Burning with her sharp wits a
 
 In her past life, she was Hydropheria, mistwatcher of the north, guardian of the waterways and keeper of time.
 
-Danger
-: 0
+#### Attributes
 
-Intrigue
-: II
+| Danger | Intrigue | Romance | Favor |
+|--------|----------|---------|-------|
+| 0      | II       | I       | ()()() ()()() ()()() |
+|--------|----------|---------|-------|
+| **XP** | ()()()()() | **Advances** |       |
 
-Romance
-: I
+#### Traits
 
-Favor
-: ()()()()()()()()()
+* Terminally Online
+* Book-smart & sheltered
+* Mistwatcher Guardian
 
-Terminally Online
-:
+#### Secrets
 
-Book-smart & sheltered
-:
+Memories of Alembic
+: You are a reincarnated soul of Alembic.
+  : Spend 2 favor to roll 4d on a risk roll (regardless of actual approach).
 
-Mistwatcher Guardian
-:
+Analyst
+: During downtime, you get two ticks to distribute among any long term project clocks that involve investigation or learning a new formula or design plan.
+{:.secrets}
 
-Secrets
-:
-  Memories of Alembic
-  : You are a reincarnated soul of Alembic.
-    : Spend 2 favor to roll 4d on a risk roll (regardless of actual approach).
 
-  Analyst
-  : During downtime, you get two ticks to distribute among any long term project clocks that involve investigation or learning a new formula or design plan.
-  {:.secrets}
 
-Keys
-:
-  1 random relationship key
-  : ___
-    : ___
-    : ___
+#### Keys
 
-  Regan's (sigh) Sister
-  : Your wastrel sister is your burden
-    : Be frustrated by (and amused by!) her antics. Criticise her (incorrect answers only).
-    : Find a way to respect and admire her from now on.
+1 random relationship key
+: ???
+  : ???
+  : ???
 
-  Secret Identity
-  : Exposing your nature might get back to -- and disappoint -- your parents
-    : Lie or mislead someone off of the trail of your identity.
-    : Reveal both halves of your identity to your family.
-  {:.keys}
-{:.dtable}
+Regan's (sigh) Sister
+: Your wastrel sister is your burden
+  : Be frustrated by (and amused by!) her antics. Criticise her (incorrect answers only).
+  : Find a way to respect and admire her from now on.
+
+Secret Identity
+: Exposing your nature might get back to -- and disappoint -- your parents
+  : Lie or mislead someone off of the trail of your identity.
+  : Reveal both halves of your identity to your family.
+{:.keys}
+
+
