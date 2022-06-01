@@ -10,7 +10,7 @@ This game is played by a group of people holding a conversation.
 > Welcome!
 {:.aside}
 
-## Play Agenda
+# Play Agenda
 
 One of you plays the narrator and the others of you play princesses.
 You'll work together to have a fun adventure.
@@ -36,7 +36,7 @@ You'll work together to have a fun adventure.
 > For example, your table could use [safety tools](https://slyflourish.com/safety_tools.html).
 {:.aside}
 
-## Conversation
+# Conversation
 
 At the beginning of the session, the narrator establishes the scene:
 > There's a new spa in town, and you feel a dark energy emanating from it...
@@ -77,7 +77,7 @@ Or, even better:
 
 And then the narrator moves the story from there, and things repeat!
 
-### Actions
+# Actions
 
 It's best when the narrator is _curious_, prompting and asking questions of the princesses.
 
@@ -90,7 +90,7 @@ _Breaking down crying_ is an action! _Hoping_ might be an action, in the right c
 If everyone agrees about what happens next, then that's great, play can continue (perhaps with the narrator asking a question).
 If there's a disagreement, well, that's why that section is there.
 
-### Favor & other resources
+# Favor & other resources
 
 Princesses are special, since they're the center of the story.
 To help her along, each princess has a supply of **favor** (a metagame resource and combination of luck, strength, grace, patience, and willpower).
@@ -100,7 +100,7 @@ Spending an appropriate resource is one way for a princess to smooth over disagr
 **Favor** is pretty universal, though:
 if a princess offers **favor**, she's signaling that something is important to her, and everyone should recognize that!
 
-### Decrees & Memories
+# Decrees & Memories
 
 Authorship is hard.
 
@@ -125,7 +125,7 @@ One easy solution is to impose a **cost** in **favor**!
 > **Decrees** can make the world feel less real, so definitely let the _genre_ be your guide to using them!
 {: .warning}
 
-### Disagreement
+# Disagreement
 
 When there's any question of (or disagreement about) what happens next in the fiction, start with discussion and resolve it as a table
 (narrator, remember to mediate and ask questions!).

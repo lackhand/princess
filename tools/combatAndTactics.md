@@ -1,14 +1,17 @@
 ---
 layout: navpage
-title: Combat & Tactics
-section: "1.1.4"
+title: Advanced Combat & Tactics
+section: "1.7"
 ---
 
 It's pretty common that an agile fenging princess faces off against an axe-wielding bruiser, or a wild ronin against a controlled samurai, or a village against marauders, or an army against a dragon, or a knight against a dragon.
 
 Of course the purpose of such a scene is to weigh their philosophies against each other, but tactically: who should win?
 
-### Initiative
+You can just decide by playing it out with effect, cost, and risk rolls.
+But if the narrator wants a little more guidance...
+
+# Initiative
 
 > I wanna run up and kick the soldier with the spear!
 > Nuh-uh! She stabs you first!
@@ -26,7 +29,7 @@ You could flipflop initiative based on a (short!) clock of the same length.
 
 So: The guard with the spear probably does get to stab first, but Serena will hopefully be too fast to get skewered.
 
-### Wheel of Damages
+# Damage Types & Potency
 
 > My fireball melts the ice genie!  
 > Nuh-uh! The ice genie's water magic snuffs out your fireball!  
@@ -58,7 +61,10 @@ Lightning, radiation, stun- or death- rays
 
 
 
-And then various types of matter:
+* All else equal, _burn_ beats _freeze_ (thaws it) beats _decay_ (halts it) beats _burn_ (dampens it).
+* All else equal, _decay_ beats _hit_ (erosion) beats _zap_ (grounding) beats _decay_ (purges it).
+
+## Object Examples
 
 | Substance | Quality | Notes |
 |-----------|---------|-------|
@@ -81,12 +87,13 @@ And then various types of matter:
   * Ice is Q0 against burn
 * _Conductive_ materials (like metals or fluids) conduct freeze and zap to anyone touching them (or if engineered, the ground)
   * Gold is QVI against decay.
-* All else equal, _burn_ beats _freeze_ (thaws it) beats _decay_ (halts it) beats _burn_ (dampens it).
-* All else equal, _decay_ beats _hit_ (erosion) beats _zap_ (grounding) beats _decay_ (purges it).
 
 So: Rei's Fireball will melt the ice genie, but be neutral against a thunder spirit, and ineffective against an acid elemental.
 
-### Wheel of Stances
+# Wheel of Stances
+
+> Naturally, you must suspect me to attack with Capa Ferro?
+> Naturally, but I find that Thibault cancels out Capa Ferro. Don’t you?
 
 All else equal, the overall level of aggression and tactics determine the combatants' _stance_, and each _stance_ defeats the following stance similar to the elemental wheel (granting _potency_ on a roll):
 
@@ -111,19 +118,18 @@ For instance, if Serena is commanding an army of pegasus-archers and has them en
 If Makoto uses an axe against a scorpion, she should expect the advantage (once inside its reach).
 A single hero with a bow or a spear operates very differently from an army with equivalent weapons!
 
-### Duels: Attacks & Defenses
+## Duels: Attacks & Defenses
 
 For _duels_, each combatant decides on an independent _attack_ and _defense_ mode secretly and seperately before openly declaring their action, and then reveals them simultaneously while declaring their intent.
 Comparing the attacker's _attack_ to the defender's _defense_ sets the level of _effect_, while the attacker's _defense_ to the defender's _attack_ sets the level of _risk_:
 
-| _Duel_    |          |            |           |
-|-----------|----------|------------|-----------|
 | Attack    | Fluid    | Heavy      | Thrust    |
+|-----------|----------|------------|-----------|
 | Defense   | Evade    | Press      | Block     |
 |-----------|----------|------------|-----------|
 | As stance | Balanced | Aggressive | Defensive |
 
-### Advanced Combat and Tactics
+# Advanced Combat and Tactics 2
 
 * Combatants might spend points of initiative instead of favor to defy
 * Asymmetric weaponry might adjust the effect or risk for the combatants before considering attack and defense modes

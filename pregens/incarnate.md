@@ -1,7 +1,7 @@
 ---
 layout: navpage
 title: Parcel the Cat
-section: "2.0.1"
+section: "3.1"
 ---
 
 Parcel was a loyal advisor to the Dawn Empress in the Crystal Palace of Alembic, until Dark Queen Theophrasta summoned the Burning.
@@ -13,7 +13,7 @@ He found Dawn after a few years, and they've been looking for any sign of other 
 
 ... until now.
 
-#### Attributes
+# Attributes
 
 | Danger | Intrigue | Charm | Favor |
 |--------|----------|-------|-------|
@@ -21,13 +21,13 @@ He found Dawn after a few years, and they've been looking for any sign of other 
 |--------|----------|-------|-------|
 | **XP** | ()()()()() | **Advances** |       |
 
-#### Traits
+# Traits
 
 * Lionhearted
 * Jellicle cat
 * Minister of Foreign Affairs for the Crystal Palace of Alembic
 
-#### Secrets
+# Secrets
 
 Incarnate of Alembic
 : Now you're a cat.
@@ -41,7 +41,7 @@ Arcane mind
 
 
 
-#### Keys
+# Keys
 
 1 random relationship key
 : ???

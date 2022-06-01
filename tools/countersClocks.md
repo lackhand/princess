@@ -1,7 +1,7 @@
 ---
 layout: navpage
 title: Counters & Clocks
-section: "1.1.1"
+section: "1.1"
 ---
 
 A counter is a publicly visible gauge of something in the fiction.
@@ -55,7 +55,7 @@ Downtime project clocks can only be ticked with downtime actions (or with the ou
 Others might swing back and forth equally easily (a tug-of-war) or only logically go in one direction (water filling a deathtrap).
 Have fun with it!
 
-### Costs
+# Costs
 
 Counters & clocks make a great way to increase the palatibility of a princess' actions.
 

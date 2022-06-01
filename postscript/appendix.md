@@ -1,11 +1,10 @@
 ---
 layout: navpage
 title: Boneyard
-section: "3.1"
+section: "5.1"
 ---
 
-Bits of stray thought, names, plots, etc.
-
+<details markdown="1"><summary>Bits of stray thought, names, plots, etc.</summary>
 
 > The Burn (VII) is a disembodied evil force that wants to spread itself, inflaming destructive passion in place of every other thought.
 > It's unconscious now, after gorging on Alembic for a thousand thousand years.
@@ -113,7 +112,7 @@ It's also not ideal for low level "normal" animals, which suffer by comparison t
 | Masters of the World | VIII+ | 18+ (9th+) | 18+ | balor, pit fiend, lich, solar, kraken, empyrean |
 
 
-## Design Goals
+# Design Goals
 
 Or: why should you play this game instead of some other game.
 
@@ -132,3 +131,5 @@ But here are some things that this game tries to do which you might enjoy:
   Short core rules. No spreadsheets. Few traps (sorry).
   Characters should come alive through play.
   Use your words.
+
+</details>

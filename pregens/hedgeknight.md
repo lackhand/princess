@@ -1,7 +1,7 @@
 ---
 layout: navpage
 title: Melanie Abeni, the Hedge Knight
-section: "2.0.5"
+section: "3.5"
 ---
 
 Melanie is the first woman from her family to go to college.
@@ -11,7 +11,7 @@ But: her destiny caught up when one stormy night, a vagrant arrived at their far
 She immediately awoke, remembering a life as the Hedge Knight of the Twisting Woods: a witch.
 Now she has a new, strange family and her old family both.
 
-#### Attributes
+# Attributes
 
 | Danger | Intrigue | Charm | Favor |
 |--------|----------|-------|-------|
@@ -19,13 +19,13 @@ Now she has a new, strange family and her old family both.
 |--------|----------|-------|-------|
 | **XP** | ()()()()() | **Advances** |       |
 
-#### Traits
+# Traits
 
 * Practical & hardbitten
 * Shot a bad man when I was ten
 * Witch of the Twisting Woods
 
-#### Secrets
+# Secrets
 
 Memories of Alembic
 : You are a reincarnated soul of Alembic.
@@ -37,7 +37,7 @@ Focused
 
 
 
-#### Keys
+# Keys
 1 random relationship key
 : ???
   : ???

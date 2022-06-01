@@ -1,24 +1,24 @@
 ---
 layout: navpage
 title: Attributes
-section: "1.1.1"
+section: "1.1"
 ---
 
 Princesses are the main characters, so instead of having just one personal **tier** like most non-princesses, they have several different values which are used in a few different ways:
 
-**Danger**
+Danger
 : How is she at athletics, derring-do, and violence?
   Avoids & recovers from consequences from physical strain or injury.
 
-**Mystery**
+Mystery
 : How is she at logic, stealth, crime, investigation, and intrigue?
   Avoids & recovers from consequences from deception or understanding.
 
-**Charm**
+Charm
 : How is she at loving & living with friends, family, and foes?
   Avoids & recovers from consequences from destiny, society and emotion.
 
-**Rank** (shared)
+Rank _(shared)_
 : How stable, supported, connected, and empowered are they?
   Deals with quality of equipment & downtime questions like healing, research, purchasing, etc.
 {:.dtable}
@@ -33,7 +33,7 @@ You can decide to give a non-princess _attributes_ if it feels right, but usuall
 
 A princess always rolls the narrator-selected _attribute_ when she **defies**.
 
-### Rank
+# Rank
 
 All of the princesses share the same single value for their **rank**.
 

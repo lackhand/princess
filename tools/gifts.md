@@ -1,7 +1,7 @@
 ---
 layout: navpage
 title: Gifts
-section: "1.1.4"
+section: "1.4"
 ---
 
 Your princess' extraordinary abilities are called gifts.

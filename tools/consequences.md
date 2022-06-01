@@ -1,7 +1,7 @@
 ---
 layout: navpage
 title: Consequences
-section: "1.1.5"
+section: "1.5"
 ---
 
 After a roll, whatever happens (good and bad) are its **consequences**.
@@ -17,17 +17,18 @@ Bad **consequences** were foreshadowed by the **risk**, and are often just calle
 
 The narrator uses the fiction as a base from which to interpret the dice result, then she attaches mechanics.
 
-### Narrating an effect- or cost-roll
+# Narrating an effect- or cost-roll
 
-For an effect- or cost-roll, she merely reads off the number of ticks of **effect** (or of **cost**).
+For an effect- or cost-roll, she merely reads off the number of ticks of **effect** (or of **cost**) for the level on the table.
+
 For instance, an effect roll that ends up as a _mixed result_ sets the result as _standard_; a _standard effect_ is worth 2 ticks. Done.
 
 Cost can result in a refund, or in positive ticks to some other clock!
 For instance, a princess that rolls a _crit_ on **defiance** gets 1 **favor** back instead of losing any!
 
-### Narrating a dramatic roll
+# Narrating a dramatic roll
 
-The narrator had already set the _level_ of **effect** and of **risk** before the roll.
+Remember, the narrator had already set the _level_ of **effect** and of **risk** before the roll.
 After the roll, she's determining exactly how much of each happens.
 
 _Mixed_ or worse
@@ -40,14 +41,7 @@ _Mixed_ or better
 
 
 
-#### The princess & Low Risk rolls
-
-When a **risk** is _low_, the princess has an extra option to avoid worsening the situation in addition to **defiance**.
-
-Before learning the **consequences** but after learning the result of a _low risk_ roll, the princess can choose to _withdraw_ or to _press on_.
-If she decides to _withdraw_, nothing happens (even if the result was _mixed_ or even a _success_!); the princess can try a different approach, or else this approach becomes riskier.
-
-### Negative Consequences
+# Negative Consequences
 
 Some examples:
 
@@ -73,7 +67,9 @@ Harm
 
 
 
-### Defiance
+# Defiance
+
+> Wait wait wait. That's not how it happened.
 
 A princess uses **defiance** to **defy** each **consequence** separately, reducing or eliminating it.
 
@@ -85,12 +81,18 @@ Should this remove the princess' last point of **favor**, see **Trauma**.
 
 This is just a _cost roll_, and like any _cost roll_ is adjusted +1d/-1d by the factors of _potency_, _quality_, and _quantity_.
 
-### Protection
+## Defiance & Low Risk rolls
+
+When the **risk** is _low_, the princess has an extra option to avoid worsening the situation: _withdraw_ from a _failure_ or _mixed_ result.
+
+If she decides to _withdraw_, then disregard the **effect** and other **cosequences**. Instead, the princess can try a different approach, or else this approach becomes riskier.
+
+# Protection
 
 A princess can take the **consequences** for another, if she explains how she substitutes herself.
-She can still use **defiance**!
+She can then still use **defiance**!
 
-### Harm
+# Harm
 
 Each _harm_ is a _trait_ describing how a princess has been affected by her adventures.
 _Harm_ is almost always a **consequence** (and so a princess can **defy** it).
@@ -111,8 +113,7 @@ The limits are suggestions at or after which the princess should be facing highe
 
 Non-princesses can suffer _harm_ by just treating them as _traits_.
 
-
-### Consequences in other contexts
+# Consequences in other contexts
 
 The narrator can use consequences whenever she'd like to have something go wrong, because the princesses can use defiance to reject or soften the complication.
 

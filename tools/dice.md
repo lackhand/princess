@@ -1,7 +1,7 @@
 ---
 layout: navpage
 title: Dice
-section: "1.1.3"
+section: "1.3"
 ---
 
 Dice are a great way to settle a disagreement about what happens next (_dramatic rolls_), to determine the magnitude of an outcome (_effect-_ or _cost-rolls_), or as an oracle to keep the game fresh (_fortune rolls_).
@@ -28,7 +28,7 @@ For all of these types of rolls, this game uses pools of various numbers of d6s 
 
 Before she actually rolls, everyone should understand what a success or failure looks like, and afterwards, the narrator uses the result to describe what exactly happened.
 
-### Fortune Rolls
+# Fortune Rolls
 
 Sometimes you just want to know how something offscreen turns out.
 
@@ -54,7 +54,7 @@ If it's a competition between two parties, make a fortune roll for each of them 
 > See what works for you!
 {:.aside}
 
-### Effect- and Cost-Rolls
+# Effect- and Cost-Rolls
 
 Settle questions like "how much" when a princess is involved.
 
@@ -89,50 +89,61 @@ This is similar to a _fortune roll_, but more formalized:
 
 See **consequences** for advice on how to interpret the levels of **effect** or **cost**.
 
-### Dramatic Rolls
+## Dramatic Rolls
 
 During an adventure, many (even most?) rolls are _dramatic rolls_, because they settle disagreements like "what do I lose" and "what do I gain" using a single die roll.
+They're similar to effect- or cost-rolls, but randomize both axes.
 
 They're good for chaotic or violent events like combat or for rapidly evolving situations like young love.
-They're characterized by having a known **effect** and **risk**, and the roll determining how much of each actually happens.
-The narrator states the level of **effect** and **risk** before the roll, using the princess' approach and goals.
+The narrator states the level of potential **effect** and **risk** up front using the princess' approach and goals, and the roll determines how much of each actually happens.
 
-This is similar to a fortune roll, but even more formalized:
-* The princess picks up 0d, then adds one more for each link between her approach (or goal) and her player agenda:
+* The narrator uses the approach, factors like _potency_, _quality_, & _quantity_, and their judgment to declare the **effect** and **risk** levels ahead of time
+* The princess rolls
+* The narrator uses **consequences** to interpret the results.
+
+## Adjusting the odds
+
+The narrator and table can consider (before the roll):
+
+* _Swapping_ +1d/effect. Bonus dice from special approaches still count against a princess' 6d limit, but she can choose to set 1 aside unrolled for +effect.
+* _Swapping_ effect/risk. If there is a risk, you might agree to exchange risk for effect 1:1 before the roll by being especially aggressive or cautious.
+
+# Special Approaches
+
+Princesses have a few optional rules they can use when rolling dice (if the fiction permits).
+These don't make much sense during fortune rolls, but make lots of sense during effect rolls, some cost rolls, and dramatic rolls.
+
+## Teamwork
+
+Everyone tries to do the same thing and picks one leader.
+* She explains how she leads.
+* Everybody makes the same roll (as they normally would).
+* The leader picks one result that applies to everyone.
+* The leader pays 1 favor for each _failure_ (1-3) this erases.
+
+## Push yourself
+
+When something is important, it's all on the line, and a princess needs to win, she can become very mighty indeed.
+* The princess pays 2 **favor**
+* Instead of rolling her attribute, she picks up 0d and adds +1d by answering the following questions for her approach (or goal) and her player agenda:
   * Is this kind (who does it help, and how)? +1d
   * Is this bold (unexpected or awesome)? +1d
   * Is this curious (what could we learn, what exploration does it reward)? +1d
   * Is this true (to herself & the circumstances)? +1d
-* The narrator uses the approach, factors like _potency_, _quality_, & _quantity_, and their judgment to declare the **effect** and **risk**
-* The princess rolls
-
-See **consequences** for advice on how to read the results.
 
 > Answer the agenda questions out loud!
 > It's genre appropriate to externalize your emotions in this way, and it tells us your princess' truth.
+> It's not a great idea to use this on passive rolls like _defy_ rolls, where even in the best case, you're already spending 2 **favor** more than you might otherwise...
 {:.tip}
 
-> Can't I just roll an approach?
-> Maybe. Yes, I guess. But it's less melodramatic.
-> Consider acquiring some trauma to reflect your princess' disconnect and ennui?
-{:.aside}
+## Help a friend
 
-### Special Approaches
+During another princess' roll, a princess may pay 1 **favor**, say how they help, and give her +1d.
+If there are any **consequences**, she suffers them, too.
 
-Princesses have a few optional rules they can use when rolling dice (if the fiction permits).
-These don't make much sense during fortune rolls, but make lots of sense during effect rolls, cost rolls, and dramatic rolls.
-* _Teamwork_. Everyone tries to do the same thing and picks one leader.
-  She explains how she leads.
-  Everybody makes the same roll (as they normally would).
-  The leader picks one result that applies to everyone.
-  The leader pays 1 favor for each failure this erases.
-* _Push yourself_. During any roll, a princess may pay 2 favor, try very hard, and get +1d.
-* _Help_ a friend. During any friend's roll, a princess may pay 1 favor, say how they help, and give her +1d.
-  If there are any consequences, she suffers them, too.  
-  Non-princesses can help too in the fiction, which adjusts position and effect.
-* _Instigate_ (out of character). Whenever anyone rolls, suggest an unexpected way in which things get more interesting.
-  If everyone agrees, she gets +1d, but the fictional wrinkle comes true.
-* _Swap_ +1d/effect. Bonus dice from special approaches still count against a princess' 6d limit, but she can choose to set 1 aside unrolled for +effect.
-* _Swap_ effect/risk. If there is a risk, you might agree to exchange risk for effect 1:1 before the roll by being especially aggressive or cautious.
+Non-princess' help can contribute to **effect** and **risk**, but they can't contribute dice.
 
-All of these require the whole table to agree that they make sense.
+## Instigate (out of character)
+
+Whenever a princess rolls, anyone can suggest an unexpected way in which things get more interesting (usually worse).
+If everyone agrees, she gets +1d, but the fictional wrinkle comes true, too.

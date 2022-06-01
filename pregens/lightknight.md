@@ -1,7 +1,7 @@
 ---
 layout: navpage
 title: Regan Carter, the Thundering Knight
-section: "2.0.4"
+section: "3.4"
 ---
 
 Regan knows -- and has made mistakes with -- everybody.
@@ -11,7 +11,7 @@ Until her destiny called, and a she stabbed a monster from her paintings to deat
 
 In her past life, she was Phlogista, stormcaptain and privateer.
 
-#### Attributes
+# Attributes
 
 | Danger | Intrigue | Charm | Favor |
 |--------|----------|-------|-------|
@@ -19,13 +19,13 @@ In her past life, she was Phlogista, stormcaptain and privateer.
 |--------|----------|-------|-------|
 | **XP** | ()()()()() | **Advances** |       |
 
-#### Traits
+# Traits
 
 * Friends everywhere
 * Try anything! Twice!
 * Stormcaptain & privateer
 
-#### Secrets
+# Secrets
 
 Memories of Alembic
 : You are a reincarnated soul of Alembic.
@@ -37,7 +37,7 @@ Warded
 
 
 
-#### Keys
+# Keys
 
 1 random relationship key
 : ???

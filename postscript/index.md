@@ -1,7 +1,7 @@
 ---
 layout: navpage
 title: Thanks & Attributions
-section: "3.1"
+section: "5"
 ---
 
 I mentioned in the inspiration my deep gratitude to many games which came before,

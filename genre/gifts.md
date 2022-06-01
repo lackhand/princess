@@ -1,28 +1,28 @@
 ---
 layout: navpage
-title: Alchemical Items
+title: Specific Gifts
 section: "2.2"
 ---
 
 > I'm going to put on a scuba tank so the poison elemental can't get me!  
-> ...again! Seems like we're always fighting these guys!
+> ...again! Seems like we're always fighting these guys in the sporting goods section!
 
 Anything the princesses purchase as a secret works the way the secrets dictate.
 This section covers everything else, particularly when designing new gifts.
 
-See gifts under tools for more advice about how to bring an item into the game.
+See `tools>gifts` for more advice about how to bring a gift into the game.
 
-Any item first needs to be _invented_ (which might take multiple downtime actions), and then either have its recipe _crafted_ or else be _borrowed_ from some source (both of which also consume downtime).
-Sometimes an item is just encountered during an adventure, though -- perhaps it's seized at brought along?
-That's fine!
+A gift first needs to be _invented_ (which might take multiple _downtime actions_), and then either have its recipe _crafted_ or else be _borrowed_ from some source (both of which also consume downtime).
+Alternatively, in the fiction a princess might juryrig, commandeer, purchase, coopt or convince herself into a new piece of equipment, ally, or power.
+That's fine too!
 
-### What is an item
+# What is a gift?
 
 A weapon, armor, special technique, ritual, companion, pet, or similar.
 Any princess-exploitable stand-alone piece of rules text is an item.
 We use the invention rules so that there's a way to balance the princess' giving themselves goodies with the sorts of challenges we want them to face.
 
-### Design
+# Designing an item
 
 This is sort of a metagame procedure: it defines what the item does as a conversation between a princess & the narrator.
 
@@ -63,7 +63,7 @@ Hindrances look like:
 
 If the princess has an appropriate secret, she get bonuses when inventing (and crafting, borrowing, or befriending) certain creation types!
 
-### Invention
+# Invention during downtime
 
 Once the item is designed, the princess needs to actually research it in game.
 This usually requires an 8-clock downtime project with access to appropriate facilities (like a magical laboratory, tutor, or research material).
@@ -71,7 +71,7 @@ It might be more time or require some conditions based on the item's design; dec
 
 Anyway, once it's complete, the princess learns the formula!
 
-### Crafting or Borrowing
+# Crafting or Borrowing during downtime
 
 See the appropriate downtime actions.
 
@@ -79,7 +79,7 @@ Common items (below) can be crafted or borrowed without first being invented; ev
 
 Items are listed with a quality tier (for purchase or borrow).
 
-### Mundane items
+# Mundane items
 
 Crowbars, bicycles, motorbikes, potato canons, cameras, pies, scarves, bookends, paintings: mundane items.
 Anything you could make in shop class or by watching videos online is common.
@@ -92,7 +92,7 @@ If you need guidance for purchase difficulties, roughly the more detailed someth
 * A rapier (II) or longsword (II) are lower tier than a katana (III), bowie knife (III) or bec-de-corbin (IV)
 * A piano (III) is about as complex as a saxophone (III) or triangle (III) (consider a chime(I) instead?)
 
-### Alchemical items
+# Alchemical items
 
 These work by extracting the salts, sulfurs, and mercury essences of mundane and magical substances; commonly called Potions.
 They're only usable by someone whose spirits are attuned to their subtle principles (all alchemical knights are; a knight could provide or feed them to another person though!).
@@ -140,7 +140,7 @@ Drinking a potion makes the knight Harm I _woozy_ (or as indicated).
 * Stinking Cloud (III): Blinds & stinks!
 * Confusion (IV): Confounding fog!
 
-### Chimeristry items
+# Chimeristry items
 
 There are two branches of chimeristry: breeding and controlling new creatures (Chimeric), and enhancing or altering oneself or others (Chirurgic).
 Breeding and controlling creatures works similar to befriending companions.
@@ -225,6 +225,7 @@ However, a princess might be able to combine multiple devices, improve on one, o
 * Adamant Armor (V)
 * Demon Armor (V) (, ghost armor)
 
+Weapons too:
 
 * Lightning Spear (II)
 * Staff of the Snake (II)
@@ -251,7 +252,9 @@ However, a princess might be able to combine multiple devices, improve on one, o
 * Moonblade (V)
 * Staff of magi (V)
 
-### Celestial Ritual
+Great gratitude to D&D!
+
+# Celestial Ritual
 
 Celestials are abstract beings that wait to be called.
 

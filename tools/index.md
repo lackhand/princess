@@ -1,7 +1,7 @@
 ---
 layout: navpage
 title: Tools
-section: "1.1"
+section: "1"
 ---
 
 These tools exist to keep everyone on the same page and to keep the conversation flowing.

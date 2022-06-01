@@ -1,7 +1,7 @@
 ---
 layout: navpage
 title: Tier
-section: "1.1.0"
+section: "1.1"
 ---
 
 Can a normal person knock down a wall by using dry spaghetti?

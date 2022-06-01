@@ -21,6 +21,8 @@ For infrastructural reasons, it's written in an unholy mishmash of:
 
 If you'd like to contribute, drop me a pull request or bug or fork or whatever!
 
+My dev process is just to push, and let <github.io> know its own.
+
 Please have fun!
 </details>
 
@@ -31,4 +33,7 @@ Please have fun!
 
 # Noodling on title
 Princess -> Knight School? Alchemise? The Art of Transmuting Metals? Becoming? Phialname?<-- oh, that's good, keep that.
-Elemartial. Alchevalier. Chevaladies. 
+Elemartial. Alchevalier. Chevaladies.
+
+# Noodling on organization
+This has a LOT of "how does this RPG work" noodling in its front matter. For how much lifting I want that to do it's OK, but it's also boring and repetitive.

@@ -1,7 +1,7 @@
 ---
 layout: navpage
-title: Labs
-section: "2.3.3"
+title: The Lab Adventure
+section: "4.3"
 ---
 
 During an otherwise-unremarkable Chem 101 session, Isaacs assigns new homework.

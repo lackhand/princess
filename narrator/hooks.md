@@ -1,7 +1,7 @@
 ---
 layout: navpage
 title: Hooks
-section: "2.3.2"
+section: "4.2"
 ---
 
 The enemy's massed strength is technically independent of the princess' statistics.

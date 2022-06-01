@@ -6,7 +6,7 @@ section: "2.1"
 
 If you're all "students" and "reincarnated heroes" or "giant robot pilots" or "witches", figure out what that looks like and give it to each of the princesses that panoply to start from.
 
-## Relationship Keys
+# Relationship Keys
 
 If you want to tell a story about characters who are interrelated, it's a good idea to take traits that emphasize the relationships.
 It's hard to share the spotlight if everyone's connected through a single princess (though a non-princess character can work out).
@@ -59,7 +59,7 @@ Woobie
 
 
 
-### (Optional) Randomizing Relationships
+## (Optional) Randomizing Relationships
 
 Give yourself a relationship with the player to your... (roll 2d for each row, skipping yourself):
 
@@ -77,7 +77,7 @@ To determine the nature of your relationship, roll 1d (the "Reversed" line is fo
 
 If someone gets a relationship with you, you have the "they're" relationship with them (or whatever you want instead).
 
-## Genre behavior keys
+# Genre behavior keys
 
 If you want to tell a story about characters that behave in a morally upright fashion, keys emphasize those themes.
 
@@ -130,7 +130,7 @@ Key Kills Monsters
 > That would be terrible.
 {:.warning}
 
-## Secret Identity Keys
+# Secret Identity Keys
 
 Since the hook implies secret identity, what with being hunted, so that traits related to that might be important!
 
@@ -162,14 +162,14 @@ Found Identity
 
 
 
-## (Optional) Randomizing Genre Behavior & Identity Keys
+# (Optional) Randomizing Genre Behavior & Identity Keys
 
 These drives are best when they're highly varied and can create conflict.
 
 So: Write them on slips of paper and pass them out randomly to each princess!
 It should work fine to put them all into one big bucket and give one each, or you could ensure each princess gets one each of genre and identity.
 
-## Student & other background Traits
+# Student & other background Traits
 
 A `Hartshorn student` is a perfectly fine trait, but we assume all of the princesses are; you only need a trait if you _aren't_ one. Similarly, `Human` `female` `age 18` and so on is assumed.
 
@@ -201,7 +201,7 @@ You have a magical possession when you transform (give it a title!) which is tie
 | **5** | Bishop | Spy       | Device    |
 | **6** | Knight | Merchant  | Weapon    |
 
-## Alchemical Knight Secrets
+# Alchemical Knight Secrets
 
 All alchemical knights need a secret or two to explain their relationship to magic.
 
@@ -232,7 +232,7 @@ Alchemical Affinity
 
 
 
-## Other Secrets
+# Other Secrets
 
 {:.magic} Battleborn
 : Once when you transform, reduce _harm_ from an attack in combat or to _push_ yourself during a fight.
@@ -341,7 +341,7 @@ Iron Will
 
 
 
-## Backfilling & new secrets
+# Backfilling & new secrets
 
 There's still a lot of missing secrets here! For now, consider [stealing from blades in the dark](https://bladesinthedark.com/character-playbook).
 

@@ -1,7 +1,7 @@
 ---
 layout: navpage
 title: Trauma
-section: "1.1.6"
+section: "1.5"
 ---
 
 #### Trauma

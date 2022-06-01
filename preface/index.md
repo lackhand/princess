@@ -1,7 +1,7 @@
 ---
 layout: navpage
 title: About
-section: "0.1"
+section: "0"
 ---
 
 Princess is a roleplaying game of magical-girl melodrama.

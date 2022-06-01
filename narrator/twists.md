@@ -1,7 +1,7 @@
 ---
 layout: navpage
 title: Twists
-section: "2.3.1"
+section: "4.1"
 ---
 
 Between each adventure, the world changes.
@@ -15,7 +15,7 @@ This doesn't mean that the enemy is more or less powerful!
 
 Remember, roll the princess' **rank** (or choose):
 
-#### 1-3: A friend betrays the princesses or is hurt (by enemy action?).
+# 1-3: A friend betrays the princesses or is hurt (by enemy action?).
 
 Then roll 1d (or choose):
 
@@ -27,7 +27,7 @@ Then roll 1d (or choose):
 6. Jupes Stannes (your RA) is concerned about your hours, and has started trailing you
 
 
-#### 4-5: Someone picks a fight with the princesses or their friend (why?).
+# 4-5: Someone picks a fight with the princesses or their friend (why?).
 
 Then roll 1d (or choose):
 
@@ -38,7 +38,7 @@ Then roll 1d (or choose):
 5. Townies Against Gownies is picketing your new job for hiring you
 6. The bank is trying to foreclose on Abeni's Farm and has sent Mr. Flint to assess value
 
-#### 6: A nasty rumor starts about the princesses or their friend (who started it? is it true?).
+# 6: A nasty rumor starts about the princesses or their friend (who started it? is it true?).
 
 Then roll 1d (or choose):
 
@@ -49,7 +49,7 @@ Then roll 1d (or choose):
 5. Townies against Gownies accuses you (specifically) of starting the fire at Cinnibars' and killing a vagrant
 6. Ms. Abeni/Ms. Carter accuses you of distracting her daughter from her duties.
 
-#### 6,6 : Someone unexpected asks the princesses for an inconvenient favor (what will change?).
+# 6,6 : Someone unexpected asks the princesses for an inconvenient favor (what will change?).
 1. Onyxxx needs help tracking down a stolen amulet, and Cinnabar suggests you.
 2. L.S.Lander wants deep background on the Moon Maiden, and knows you collect that kind of thing.
 3. Ms. Danvers' birthday is coming up, and her party planner gives you the willies

@@ -1,10 +1,10 @@
 ---
 layout: navpage
 title: The Elemental Orders of Alembic
-section: "2.1.2"
+section: "2.3"
 ---
 
-Alchemical Knights also believed -- and named their military orders after -- the Alchemical Metals (roll 1d, or choose):
+Alchemical Knights believed -- and named their military orders after -- the Alchemical Metals (roll 1d, or choose):
 
 | _Roll_ | Order   | Nickname | Element(s) |
 |--------|---------|----------|------------|
@@ -20,7 +20,7 @@ Alchemical Knights also believed -- and named their military orders after -- the
 Use your order to help you decide on your princess' theme and abilities.
 It doesn't have to be a straightjacket; while in Alembic these Orders were some combination of ethnicity, faith, and employment, your alchemical knight was a unique character of special import and destiny.
 
-#### The Order of Mercury: Undines of the Rivers
+# The Order of Mercury: Undines of the Rivers
 
 Guardians of the rivers, pools, and aqueducts of Alembic.
 Doctors, sages, scientists, scouts, and explorers.
@@ -31,7 +31,7 @@ Traits: Quick, Gentle, Easygoing, Overlooked, Tech Wiz, Math Wiz, Spelling Wiz, 
 
 Inspiration: Sailor Mercury. Sherlock Holmes.
 
-#### The Order of Copper: Dryads of the Wilds
+# The Order of Copper: Dryads of the Wilds
 
 Guardians of the forests, swamps, and wild places of Alembic.
 Apothecaries, midwives, herbalists, hunters, rangers, and druids.
@@ -42,7 +42,7 @@ Traits: Devoted, 4H, Gardener, Horsegirl, Feral, Deft, Crack shot, Dogwhisperer,
 
 Inspiration: Applejack. Poison Ivy. Samwise Gamgee. Toph.
 
-#### The Order of Silver: Djinn of the Coasts
+# The Order of Silver: Djinn of the Coasts
 
 Guardians of the oceans and cities of Alembic.
 Diplomats, travelers, merchants, laborers, sailors, and knights.
@@ -53,7 +53,7 @@ Traits: Shopping!, Curiosity, Lucky, Appealing, My Mom/Dad said..., Favored pers
 
 Inspiration: Sailor Moon. Sokka. Aang. Merry/Pippin.
 
-#### The Order of Gold: Marid of the Fields
+# The Order of Gold: Marid of the Fields
 
 Guardians of the civilization, culture, and the arts of Alembic.
 Actors, nobles, artists, poets, doctors, athletes, judges, consorts.
@@ -64,7 +64,7 @@ Traits: Strong, Fast, Cool, Brave, Kind, Clever, Deft, Graceful, Trained, Artist
 
 Inspiration: Tuxedo mask. Sailor Venus. Aragorn. Uncle Iroh.
 
-#### The Order of Iron: Efreet of the Hills
+# The Order of Iron: Efreet of the Hills
 
 Guardians of the borders, industry, and war machines of Alembic.
 Magnates of industry, miners, soldiers, engineers and factory workers.
@@ -75,7 +75,7 @@ Traits: Passionate, aggressive, creative, leader, lover, boy/girl trouble, fires
 
 Inspiration: Sailor Jupiter. Zuko.
 
-#### The Order of Tin: Oread of the Mountains
+# The Order of Tin: Oread of the Mountains
 
 Guardians of the high places, maintainers of history & the old ways.
 Priests, seers, wanderers, nomads, loners and exiles.
@@ -86,7 +86,7 @@ Traits: Perceptive, confrontational, adaptive, inner-strength, momfriend, snowfr
 
 Inspiration: Sailor Mars. Katara.
 
-#### The Order of Lead: Furies of the Deeps
+# The Order of Lead: Furies of the Deeps
 
 Guardians of the hidden places, handlers of the dead, followers of destiny.
 Morticians, the lost, prison guards, and goths.
@@ -97,7 +97,7 @@ Traits: Friends in low places, burnout, psychic gift, wizard uncle,
 
 Inspiration: Frodo. Sailor Saturn. 
 
-#### The Order of Orichalcum: Kaustos
+# The Order of Orichalcum: Kaustos
 
 Once: The nobility of Alembic.
 Now: The choir of the Burned.

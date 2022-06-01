@@ -1,7 +1,7 @@
 ---
 layout: navpage
 title: Genre
-section: "2.0"
+section: "2"
 ---
 
 It's good to build your game and your princesses together.

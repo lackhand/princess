@@ -1,7 +1,7 @@
 ---
 layout: navpage
 title: Downtime
-section: "1.1.7"
+section: "1.6"
 ---
 
 Between adventures a princess needs her rest, so that she can rise to face to the next adventure.

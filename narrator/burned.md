@@ -1,12 +1,12 @@
 ---
 layout: navpage
 title: The Burned
-section: "2.3.2"
+section: "4.2"
 ---
 
 This is all content for the narrator! Princesses, turn back!
 
-#### Chimeras
+# Chimeras
 
 The stereotypical Burned are chimerical (or at the least, satyrical) mockeries of the orders of alembic, the natural world, and so on.
 Most are fairly modern, having been created since Theophrastia's accidental summoning by the zodiacal society, created through dark chirurgical means from modern humans, powerful spirits from the fall of Alembic, and animals.
@@ -74,7 +74,7 @@ Dragon
 
 
 
-#### Mortal Obstacles
+# Mortal Obstacles
 
 But not everything is a supernatural entity; sometimes, you just have to beat up a bunch of gangsters or dodge a cop or something.
 
@@ -106,7 +106,7 @@ Military
 
 
 
-### Secrets of the Burned
+# Secrets of the Burned
 
 Sooner or later, things will get edgy.
 Someone will seize Burned technology,
@@ -156,7 +156,7 @@ Singed
 
 
 
-#### The Serene
+# The Serene
 
 > The Burn (VII) is a disembodied evil force that wants to spread itself, inflaming destructive passion in place of every other thought.
 > It's unconscious now, after gorging on Alembic for a thousand thousand years.

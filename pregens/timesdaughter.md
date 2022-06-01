@@ -1,7 +1,7 @@
 ---
 layout: navpage
 title: Dawn Abeni, Daughter of Time
-section: "2.0.1"
+section: "3.1"
 ---
 
 Dawn Crier, Blade of the Southern Choir, lived before the stars changed.
@@ -11,7 +11,7 @@ She remembers her quarry's lizard-stink, its mobile neck, the horror of its gaze
 
 She doesn't know why or how she woke up outside of Danvers, but has spent the last five years with Melanie and Parcel building a new life on the Abeni Farm, devoted to a single cause: avenging her fallen world.
 
-#### Attributes
+# Attributes
 
 | Danger | Intrigue | Charm | Favor |
 |--------|----------|-------|-------|
@@ -19,13 +19,13 @@ She doesn't know why or how she woke up outside of Danvers, but has spent the la
 |--------|----------|-------|-------|
 | **XP** | ()()()()() | **Advances** |       |
 
-#### Traits
+# Traits
 
 * Hunter of Ancient Things
 * Knight of the Transit Station
 * Golden savant
 
-#### Secrets
+# Secrets
 
 Sleeper of Alembic
   : You survived the fall of Alembic by being a statue, and awoke by accident
@@ -37,7 +37,7 @@ Ambush
 
 
 
-#### Keys
+# Keys
 1 random relationship key
 : ___
   : ___
