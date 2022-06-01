@@ -1,8 +1,10 @@
 ---
 layout: navpage
 title: The Burned
-section: "2.3"
+section: "2.3.2"
 ---
+
+This is all content for the narrator! Princesses, turn back!
 
 #### Chimeras
 
@@ -151,3 +153,23 @@ Singed
   : When you defy a consequence from the Burned, take +1d.
   : When you investigate the Burned, take +1d.
 {:.secret}
+
+
+
+#### The Serene
+
+> The Burn (VII) is a disembodied evil force that wants to spread itself, inflaming destructive passion in place of every other thought.
+> It's unconscious now, after gorging on Alembic for a thousand thousand years.
+> Queen Theophrasta (V) was its high priestess and is reborn from Hannah Coen; she seeks: 1. to awaken the Burn to consciousness in the modern day, 2. to call and bind the spirits of citizens of Alembic for wisdom and gloating, and 3. to avert the Golden Wish by breaking the knights.
+> She has already burned the hearts of a coven of warlocks and replaced them with astrals, called the Serene Five.
+> Three of them (Tier III: Confesiran, Saleduc and Tramercan) are the mummified warlocks of the Scarlet Circle who resurrected Theophrasta.
+> One of them (Sulefilm) was a Scarlet Circle member. He was lost during the summoning when his mansion burned down.
+> They're now charged with raising, modifying, and empowering the Burned and expanding The Burn, barely able to leave the Dream themselves.
+> (IV) Leogox was Theophrasta's lover Errol Bayes, now a shapeshifting manticora.
+> His conversion to a Serene was incomplete, and his heart beats elsewhere.
+> He operates Theophrasta's mortal pawns to find Burned candidates, trade ash, amass reagents and other resources, etc.
+> He's impatient, ashamed of his condition, and domineering.
+> (III) Cordy (nee Arthama Pritti) was an alchemic knight who called herself the Moon Maiden in 1985 until her defeat in 2012.
+> Leogox seduced her and Theophrasta bound her to Cordyceptyrant, a fungal jinn (she lives lest she reincarnate free).
+> She's searching for Parcel (and other returning knights) using witchtaster serpents and her cordyceptyrus curse to create willing "pod people" who burst into mutations after a limited lifespan.
+> She's unrealistic, vindictive, and romantic. She still pines for Leogox, who thinks she's pathetic.

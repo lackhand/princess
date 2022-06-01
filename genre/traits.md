@@ -1,6 +1,6 @@
 ---
 layout: navpage
-title: Traits
+title: More Traits
 section: "2.1"
 ---
 
