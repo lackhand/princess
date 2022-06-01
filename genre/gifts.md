@@ -7,24 +7,23 @@ section: "2.2"
 > I'm going to put on a scuba tank so the poison elemental can't get me!  
 > ...again! Seems like we're always fighting these guys in the sporting goods section!
 
-Anything the princesses purchase as a secret works the way the secrets dictate.
-This section covers everything else, particularly when designing new gifts.
-
 See `tools>gifts` for more advice about how to bring a gift into the game.
 
-A gift first needs to be _invented_ (which might take multiple _downtime actions_), and then either have its recipe _crafted_ or else be _borrowed_ from some source (both of which also consume downtime).
+A new gift first needs to be _invented_ (which might take multiple _downtime actions_), and then either have its recipe _crafted_ or else be _borrowed_ from some source (both of which also consume downtime).
 Alternatively, in the fiction a princess might juryrig, commandeer, purchase, coopt or convince herself into a new piece of equipment, ally, or power.
 That's fine too!
 
 # What is a gift?
 
-A weapon, armor, special technique, ritual, companion, pet, or similar.
-Any princess-exploitable stand-alone piece of rules text is an item.
-We use the invention rules so that there's a way to balance the princess' giving themselves goodies with the sorts of challenges we want them to face.
+A weapon, armor, special technique, ritual, companion, pet, superpower, or similar.
+Any princess-exploitable stand-alone piece of rules text.
+We use the _invention_ rules so that there's a way to balance the princess' giving themselves goodies with the sorts of challenges we want them to face.
+
+The princess' own gifts are limited to her **rank**, though those that are unlocked in fiction might have their own.
 
 # Designing an item
 
-This is sort of a metagame procedure: it defines what the item does as a conversation between a princess & the narrator.
+This is sort of a metagame procedure: it defines what the item does as a conversation between the princess' player & the narrator.
 
 Before beginning, work together to design the item:
 
@@ -79,18 +78,77 @@ Common items (below) can be crafted or borrowed without first being invented; ev
 
 Items are listed with a quality tier (for purchase or borrow).
 
-# Mundane items
+# Physical Gifts
 
-Crowbars, bicycles, motorbikes, potato canons, cameras, pies, scarves, bookends, paintings: mundane items.
-Anything you could make in shop class or by watching videos online is common.
-Anything else (machines, medicines, etc) might need to be researched or require a more advanced workshop and research first.
+Anyone could be carrying these staples of the modern world:
 
-If you need guidance for purchase difficulties, roughly the more detailed something's name is, the higher tier:
-* Single syllable abstract objects -- sword (I), gun (I), car (I), gem (I) -- get you toy versions at best.
-  * Of course, you could get an automobile (IV; if "brand new", VI!) or motorbike (III)...
-  * Can you get a bike (I) or must you get a bicycle (III)? Bike's probably fine.
-* A rapier (II) or longsword (II) are lower tier than a katana (III), bowie knife (III) or bec-de-corbin (IV)
-* A piano (III) is about as complex as a saxophone (III) or triangle (III) (consider a chime(I) instead?)
+| Gift (Load; default 1) | Notes |
+|----------------------|-------|
+| Weapon or gun        | Bat, knife, hatchet, chain, pistol, slingshot, light crossbow, yoyo, etc |
+| Heavy Weapon (2)     | A two-handed weapon like kendo sword, chain, fireaxe, frypan; crossbow or rifle |
+| Armor (2/+3 Heavy)   | Protective padding and clothing/and a helmet |
+| Spare clothes        | A disguise, high vis vest & clipboard, or fancy outfit |
+| Arcane implements (2) | Chalk, incense, crystals, a wand |
+| Climbing gear (2)    | Ropes etc |
+| Breaking gear (2)    | Hammer, crowbar, drill |
+| Entering gear        | Lockpicks, vial of acid, tiny saw |
+| Crafts kit           | Sewing, paint, wire, pliers etc |
+| Flashlight           | A high-powered maglight, headlamp, etc |
+| First aid kit        | Antiseptic & -venom, drugs, gauze, pads, etc |
+| Textbook             | Reference volumes on a variety of subjects, school supplies |
+| Investigator's kit   | Cameras, a recorder, sample vials, assaying chemicals, etc |
+| Keepsake(0)          | A personal charm that means a lot to you |
+| Smartphone(0)        | Talk, text, etc. Rings, tracks you on lovr, potato camera, and runs out of batteries! |
+{:.tablecol}
+
+## Unusual physical gifts
+
+The below make sense for particular characters to bear, but not just anyone.
+
+They flow from the princess' _traits_; if you'd like to be a little formal, choose five.
+Sometimes _light_ mundane objects have no weight (even metaphysical); that's fine, you can carry it as a freebie!
+
+| Advanced Gift (Load; default 1) | Notes |
+|-------------------------------|-------|
+| A _fine_ weapon(+0), armor, gear, kit, implement, etc | +1 quality |
+| A _light_ weapon(-1), armor, etc | Makes it weigh 1 less (possibly weightless) |
+| 3 _alchemicals_ (1) | 3 _alchemicals_ of your rank -1 (see that section); _borrow_ for better |
+| 1 _relic_           | A _relic_ of your rank or below (see that section); _borrow_ for better |
+| 3 doses Drugs (0)    | Make whoeever takes it ingests it I _drugged_ though perhaps able to commune with spirits |
+| 3/1 doses Knockout drugs (0)   | Makes whoever ingests or is sprayed harm I _suggestible_ or on a high dose, harm II _can't stay awake_. |
+| 1 dose Laxative (0)  | Make whomever ingests it harm I _incapacitated_ |
+| 1 dose Adrenaline (0) | Reduce penalties for physical harm by 1 or +effect to strength (for a scene; then harm I _fatigued_) |
+| 1 dose Speed (0)     | Reduce penalties for mental/social harm by 1 or +effect to focus (for a scene; then harm I _scattered_) |
+| Nightvision binocular | Infrared & far-vision goggle |
+| Specialized Clothes(1/2) | stealthy gear; heavy (2 load): a mascot uniform, tyvek suit & mask, winter clothes, scuba gear, etc |
+| Survival gear (2)    | Tent, water purification tablets & canteen, gas stove, MREs, etc |
+{:.tablecol}
+
+# Power gifts
+
+Alchemical Knights (and other characters) have powers.
+Alchemical knights in particular have power _suites_; the Princess of Petals can control flowers great, but perhaps not wind. 
+
+Like other unusual gifts, powers flow from the princess' _traits_.
+In the same way that a climbing kit gives you permission to scale a cliff (and perhaps you could even try it without), or a survival kit to spend the night in an inhospitable environment, a power or other psychic gift let you do the same thing.
+
+They're pretty severely limited; while a princess doesn't have to pay for a power she doesn't use in a session, she usually doesn't get to invent novel powers out of nowhere.
+
+They're limited to the princess' **rank** like other gifts.
+
+| Gift (Load; default 1) | Notes |
+|----------------------|-------|
+| Elemental attack     | Psychic crush, fire ray, telekinesis, flaming axe, golden spear, etc. |
+| Elemental control (2) | mind blast, fireball, freezing aura, waterbending, etc. |
+| Elemental mastery (5) | Battle dimension, earthquake, etc |
+| Movement             | Spiderclimb or levitate; breathe underwater, cold/heat adaption, etc |
+| Akasha               | Any/all common knowledge & skills |
+| Telepathy (2)        | Intuition, psychic speech, remote sensing; Learn things through unusual methods |
+| Prophecy (5)         | Clairvoyance, mind reading, future sight; know things implicitly for further action |
+| Psychic medicine     | Remove harm, increasing trouble |
+{:.tablecol}
+
+These are just examples.
 
 # Alchemical items
 

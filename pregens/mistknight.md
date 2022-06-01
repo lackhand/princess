@@ -54,4 +54,14 @@ Secret Identity
   : Reveal both halves of your identity to your family.
 {:.key}
 
+# Gifts
+
+| Gift | () ()() ()()() ()()()() |
+|------|-------------------------|
+|      |                         |
+|      |                         |
+|      |                         |
+|      |                         |
+|      |                         |
+|      |                         |
 

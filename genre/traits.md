@@ -340,19 +340,3 @@ Iron Will
 {:.secret}
 
 
-
-# Backfilling & new secrets
-
-There's still a lot of missing secrets here! For now, consider [stealing from blades in the dark](https://bladesinthedark.com/character-playbook).
-
-In general, special abilities should come in a few forms:
-* Special Armor, X (often: resist specific consequences / push self somehow).
-  This is really just ~2 extra favor, skip-a-consequence-or-do-a-push, once-per-transformation
-* When you X, +1d (& skip one of the agenda questions?)
-* Limited +1d/+effect  (often +1d to some other action)
-* +potency (similar to +effect really)
-* When you _push_ yourself, +specific effects (you still get the normal benefits of pushing yourself)
-* You can spend **favor** for an explicitly supernatural ability
-* +1 result level to downtime actions (often crafting or other projects)
-
-

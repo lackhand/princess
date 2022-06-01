@@ -38,6 +38,7 @@ Focused
 
 
 # Keys
+
 1 random relationship key
 : ???
   : ???
@@ -54,4 +55,13 @@ Kind
   : Without breaking the genre, choose vengeance.
 {:.key}
 
+# Gifts
 
+| Gift | () ()() ()()() ()()()() |
+|------|-------------------------|
+|      |                         |
+|      |                         |
+|      |                         |
+|      |                         |
+|      |                         |
+|      |                         |

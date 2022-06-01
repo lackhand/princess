@@ -1,21 +1,21 @@
 ---
 layout: navpage
 title: Tier
-section: "1.1"
+section: "1.01"
 ---
 
-Can a normal person knock down a wall by using dry spaghetti?
+Can a normal person knock down a wall by using a piece of dry spaghetti?
+What about a wall made of cheese? **Soft** cheese?
 
-What if the wall were made of soft cheese? Hard cheese? They're using boiled spaghetti?
 **Tier** lets us capture our expectations around this and other important questions by estimating scale.
 Numbers are useful: you can compare them, or pick up that many dice.
-Lots of other tools will use tier in specific ways, but for now let's just talk about how to estimate a tier at all.
+The other tools will make use **tier** in specific ways; for now, let's talk about how to measure it.
 
-For instance, we might say a stone wall was Hardness IV, and the spaghetti Hardness -2.
-That's a difference of 6! A big number! Very difficult to overcome!
+We might say a stone wall was Hardness III, and the spaghetti Hardness -2.
+That's a difference of 5! A big number! Very difficult to overcome!
 
-But perhaps soft cheese is merely Hardness -1.
-That's a difference of 1 level, a small number, it's... plausible but difficult.
+But perhaps a soft cheese wall is merely Hardness -1.
+That sounds doable, and only has a difference of 1 so it's hard but possible.
 
 We can use this same procedure to answer harder questions too:
 * Can a cat sneak past a security system?
@@ -30,7 +30,7 @@ It can be used to measure things subjectively, for instance:
 
 | Tier | Quality    | Rarity  | Examples    |
 |------|------------|---------|-------------|
-| -1   | Alone      | Worst   | A small pet |
+| -1   | Feeble     | Worst   | A small pet |
 | 0    | Weak       | Junk    | A dull child |
 | I    | Moderate   | Common  | Cook doing taxes |
 | II   | Strong     | Uncommon | Mechanic's bike |
@@ -63,7 +63,7 @@ But **tier** can also be used to measure objective quantities like size or count
 
 ### Tier as a single number
 
-As an abstraction, it's ok to talk about an object's overall "**tier**", its default magnitude in the absence of better information about it.
+Even though tier gets used to measure adjectives (harder! Faster! Bigger!) it's ok to talk about an object's (single) **tier** for game purpose abstraction.
 For non-princess characters and tools and obstacles, define their **tier** and any traits, and then never look back!
 
 For instance, a normal bathroom door might be tier 0 ("weak"):
@@ -74,5 +74,5 @@ or even a tier III ("serious") front door if it had four deadbolts and a reinfor
 The important thing there is that we're not describing any specific aspect of the door; we're just describing the door's overall tier in a single number, and trusting the fiction to fill in any missing details.
 You can use the same technique with anything in the game: an obstacle, a tool, a spell, an antagonist, a friend.
 
-Remember, **tier** describes an object but doesn't dictate it.
+Remember, **tier** describes an object but it doesn't dictate the object's qualities.
 If a more specific magnitude makes more sense in the fiction than something's **tier**, go with that!

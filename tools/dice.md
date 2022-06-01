@@ -1,7 +1,7 @@
 ---
 layout: navpage
 title: Dice
-section: "1.3"
+section: "1.06"
 ---
 
 Dice are a great way to settle a disagreement about what happens next (_dramatic rolls_), to determine the magnitude of an outcome (_effect-_ or _cost-rolls_), or as an oracle to keep the game fresh (_fortune rolls_).

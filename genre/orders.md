@@ -14,11 +14,13 @@ Alchemical Knights believed -- and named their military orders after -- the Alch
 | 4      | Gold    | Marid    | Strength, skill, stability, law, truth; fields |
 | 5      | Iron    | Efreet, "Salamanders" | Fire, metal, industry, creativity; hills  |
 | 6      | Tin     | Oread, "Anemoi" | Electricity, prosperity, power, faith; mountains |
-| 7      | Lead    | Furies   | Endings, visions, the dead, punishment; underground |
+| 7(???) | Lead    | Furies   | Endings, visions, the dead, punishment, recovery; underground |
 | -1     | Orichalcum | Kaustos  | Deserts. Mirages. Miracles. Loss. |
 
 Use your order to help you decide on your princess' theme and abilities.
 It doesn't have to be a straightjacket; while in Alembic these Orders were some combination of ethnicity, faith, and employment, your alchemical knight was a unique character of special import and destiny.
+
+The princess' _gifts_ flow from her order (and even more specifically, from her titles and attributes within that order). For instance, a Marid might be able to summon a sword of light, but is unlikely to have hydrokinesis; an undine might have power over mist and rain but not rivers (or not _yet_ rivers).
 
 # The Order of Mercury: Undines of the Rivers
 
@@ -95,7 +97,7 @@ Good at: Otherwordliness. Structural weirdness. Discipline. Destiny.
 Bad at: Anything normal whatsoever.
 Traits: Friends in low places, burnout, psychic gift, wizard uncle, 
 
-Inspiration: Frodo. Sailor Saturn. 
+Inspiration: Frodo. Sailor Saturn.
 
 # The Order of Orichalcum: Kaustos
 
@@ -103,4 +105,4 @@ Once: The nobility of Alembic.
 Now: The choir of the Burned.
 No, you can't play as one of these.
 
-Inspiration: Sauron.
+Inspiration: Ringwraiths. Dementors.

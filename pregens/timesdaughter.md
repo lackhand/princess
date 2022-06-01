@@ -54,4 +54,14 @@ Harbinger of Dawn
   : Abandon or redefine the mission.
 {:.key}
 
+# Gifts
+
+| Gift | () ()() ()()() ()()()() |
+|------|-------------------------|
+|      |                         |
+|      |                         |
+|      |                         |
+|      |                         |
+|      |                         |
+|      |                         |
 

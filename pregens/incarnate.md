@@ -59,4 +59,14 @@ Kills Monsters
   : Acquire a trauma in battle with a monster.
 {:.key}
 
+# Gifts
+
+| Gift | () ()() ()()() ()()()() |
+|------|-------------------------|
+|      |                         |
+|      |                         |
+|      |                         |
+|      |                         |
+|      |                         |
+|      |                         |
 

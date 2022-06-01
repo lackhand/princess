@@ -1,7 +1,7 @@
 ---
 layout: navpage
 title: Counters & Clocks
-section: "1.1"
+section: "1.02"
 ---
 
 A counter is a publicly visible gauge of something in the fiction.
