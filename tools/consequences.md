@@ -14,6 +14,7 @@ Bad **consequences** were foreshadowed by the **risk**, and are often just calle
 | **Effect** | - | +1 | +2      | +3   | +5    | How many clock ticks of progress are accomplished towards a goal? |
 | **Cost** | +1  | -1 | -2      | -3   | -5    | How many clock ticks are lost (or ticked on a bad clock)? |
 | **Risk** | -   | I  | II      | III  | IV    | What is the max tier of consequences of failure? |
+{:.tablecol}
 
 The narrator uses the fiction as a base from which to interpret the dice result, then she attaches mechanics.
 

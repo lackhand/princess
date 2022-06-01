@@ -106,6 +106,7 @@ All else equal, the overall level of aggression and tactics determine the combat
 | Missile   | Beam, gout | Blast, wave, cloud | Dart, bolt |
 | Beast     | Claw, ambush | Bite, pounce, trample | Tail, spines, scales |
 | Tactic    | Horse, skirmishers | Archers, engines | Pike, emplacements |
+{:.tablecol}
 
 "When same" is guidance when two equally matched opponents fight.
 For instance, a pair of crossed rapiers (fairly guarded weapons on this scale) result in low risk and effect for both combatants; arm one of them with an axe and their aggressive stance gives them potency (and so high effect and standard risk); arm the other with an another axe, and the evenly matched combatants are both at high effect _and_ high risk.
@@ -128,6 +129,7 @@ Comparing the attacker's _attack_ to the defender's _defense_ sets the level of 
 | Defense   | Evade    | Press      | Block     |
 |-----------|----------|------------|-----------|
 | As stance | Balanced | Aggressive | Defensive |
+{:.tablecol}
 
 # Advanced Combat and Tactics 2
 

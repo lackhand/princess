@@ -16,6 +16,7 @@ Alchemical Knights believed -- and named their military orders after -- the Alch
 | 6      | Tin     | Oread, "Anemoi" | Electricity, prosperity, power, faith; mountains |
 | 7(???) | Lead    | Furies   | Endings, visions, the dead, punishment, recovery; underground |
 | -1     | Orichalcum | Kaustos  | Deserts. Mirages. Miracles. Loss. |
+{:.tablecol}
 
 Use your order to help you decide on your princess' theme and abilities.
 It doesn't have to be a straightjacket; while in Alembic these Orders were some combination of ethnicity, faith, and employment, your alchemical knight was a unique character of special import and destiny.
