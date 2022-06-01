@@ -1,7 +1,7 @@
 ---
 layout: navpage
 title: Conversation
-section: "0.2"
+section: "0.1"
 ---
 This game is played by a group of people holding a conversation.
 

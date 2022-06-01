@@ -18,9 +18,9 @@ ditto the two level print-then-execute, to ensure each line of <li> is captured 
 
 {% capture toc -%}
 	{%- for page2 in sorted -%}
-	{%- assign hLevel = page2.section | split: "." | size | minus: 1 | at_least: 1 -%}
+	{%- assign hLevel = page2.section | split: "." | size | at_least: 1 -%}
 	{%- assign hs = "" -%}
-	{%- for i in (2..hLevel) -%}
+	{%- for i in (1..hLevel) -%}
 		{%- capture hs %}  {{hs}}{% endcapture -%}
 	{%- endfor -%}
 {{ hs }}* [{{ page2.title }}](#{{ page2.url | slugify}})
@@ -33,9 +33,9 @@ ditto the two level print-then-execute, to ensure each line of <li> is captured 
 
 {% for page2 in sorted -%}
 {%- if page2.url != page.url -%}
-{%- assign hLevel = page2.section | split: "." | size | minus: 1 | at_least: 1 -%}
+{%- assign hLevel = page2.section | split: "." | size | at_least: 1 -%}
 {%- assign hs = "" -%}
-{%- for i in (2..hLevel) -%}
+{%- for i in (1..hLevel) -%}
 	{%- capture hs %}#{{hs}}{% endcapture -%}
 {%- endfor -%}
 
