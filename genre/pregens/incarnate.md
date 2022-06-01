@@ -15,10 +15,10 @@ He found Dawn after a few years, and they've been looking for any sign of other 
 
 #### Attributes
 
-| Danger | Intrigue | Romance | Favor |
-|--------|----------|---------|-------|
-| 0      | II       | I       | ()()() ()()() ()()() |
-|--------|----------|---------|-------|
+| Danger | Intrigue | Charm | Favor |
+|--------|----------|-------|-------|
+| 0      | II       | I     | ()()() ()()() ()()() |
+|--------|----------|-------|-------|
 | **XP** | ()()()()() | **Advances** |       |
 
 #### Traits

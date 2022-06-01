@@ -13,10 +13,10 @@ In her past life, she was Phlogista, stormcaptain and privateer.
 
 #### Attributes
 
-| Danger | Intrigue | Romance | Favor |
-|--------|----------|---------|-------|
-| I      | 0        | II      | ()()() ()()() ()()() |
-|--------|----------|---------|-------|
+| Danger | Intrigue | Charm | Favor |
+|--------|----------|-------|-------|
+| I      | 0        | II    | ()()() ()()() ()()() |
+|--------|----------|-------|-------|
 | **XP** | ()()()()() | **Advances** |       |
 
 #### Traits

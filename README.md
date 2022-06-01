@@ -25,4 +25,10 @@ Please have fun!
 </details>
 
 # TODO
-- Character advancement & currency feel unclear (blink & you'll miss it)
+- The name no longer fits, there's too much in one box
+  - "Princess" is absolutely the term for generic anime superheroine antics, but these are specifically alchemical *knights* by analogy with Jedi, and so having two terms ("princess" and "knight") is just weird.
+  - Is there anything *there* with the alchemy in the background? I obviously still think so, but Paracelsus would disagree.
+
+# Noodling on title
+Princess -> Knight School? Alchemise? The Art of Transmuting Metals? Becoming? Phialname?<-- oh, that's good, keep that.
+Elemartial. Alchevalier. Chevaladies. 

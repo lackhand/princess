@@ -13,10 +13,10 @@ Now she has a new, strange family and her old family both.
 
 #### Attributes
 
-| Danger | Intrigue | Romance | Favor |
-|--------|----------|---------|-------|
-| I      | I        | I       | ()()() ()()() ()()() |
-|--------|----------|---------|-------|
+| Danger | Intrigue | Charm | Favor |
+|--------|----------|-------|-------|
+| I      | I        | I     | ()()() ()()() ()()() |
+|--------|----------|-------|-------|
 | **XP** | ()()()()() | **Advances** |       |
 
 #### Traits

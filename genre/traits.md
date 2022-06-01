@@ -332,7 +332,7 @@ Arcane mind
 
 Iron Will
 : You are immune to the terror that some supernatural entities inflict on sight.
-  : When you make a **defiance** roll with Romance, take +1d.
+  : When you make a **defiance** roll with Charm, take +1d.
 
 {:.magic} Warded
 : Once when you _transform_, reduce a supernatural **consequence**, or to _push_ yourself when you contend with or employ arcane forces.

@@ -12,10 +12,10 @@ In her past life, she was Hydropheria, mistwatcher of the north, guardian of the
 
 #### Attributes
 
-| Danger | Intrigue | Romance | Favor |
-|--------|----------|---------|-------|
-| 0      | II       | I       | ()()() ()()() ()()() |
-|--------|----------|---------|-------|
+| Danger | Intrigue | Charm | Favor |
+|--------|----------|-------|-------|
+| 0      | II       | I     | ()()() ()()() ()()() |
+|--------|----------|-------|-------|
 | **XP** | ()()()()() | **Advances** |       |
 
 #### Traits

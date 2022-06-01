@@ -63,7 +63,7 @@ How are we going to tune our game rules?
 > **Memory** scenes should be used mostly for our past lives in Alembic (otherwise we'd weaken the past life thing).  
 > **Decrees** are fine only in places touched by the Dream, where coincidence acts up.
 >
-> The princesses each have 3 points to split between **Danger**, **Intrigue** and **Romance**; they'll start at **Rank** 2.
+> The princesses each have 3 points to split between **Danger**, **Intrigue** and **Charm**; they'll start at **Rank** 2.
 > Each princess has the _memories of alembic_ secret (or a substitute) and _magical transformation_.
 >
 > Each princess chooses 3 _keys_, 2 _fictional traits_, and 1 _secret_ for her modern-day life.

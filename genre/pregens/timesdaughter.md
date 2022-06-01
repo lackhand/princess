@@ -13,10 +13,10 @@ She doesn't know why or how she woke up outside of Danvers, but has spent the la
 
 #### Attributes
 
-| Danger | Intrigue | Romance | Favor |
-|--------|----------|---------|-------|
-| I      | I        | I       | ()()() ()()() ()()() |
-|--------|----------|---------|-------|
+| Danger | Intrigue | Charm | Favor |
+|--------|----------|-------|-------|
+| I      | I        | I     | ()()() ()()() ()()() |
+|--------|----------|-------|-------|
 | **XP** | ()()()()() | **Advances** |       |
 
 #### Traits
