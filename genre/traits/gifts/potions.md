@@ -11,13 +11,13 @@ Using a potion, dust, poison, philtre or oil makes the knight Harm I _woozy_ (or
 
 A "philtre" is a cross between a potion and a poison. If the alchemical knight drinks her own philtre, she doesn't take the additional Harm I _woozy_, just the listed trait(s).
 
-| Name |   |
-|------|---|
-| **Tier 0** | |
+| Name       |   |
+|------------|---|
+| **Tier 0** |   |
 | Bliss Philtre | A pleasurable drug; _stupor_ |
 | Detection Potion | Open your senses to detect & communicate with spirits & magic; _confused_ |
 | Light Oil | Makes something glow (even if it doesn't want to...) |
-| **Tier I** | |
+| **Tier I** ||
 | Enlarge Potion | +scale |
 | Fog, Bottled | Creates a bank of fog |
 | Holdfast Oil | Strengthen, seize & hold mechanical devices & surfaces |
@@ -26,7 +26,7 @@ A "philtre" is a cross between a potion and a poison. If the alchemical knight d
 | Rage Philtre | Harm I _raging_; Reduce penalties from Harm I,II,III by 1 for a scene |
 | Resistance Potion | Ignore burn/freeze/zap at this level or below |
 | Sleep Philtre | Fall _asleep_ (or at least become _fatigued_) |
-| **Tier II** | |
+| **Tier II** ||
 | Bezoar | Protection against decay, poisons & diseases |
 | Choking, Dust of | Creates the sensation of drowning when inhaled |
 | Darkvision Philtre | See in the dark for a night (& _dazzled_) |
@@ -41,7 +41,7 @@ A "philtre" is a cross between a potion and a poison. If the alchemical knight d
 | Strength Potion | +effect in combat (then afterwards, _weak_) |
 | Tongues Potion | Read and speak multiple languages (including animal); +charm if they're off-guard |
 | Webbing, Bottled | Glues two surfaces together; webbing |
-| **Tier III** | |
+| **Tier III** ||
 | Cure Potion | Remove specific poisons and diseases |
 | Dispelling, Oil of | Halts & suppresses the effect of other alchemicals; dissolves binding |
 | Drowning Philtre | Breathe underwater for a night (but: _can't breathe air_)|
@@ -52,7 +52,7 @@ A "philtre" is a cross between a potion and a poison. If the alchemical knight d
 | Slow Oil | (all) time passes more slowly for object, including taking less damage |
 | Paralysis Poison | Holds & paralyzes |
 | Visions Potion | See & hear through a disembodied sensor, through walls, etc |
-| **Tier IV** | |
+| **Tier IV** ||
 | Confusion, Bottled | Befuddles everyone exposed | 
 | Escape, Dust of | Short range teleport |
 | Flight Potion | Fly for a period |
@@ -66,14 +66,14 @@ A "philtre" is a cross between a potion and a poison. If the alchemical knight d
 | Vicious Oil | Creates horrifying rotten wounds by touch |
 | Wall of Fire/Ice/Lightning, Bottled | Break to release |
 | Wisdom Potion | +effect on Intrigue & Charm (then: _tired_) |
-| **Tier V** | |
+| **Tier V** ||
 | Cloudkill, Bottled | A fog of deadly gas (or insects, etc) |
 | Dreaming, Potion of | Astral projection while you sleep |
 | Elemental, Bottled | Unleashes elemental devastation which you completely control |
 | Feeblemind Poison | Mind blasts the consumer |
 | Passwall Oil | Opens a barrier (splitting water, stone, earth, etc) |
 | Softening Dust | Structural rock becomes mud, returns stone to flesh etc |
-| **Tier VI** | |
+| **Tier VI** ||
 | Anti-magic, Oil of | Create a completely mundane space in which nothing magical operates |
 | Disintegration, Dust of | Destroy something utterly |
 | Geas Potion | Compels obedience to a sworn oath |
