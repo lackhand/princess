@@ -1,7 +1,7 @@
 ---
 layout: navpage
 title: Gifts
-section: "1.05"
+section: "1.3.1"
 ---
 
 Your princess' equipment & extraordinary abilities are called gifts.
@@ -31,13 +31,15 @@ Thereafter, a princess can change her burden during the adventure (by physically
 
 A princess can make new specific gifts available by purchasing a trait or secret, using _borrow_ or _create_ downtime actions, and depending on genre you may also be able to do these things in a **memory** or **decree**.
 
+The secret is that most _gifts_ are just _traits_ (perhaps "gift fictional traits"), which just act as permissions (picking a lock with a pick) or modify effect and risk (wielding a sword or shield).
+
 # Physical Gifts
 
 Crowbars, bicycles, motorbikes, potato canons, cameras, pies, scarves, bookends, paintings: mundane items.
 Anything you could make in shop class or by watching videos online is common.
 Anything else (machines, medicines, etc) might need to be researched or require a more advanced workshop and research first.
 
-If you need guidance for purchase difficulties, roughly the more detailed something's name is, the higher tier:
+If you need guidance for purchase difficulties, roughly the more detailed something's name is, the higher **tier**:
 * Single syllable abstract objects -- sword (I), gun (I), car (I), gem (I) -- get you toy versions at best.
   * Of course, you could get an automobile (IV; if "brand new", VI!) or motorbike (III)...
   * Can you get a bike (I) or must you get a bicycle (III)? Bike's probably fine.
@@ -58,12 +60,10 @@ A body, a suit of armor, or a chest weighs 5 load.
 
 A princess's gifts flow from her _traits_ (including _secrets_).
 
+Consider using the _invention_ questionnaire to describe and limit them, since you'll need to decide & communicate their limits.
+
 When she wants something that doesn't really make sense from her _traits_, she can use _downtime actions_ like _borrow_ or _create_ to set up a reason in the fiction for the gift to show up.
 
-# Metaphysical Gifts
+# Gifts' tier & quality
 
-Magic powers, magic items, arcane rituals, favors from allies, positive thoughts.
-Anything can be modeled as a gift.
-
-The secret is that most _gifts_ are just _traits_ (perhaps "gift fictional traits"), which just act as permissions (picking a lock with a pick) or modify effect and risk (wielding a sword or shield).
-
+By default, a *

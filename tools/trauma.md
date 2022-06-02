@@ -1,10 +1,8 @@
 ---
 layout: navpage
 title: Trauma
-section: "1.08"
+section: "1.5"
 ---
-
-#### Trauma
 
 When a princess needs to spend **favor** but doesn't have any to spend, she is **traumatized** instead of spending the owed **favor**.
 She's temporarily _broken_ (as though harm IV) until the end of the scene.

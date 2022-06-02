@@ -1,7 +1,7 @@
 ---
 layout: navpage
 title: Advanced Combat & Tactics
-section: "1.10"
+section: "1.7"
 ---
 
 It's pretty common that an agile fenging princess faces off against an axe-wielding bruiser, or a wild ronin against a controlled samurai, or a village against marauders, or an army against a dragon, or a knight against a dragon.

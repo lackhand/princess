@@ -1,12 +1,12 @@
 ---
 layout: navpage
 title: The Elemental Orders of Alembic
-section: "2.3"
+section: "2.3.4"
 ---
 
-Alchemical Knights believed -- and named their military orders after -- the Alchemical Metals (roll 1d, or choose):
+Alchemical Knights believed -- and named their military orders after -- the Alchemical Metals (choose, or roll 1d).
 
-| _Roll_ | Order   | Nickname | Element(s) |
+| Roll   | Order   | Nickname | Element(s) |
 |--------|---------|----------|------------|
 | 1      | Mercury | Undine, "Selkies" | Water, ice, technology, speed; rivers |
 | 2      | Copper  | Dryads   | Growth and decay; forests and swamps |
@@ -18,10 +18,23 @@ Alchemical Knights believed -- and named their military orders after -- the Alch
 | -1     | Orichalcum | Kaustos  | Deserts. Mirages. Miracles. Loss. |
 {:.tablecol}
 
-Use your order to help you decide on your princess' theme and abilities.
-It doesn't have to be a straightjacket; while in Alembic these Orders were some combination of ethnicity, faith, and employment, your alchemical knight was a unique character of special import and destiny.
+and (of course!) as military orders, they had ranks and materials which your princess might remember (choose, or roll 1d for each column):
 
-The princess' _gifts_ flow from her order (and even more specifically, from her titles and attributes within that order). For instance, a Marid might be able to summon a sword of light, but is unlikely to have hydrokinesis; an undine might have power over mist and rain but not rivers (or not _yet_ rivers).
+|   | Rank   | Role      | Posession |
+|---|--------|-----------|-----------|
+| 1 | Pawn   | Laborer   | Cloak     |
+| 2 | Page   | Ranger    | Helm      |
+| 3 | Squire | Cavalry   | Shield    |
+| 4 | Rook   | Scholar   | Wand      |
+| 5 | Bishop | Spy       | Device    |
+| 6 | Knight | Merchant  | Weapon    |
+{:.tablecol}
+
+Use your order to help you decide on your princess' theme and abilities.
+It isn't a straightjacket; while in Alembic these Orders were some combination of ethnicity, faith, and employment, your alchemical knight was a unique character of special import and destiny.
+
+The princess' _gifts_ follow from her traits; more specifically, from her order (and even more specifically, from her titles and attributes within that order).
+For instance, a Marid might be able to summon a sword of light, but is unlikely to have hydrokinesis; an undine might have power over mist and rain but not rivers (or not _yet_ rivers).
 
 # The Order of Mercury: Undines of the Rivers
 

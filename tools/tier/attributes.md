@@ -1,7 +1,7 @@
 ---
 layout: navpage
 title: Attributes
-section: "1.03"
+section: "1.1.1"
 ---
 
 Princesses are the main characters, so instead of having just one personal **tier** like most non-princesses, they have several different values which are used in a few different ways:

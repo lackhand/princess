@@ -1,7 +1,7 @@
 ---
 layout: navpage
 title: Traits
-section: "1.04"
+section: "1.3"
 ---
 
 _Traits_ are salient facts about something in the game.

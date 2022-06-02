@@ -1,7 +1,7 @@
 ---
 layout: navpage
 title: Tier
-section: "1.01"
+section: "1.1"
 ---
 
 Can a normal person knock down a wall by using a piece of dry spaghetti?
@@ -45,15 +45,15 @@ But **tier** can also be used to measure objective quantities like size or count
 
 | Tier | Count | Time       | Size      | Force   |
 |------|-------|------------|-----------|---------|
-| -1   | 1     | A heartbeat | A shoebox | touch   |
-| 0    | 2     | Breath (slow) | A cupboard | shove |
-| I    | 3-5   | Breath (held) | A closet | punch  |
-| II   | 6-11 | A chore  | A room      | hammer    |
-| III  | 12-24 | A movie  | A suite     | sledgehammer |
-| IV   | 25-49 | Overnight | A house    | bomb     |
-| V    | 50-99 | A weekend | A tower    | cannon   |
-| VI   | 100-249 | A week   | A campus    | hurricane |
-| VII+ | 250+ | A month+ | A district+ | destruction |
+| -1   | 1     | A heartbeat | A shoebox | touch  |
+| 0    | 2     | Breath (slow) | A cupboard | shove, candle |
+| I    | 3-5   | Breath (held) | A closet | punch, torch |
+| II   | 6-11 | A chore  | A room      | hammer, gale |
+| III  | 12-24 | A movie  | A suite     | sledgehammer, electrical surge |
+| IV   | 25-49 | Overnight | A house    | bomb, charging horse, forge |
+| V    | 50-99 | A weekend | A tower    | cannon, lightning strike |
+| VI   | 100-249 | A week   | A campus    | hurricane, tidal wave, earthquake |
+| VII+ | 250+ | A month+ | A district+ | utter devastation |
 {:.tablecol}
 
 > Bigger numbers aren't necessarily better; think about why you're comparing things and exactly what you're trying to measure.
@@ -61,7 +61,7 @@ But **tier** can also be used to measure objective quantities like size or count
 > But it might not be!
 {:.note}
 
-### Tier as a single number
+# Tier as a single number
 
 Even though tier gets used to measure adjectives (harder! Faster! Bigger!) it's ok to talk about an object's (single) **tier** for game purpose abstraction.
 For non-princess characters and tools and obstacles, define their **tier** and any traits, and then never look back!
