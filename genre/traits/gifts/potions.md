@@ -22,7 +22,6 @@ Most potions are load 1, but a princess that specializes in potions might take a
 | **Tier 0** |   |
 | Bliss Drug | A pleasurable drug; _stupor_ |
 | Light Oil  | Makes something glow (even if it doesn't want to...) |
-|------------|---|
 | **Tier I** |   |
 | Enlarge Potion | +scale |
 | Fog Oil    | Creates a bank of fog |
@@ -34,7 +33,6 @@ Most potions are load 1, but a princess that specializes in potions might take a
 | Resistance Oil | Ignore burn/decay/freeze/zap at this level or below |
 | Sleep Dust | Become _fatigued_ (or even fall _asleep_) |
 | Suggestive Dust | _suggestible_ |
-|------------|---|
 | **Tier II** |   |
 | Bezoar Oil  | Protection against decay, poisons & diseases |
 | Choking, Dust of | Feels like _drowning_ |
@@ -51,7 +49,6 @@ Most potions are load 1, but a princess that specializes in potions might take a
 | Teargas Bomb | A mundane choking smoke |
 | Tongues Drug | Become more _talkative_ (and briefly an appropriate _polyglot_) |
 | Webbing Oil | Webbing explosion sticks everything together |
-|------------|---|
 | **Tier III** |   |
 | Concealment, Dust of | Darken & quieten an area; blind and deafen those within (briefly) |
 | Cure Potion | Remove specific poisons and diseases (not _volatile_) |
@@ -64,7 +61,6 @@ Most potions are load 1, but a princess that specializes in potions might take a
 | Lightning Oil | Releases a stroke of lightning on release |
 | Slow Oil   | (all) time passes more slowly for object, including taking less damage |
 | Visions Potion | See & hear through a disembodied sensor, through walls, etc |
-|------------|---|
 | **Tier IV** |   |
 | Confusion, Dust of | Befuddles everyone exposed (also: fear, etc) |
 | Escape, Oil of | Short range teleport |
@@ -81,7 +77,6 @@ Most potions are load 1, but a princess that specializes in potions might take a
 | Wall of Fire/Ice/Lightning, Bomb | Break to release |
 | Wisdom Drug | Improved focus, mental clarity and reasoning (then afterwards, Harm II _disassociated_) |
 | Vicious Oil | Creates horrifying rotten wounds by touch |
-|------------|---|
 | **Tier V** |   |
 | Big Bomb   | A mundane (large) explosive device (like C4) |
 | Cloudkill Bomb | A fog of deadly gas |
@@ -90,10 +85,10 @@ Most potions are load 1, but a princess that specializes in potions might take a
 | Feeblemind Dust | Mind blasts the consumer |
 | Passwall Oil | Opens a barrier (splitting water, stone, earth, etc) |
 | Softening Oil | Structural rock becomes mud, returns stone to flesh etc |
-|------------|---|
 | **Tier VI** |   |
 | Anti-magic bomb | Create a completely mundane space in which nothing magical operates |
 | Disintegration, Dust of | Destroy something/someone utterly |
 | Geas Potion | Compels obedience to a sworn oath |
 | Petrification, Dust of | Freezes & petrifies a creature |
 | Slaying Venom | Kills a sort of creature |
+
