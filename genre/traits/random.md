@@ -40,9 +40,9 @@ These _traits_ determine the ways in which your princess differs from the others
 Your _traits_ are also how you tell us about your princess' background, interests, skills and knacks.
 You should pick these yourself, but if you need some inspiration, you could roll to see what that sparks:
 
-|   | **1**   | **2**   | **3**   | **4**   | **5**   | **6**   |
-|---|---------|---------|---------|---------|---------|---------|
-|   | _Quality_ | _Origin_  | _"Major"_ | _Family_  | _Job_     | _"Flaws"_ |
+|   | **1**     | **2**    | **3**     | **4**    | **5** | **6**     |
+|---|-----------|----------|-----------|----------|-------|-----------|
+|   | _Quality_ | _Origin_ | _"Major"_ | _Family_ | _Job_ | _"Flaws"_ |
 | 1 | Careful | Townie | Metalshop | Feral | Corporate | Flaky |
 | 2 | Clever | Big City | Techie | Academied | Shrine | Nervous |
 | 3 | Flashy | West Coast | Vet  | Big Family | Spa  | Vain |
