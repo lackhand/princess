@@ -15,7 +15,7 @@ Now she has a new, strange family and her old family both.
 
 | Danger | Intrigue | Charm | Favor |
 |--------|----------|-------|-------|
-| I      | I        | I     | ()()() ()()() ()()() |
+| I      | I        | I     | ()()() ()()() ()()() () |
 |--------|----------|-------|-------|
 | **XP** | ()()()()() | **Advances** |       |
 
@@ -29,7 +29,7 @@ Now she has a new, strange family and her old family both.
 
 Memories of Alembic
 : You are a reincarnated soul of Alembic.
-  : Spend 2 favor to roll 4d on a risk roll (regardless of actual approach).
+  : +1 favor (included)
 
 Focused
 : Once when you _transform_, reduce a **consequence** of surprise or mental harm (fear, confusion, losing track of someone) or _push_ yourself for ranged combat or tracking.
@@ -55,13 +55,15 @@ Kind
   : Without breaking the genre, choose vengeance.
 {:.key}
 
+
+
 # Gifts
 
-| Gift | () ()() ()()() ()()()() |
-|------|-------------------------|
-|      |                         |
-|      |                         |
-|      |                         |
-|      |                         |
-|      |                         |
-|      |                         |
+| Gift | () ()() ()()() |
+|------|----------------|
+|      |                |
+|      |                |
+|      |                |
+|      |                |
+|      |                |
+|      |                |

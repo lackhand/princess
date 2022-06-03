@@ -28,11 +28,12 @@ She doesn't know why or how she woke up outside of Danvers, but has spent the la
 # Secrets
 
 Sleeper of Alembic
-  : You survived the fall of Alembic by being a statue, and awoke by accident
-    : +1 favor (included)
+: You survived the fall of Alembic by being a statue, and awoke by accident
+  : +1d when you defy a supernatural consequence.
+  : +1d when you gather information about a relic of Alembic.
 
 Ambush
-  : When you attack from hiding or spring a trap, you get +1d to your roll.
+: When you attack from hiding or spring a trap, you get +1d to your roll.
 {:.secret}
 
 
@@ -54,14 +55,16 @@ Harbinger of Dawn
   : Abandon or redefine the mission.
 {:.key}
 
+
+
 # Gifts
 
-| Gift | () ()() ()()() ()()()() |
-|------|-------------------------|
-|      |                         |
-|      |                         |
-|      |                         |
-|      |                         |
-|      |                         |
-|      |                         |
+| Gift | () ()() ()()() |
+|------|----------------|
+|      |                |
+|      |                |
+|      |                |
+|      |                |
+|      |                |
+|      |                |
 

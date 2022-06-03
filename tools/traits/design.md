@@ -1,23 +1,46 @@
 ---
 layout: navpage
 title: Designing Gifts
-section: "2.3.5.1"
+section: "1.3.2"
 ---
 
 This is sort of a metagame procedure: it defines what the gift does as a conversation between the princess' player & the narrator.
+This is useful to add texture to a _gift_ that goes beyond making its _trait_ available.
 
 Before beginning, work together to design the gift:
 
 * Narrator asks: "What type of gift is this and what does it do?"
   * Princess answers.
     * A gift might be mundane, alchemical, chimerical, thaumaturgic, or ritual;
-    * A companion might be dangerous, intriguing, charming, or of rank
 * Princess asks: "What’s the minimum quality tier of this gift?"
   * Narrator answers, with the magnitude of the effects the gift produces as a guideline
 * Narrator asks: "What rare, strange, or adverse aspect of this formula or design has kept it in obscurity, out of common usage?"
   * Princess answers
 * Princess asks: "What _drawbacks_ does this gift have, if any?"
   * Narrator answers with zero or more drawbacks
+
+If the princess has an appropriate secret, she get bonuses when inventing (and crafting, borrowing, or befriending) certain creation types!
+
+# Measuring effect
+
+Eyeball the tier of the gift based on what it does. 
+* Start with the magnitude of its effect
+* Adjust for each of its unusual scale, scope, range, or duration
+
+Very flexible gifts like "chance control" make great _traits_, but should be broken down significantly into specific gifts to fit under the princess' _burden_ during a session (_weaponized clumsiness_ for instance).
+
+# Drawbacks
+
+These are just examples.
+
+| Drawbacks | Description |
+|-----------|-------------|
+| Complex   | Crafting requires X activities, each of which has to beat the tier (often 3) |
+| Troublesome | Take +X if it's used any number of times in a session (often 1) |
+| Consumable | 1 use per session (or rarely, 2-3). All alchemicals and rituals have this. |
+| Rare      | Crafting (& researching) requires fictional positioning |
+| Unreliable | When used, fortune roll (at **tier**) to see how it performs |
+| Volatile  | User (not target!) faces **consequence** (like Harm I _dizzy_) |
 
 If the princess has an appropriate secret, she get bonuses when inventing (and crafting, borrowing, or befriending) certain creation types!
 
@@ -54,7 +77,9 @@ Or for introducing companion characters or services:
 
 * Narrator asks: "Who is this companion, and what makes them special?"
   * Princess answers
-* Princess asks: "What are the **costs** (and **risks** and **consequences**) of asking for their aid?"
+  * A companion or pet might be dangerous, intriguing, charming, or of rank (and bad at other rolls)
+* Princess asks: "What are the **costs** of asking for their aid?"
   * Narrator answers
+  * This might cost _downtime action_(s), an adventure, **favor**, and/or load worth of payment
 * Narrator asks: "What new belief or fear does knowledge of this person and their attendant social forces instill in you?"
   * Princess answers

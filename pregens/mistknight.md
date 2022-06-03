@@ -14,7 +14,7 @@ In her past life, she was Hydropheria, mistwatcher of the north, guardian of the
 
 | Danger | Intrigue | Charm | Favor |
 |--------|----------|-------|-------|
-| 0      | II       | I     | ()()() ()()() ()()() |
+| 0      | II       | I     | ()()() ()()() ()()() () |
 |--------|----------|-------|-------|
 | **XP** | ()()()()() | **Advances** |       |
 
@@ -28,8 +28,8 @@ In her past life, she was Hydropheria, mistwatcher of the north, guardian of the
 
 Memories of Alembic
 : You are a reincarnated soul of Alembic.
-  : Spend 2 favor to roll 4d on a risk roll (regardless of actual approach).
-
+  : +1 favor (included)
+s
 Analyst
 : During downtime, you get two ticks to distribute among any long term project clocks that involve investigation or learning a new formula or design plan.
 {:.secret}
@@ -54,14 +54,15 @@ Secret Identity
   : Reveal both halves of your identity to your family.
 {:.key}
 
+
+
 # Gifts
 
-| Gift | () ()() ()()() ()()()() |
-|------|-------------------------|
-|      |                         |
-|      |                         |
-|      |                         |
-|      |                         |
-|      |                         |
-|      |                         |
-
+| Gift | () ()() ()()() |
+|------|----------------|
+|      |                |
+|      |                |
+|      |                |
+|      |                |
+|      |                |
+|      |                |

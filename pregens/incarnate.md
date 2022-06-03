@@ -31,8 +31,7 @@ He found Dawn after a few years, and they've been looking for any sign of other 
 
 Incarnate of Alembic
 : Now you're a cat.
-  : +1d when you defy a supernatural consequence.
-  : +1d when you gather information about a relic of Alembic.
+  : Penalties from harm are 1 level less severe for you
   
 Arcane mind
 : You’re always aware of supernatural entities in your presence.
@@ -59,14 +58,15 @@ Kills Monsters
   : Acquire a trauma in battle with a monster.
 {:.key}
 
+
+
 # Gifts
 
-| Gift | () ()() ()()() ()()()() |
-|------|-------------------------|
-|      |                         |
-|      |                         |
-|      |                         |
-|      |                         |
-|      |                         |
-|      |                         |
-
+| Gift | () ()() ()()() |
+|------|----------------|
+|      |                |
+|      |                |
+|      |                |
+|      |                |
+|      |                |
+|      |                |

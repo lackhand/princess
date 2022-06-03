@@ -15,7 +15,7 @@ In her past life, she was Phlogista, stormcaptain and privateer.
 
 | Danger | Intrigue | Charm | Favor |
 |--------|----------|-------|-------|
-| I      | 0        | II    | ()()() ()()() ()()() |
+| I      | 0        | II    | ()()() ()()() ()()() () |
 |--------|----------|-------|-------|
 | **XP** | ()()()()() | **Advances** |       |
 
@@ -29,7 +29,7 @@ In her past life, she was Phlogista, stormcaptain and privateer.
 
 Memories of Alembic
 : You are a reincarnated soul of Alembic.
-  : Spend 2 favor to roll 4d on a risk roll (regardless of actual approach).
+  : +1 favor (included)
 
 Warded
 : Once when you _transform_, reduce a supernatural **consequence**, or to _push_ yourself when you contend with or employ arcane forces.
@@ -55,14 +55,15 @@ Bold
   : Back down from a challenge.
 {:.key}
 
+
+
 # Gifts
 
-| Gift | () ()() ()()() ()()()() |
-|------|-------------------------|
-|      |                         |
-|      |                         |
-|      |                         |
-|      |                         |
-|      |                         |
-|      |                         |
-
+| Gift | () ()() ()()() |
+|------|----------------|
+|      |                |
+|      |                |
+|      |                |
+|      |                |
+|      |                |
+|      |                |

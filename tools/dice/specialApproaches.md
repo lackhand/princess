@@ -24,6 +24,7 @@ When something is important, it's all on the line, and a princess needs to win, 
   * Is this bold (unexpected or awesome)? +1d
   * Is this curious (what could we learn, what exploration does it reward)? +1d
   * Is this true (to herself & the circumstances)? +1d
+  * Note: if you've acquired _trauma_, your questions are different.
 
 > Answer the agenda questions out loud!
 > It's genre appropriate to externalize your emotions in this way, and it tells us your princess' truth.

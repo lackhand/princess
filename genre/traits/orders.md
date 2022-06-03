@@ -1,7 +1,7 @@
 ---
 layout: navpage
 title: The Elemental Orders of Alembic
-section: "2.3.4"
+section: "2.3.3"
 ---
 
 Alchemical Knights believed -- and named their military orders after -- the Alchemical Metals (choose, or roll 1d).

@@ -1,7 +1,7 @@
 ---
 layout: navpage
 title: Celestial Rituals
-section: "2.3.5.7"
+section: "2.3.5.3"
 ---
 
 Celestials are abstract beings that wait to be called by the appropriate rites.
@@ -16,8 +16,8 @@ Their gifts await only the proper contact, the proper invitation.
 
 Rituals make contact with, channel, and manipulate these entities. If this sounds dangerous, that's because it is!
 
-Mechanically, they're no different than other items: they're invented, and then they're crafted during downtime: the scroll is inscribed, the materials gathered, and the ritual circle prepared.
-Actually performing the ritual then follows, and could be anything; a five hour poetry recital, or merely thinking about a glyph.
+Mechanically, they're no different than other items: they're invented, and then they're "crafted" during downtime: the scroll is inscribed, the materials gathered, and the ritual circle prepared.
+After that action, the effect takes place at some future date; that could be at the conclusion of a five hour poetry recital, or as soon as the caster pictures a glyph in their mind.
 
 Generic rituals whose effects are fairly understood include:
 
@@ -26,28 +26,34 @@ Generic rituals whose effects are fairly understood include:
 | **Tier I** | |
 | Protect | Spirits & energies are repelled by the space/object/person |
 | Tongues | Write and speak any language compellingly |
+|------------|---|
 | **Tier II** | |
 | Bless | You dedicate a space/person/object for a purpose like training, ritual, etc |
 | Conjure | Animate a corpse or object, summon an imp or elemental, etc |
 | Dowse | Find or become aware of objects & minds, pierce hide; see in the dark |
 | Hide | Makes something trying to hide imperceptible |
 | Punish | You lay a curse on someone upon & until conditions you set (as poison, disease, etc) |
+|------------|---|
 | **Tier III** | |
 | Cure | Magically remove a poison, disease, curse, possession, etc |
 | Scry | See and find things you have no way to know |
 | Travel | Fly, breathe water, open hidden roads, etc |
 | Weave | Suppress, dispel, or empower other magic |
+|------------|---|
 | **Tier IV** | |
 | Domain | General blight or bounty, terrain, and population control in a farm at your mood |
 | Veil | As Hide, but also terrain, with illusory replacement|
 | Move Earth | Manipulate terrain, turn rock to mud, part water, build walls, etc |
+|------------|---|
 | **Tier V** | |
 | Legend Lore | Allegorical visions of the future or past |
 | Reincarnate | Copy or replace a creature's mind, body, and soul (with imperfections for each) |
 | Teleport | Be elsewhere now |
+|------------|---|
 | **Tier VI** | |
 | Force of Nature | Point control of earthquakes, stampedes, fires, hurricanes, etc |
 | Binding | Trap, imprison & release any powers, spirits, and other beings you come across |
+|------------|---|
 | **Tier VII** | |
 | Demiplane | Create a magical space you control (or remove a real space to such a space) |
 {:.tablecol}
