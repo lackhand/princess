@@ -44,7 +44,7 @@ A "philtre" is a cross between a potion and a poison. If the alchemical knight d
 | **Tier III** |   |
 | Cure Potion | Remove specific poisons and diseases |
 | Dispelling, Oil of | Halts & suppresses the effect of other alchemicals; dissolves binding |
-| Drowning Philtre | Breathe underwater for a night (but: _can't breathe air_)|
+| Drowning Philtre | Breathe underwater for a night (but: _can't breathe air_) |
 | Fire Oil | Explodes into a fireball on contact with air |
 | Haste Potion | +effect in danger & intrigue (then: _dazed_) |
 | Mind Reading Potion | Detect & contact minds |
