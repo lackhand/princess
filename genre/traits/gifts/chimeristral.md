@@ -1,7 +1,7 @@
 ---
 layout: navpage
 title: Chimeristral Gifts
-section: "2.3.5.4"
+section: "2.3.6.4"
 ---
 
 There are two branches of chimeristry: breeding and controlling new creatures (Chimeric), and enhancing or altering oneself or others (Chirurgic).

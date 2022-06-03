@@ -1,7 +1,7 @@
 ---
 layout: navpage
 title: Thaumaturgic Relics
-section: "2.3.5.2"
+section: "2.3.6.2"
 ---
 
 Alembic was a magical society with unusual materials and all sorts of wonders: farcast voices, many league boots, flying carpets, golem labor, and wands which could summon or channel forces. These objects are now called relics.

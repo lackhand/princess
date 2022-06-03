@@ -1,7 +1,7 @@
 ---
 layout: navpage
 title: Alchemical Potions
-section: "2.3.5.1"
+section: "2.3.6.1"
 ---
 
 These work by extracting the salts, sulfurs, and mercury essences of mundane and magical substances; commonly called Potions (though that also refers to a specifically quaffed potion).

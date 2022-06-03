@@ -1,7 +1,7 @@
 ---
 layout: navpage
 title: Celestial Rituals
-section: "2.3.5.3"
+section: "2.3.6.3"
 ---
 
 Celestials are abstract beings that wait to be called by the appropriate rites.

@@ -1,7 +1,7 @@
 ---
 layout: navpage
 title: Specific Gifts
-section: "2.3.5"
+section: "2.3.6"
 ---
 
 > I'm going to put on a scuba tank so the poison elemental can't get me!  
