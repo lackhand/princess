@@ -53,7 +53,7 @@ A "philtre" is a cross between a potion and a poison. If the alchemical knight d
 | Paralysis Poison | Holds & paralyzes |
 | Visions Potion | See & hear through a disembodied sensor, through walls, etc |
 | **Tier IV** |   |
-| Confusion, Bottled | Befuddles everyone exposed | 
+| Confusion, Bottled | Befuddles everyone exposed |
 | Escape, Dust of | Short range teleport |
 | Flight Potion | Fly for a period |
 | Growth Potion | +4 levels of scale |
@@ -79,3 +79,4 @@ A "philtre" is a cross between a potion and a poison. If the alchemical knight d
 | Geas Potion | Compels obedience to a sworn oath |
 | Petrification, Dust of | Freezes & petrifies a creature |
 | Slaying Oil | Kills a sort of creature |
+
